@@ -1,541 +1,510 @@
-# Bookmarks
 
-## Cyber Security
-
-- [Penetration Testing Tools - Kali Linux Tools Listing](https://en.kali.tools/)
-## Coding
-
-- [Penetration Testing Tools - Kali Linux Tools Listing](https://en.kali.tools/)
-## Coding
-
-- [silent-install.net [silent-install.net]](https://silent-install.net/start)
-## Passwords
-
-- [silent-install.net [silent-install.net]](https://silent-install.net/start)
-## Passwords
-
-- [API - Make Me a Password](https://makemeapassword.ligos.net/api)
-- [API - Make Me a Password](https://makemeapassword.ligos.net/api)
-## Scripting
-
-- [Documenting with PowerShell Chapter 3: Local Administrator Passwords solution – CyberDrain](https://www.cyberdrain.com/documenting-with-powershell-chapter-3-local-administrator-passwords-solution/)
-- [Documenting with PowerShell Chapter 3: Local Administrator Passwords solution – CyberDrain](https://www.cyberdrain.com/documenting-with-powershell-chapter-3-local-administrator-passwords-solution/)
-- [SharePoint Online: PowerShell to Download All Files from a Document Library - SharePoint Diary](https://www.sharepointdiary.com/2017/03/sharepoint-online-download-all-files-from-document-library-using-powershell.html)
-## Community
-
-- [Pay What You Can - Antisyphon InfoSec Training](https://www.antisyphontraining.com/pay-what-you-can/)
-## Education
-
-- [Pay What You Can - Antisyphon InfoSec Training](https://www.antisyphontraining.com/pay-what-you-can/)
-- [Pay What You Can - Antisyphon InfoSec Training](https://www.antisyphontraining.com/pay-what-you-can/)
-- [HighOn.Coffee • Security Research • Penetration Testing Blog](https://highon.coffee/)
-- [Infosec Training and Penetration Testing | Offensive Security](https://www.offensive-security.com/)
-- [Python Courses & Tutorials | Codecademy](https://www.codecademy.com/catalog/language/python)
-- [Cyber Mentor - #hangout](https://discord.com/channels/542352179059752970/567475988229783594/747436969297969152)
-- [Home - Antisyphon InfoSec Training](https://www.antisyphontraining.com/)
-- [B&B Shuffle by Richard Phung/P3hndrx](https://play.backdoorsandbreaches.com/)
-- [Security Awareness Training | SANS Security Awareness](https://www.sans.org/security-awareness-training)
-- [hackerspaces.org](https://hackerspaces.org/)
-- [Awesome Penetration Testing | Massive Resources & Collection - Google Drive Links](https://googledrivelinks.com/awesome-penetration-testing-massive-resources-collection/)
-## Encryption
-
-- [Base64 Decode and Encode - Online](https://www.base64decode.org/)
-- [Base64 Decode and Encode - Online](https://www.base64decode.org/)
-- [Ultimate Hashing and Anonymity toolkit](https://md5hashing.net/)
-- [spammimic - hide a message in spam](https://www.spammimic.com/index.cgi)
-- [The SNOW Home Page](http://darkside.com.au/snow/)
-- [The Enigma machine: Encrypt and decrypt online — Cryptii](https://cryptii.com/pipes/enigma-machine)
-- [Cipher Identifier (online tool) | Boxentriq](https://www.boxentriq.com/code-breaking/cipher-identifier)
-- [Dehash.me - Hash & Dehash](https://dehash.me/)
-- [Modular conversion, encoding and encryption online — Cryptii](https://cryptii.com/)
-- [Qualys SSL Labs - Projects / SSL Client Test](https://clienttest.ssllabs.com:8443/ssltest/viewMyClient.html)
-- [quipqiup - cryptoquip and cryptogram solver](https://www.quipqiup.com/)
-## News and Feeds
-
-- [CIS Center for Internet Security](https://www.cisecurity.org/)
-## NIST
-
-- [CIS Center for Internet Security](https://www.cisecurity.org/)
-## NIST
-
-- [CVE - Common Vulnerabilities and Exposures (CVE)](http://cve.mitre.org/)
-## NIST
-
-- [CVE security vulnerability database. Security vulnerabilities, exploits, references and more](https://www.cvedetails.com/)
-## NIST
-
-- [Cyber Security News Today](https://cyware.com/cyber-security-news-articles)
-## NIST
-
-- [Dark Reading | Security | Protect The Business - ...](https://www.darkreading.com/)
-## NIST
-
-- [Huntress Blog](https://www.huntress.com/blog)
-## NIST
-
-- [InfraGard](https://www.infragard.org/)
-## NIST
-
-- [MITRE ATT&CK®](https://attack.mitre.org/)
-## NIST
-
-- [NVD](https://nvd.nist.gov/)
-## NIST
-
-- [OWASP Foundation | Open Source Foundation for Application Security](https://owasp.org/)
-## NIST
-
-- [vsociety](https://www.vicarius.io/vsociety/)
-## NIST
-
-- [Welcome to the Cyber Analytics Repository | MITRE Cyber Analytics Repository](https://car.mitre.org/)
-## NIST
-
-- [Information Security Policy Templates | SANS Institute](https://www.sans.org/information-security-policy/)
-- [Information Security Policy Templates | SANS Institute](https://www.sans.org/information-security-policy/)
-- [NIST-CSF-Policy-Template-Guide-2020-0720-1.pdf](https://www.cisecurity.org/wp-content/uploads/2020/07/NIST-CSF-Policy-Template-Guide-2020-0720-1.pdf)
-- [Cyber Security Training | SANS Courses, Certifications & Research](https://www.sans.org/)
-- [Packet Storm](https://packetstormsecurity.com/)
-- [Vulners](https://vulners.com/search?order:published)
-- [U.S. Department of Health & Human Services - Office for Civil Rights](https://ocrportal.hhs.gov/ocr/breach/breach_report.jsf)
-- [Homepage | CISA](https://us-cert.cisa.gov/)
-- [News - Cybersecurity Insiders](https://www.cybersecurity-insiders.com/)
-- [Krebs on Security – In-depth security news and investigation](https://krebsonsecurity.com/)
-## Vulnerabilities
-
-- [Nikto2 | CIRT.net](https://cirt.net/Nikto2)
-## Website
-
-- [Nikto2 | CIRT.net](https://cirt.net/Nikto2)
-- [Nikto2 | CIRT.net](https://cirt.net/Nikto2)
-- [bWapp](http://www.itsecgames.com/)
-- [Cookie-Editor - Chrome Web Store](https://chrome.google.com/webstore/detail/cookie-editor/hlkenndednhfkekhgcdicdfddnkalmdm/related)
-- [Dashboard](https://dashboard.caido.io/#/overview)
-- [RedStack Cyber Security Education](https://app.redstack.io/search)
-- [Working for an MSP.docx - Microsoft Word Online](https://onedrive.live.com/edit.aspx?resid=D35646DDB2EED15C!35615&app=Word&wdnd=1&wdPreviousSession=1ebdd828%2D77bc%2D4c3b%2Daef2%2De12a08b1b067)
-## SQL Injection
-
-- [SQL Injection Testing Tutorial (Example and Prevention of SQL Injection Attack)](https://www.softwaretestinghelp.com/sql-injection-how-to-test-application-for-sql-injection-attacks/)
-- [SQL Injection Testing Tutorial (Example and Prevention of SQL Injection Attack)](https://www.softwaretestinghelp.com/sql-injection-how-to-test-application-for-sql-injection-attacks/)
-- [SQL Injection Software Attack | OWASP Foundation](https://owasp.org/www-community/attacks/SQL_Injection)
-- [Havij - Advanced Automated SQL Injection Tool - Darknet](https://www.darknet.org.uk/2010/09/havij-advanced-automated-sql-injection-tool/)
-- [Havij Download – Advanced Automated SQL Injection Tool](https://kalilinuxtutorials.com/havij-download-sql-injection/)
-- [sqlmap: automatic SQL injection and database takeover tool](https://sqlmap.org/)
-## Tools
-
-- [Download Nessus Vulnerability Assessment | Tenable®](https://www.tenable.com/products/nessus)
-- [Download Nessus Vulnerability Assessment | Tenable®](https://www.tenable.com/products/nessus)
-- [Snort](https://snort.org/)
-- [Metasploit Unleashed](https://www.offensive-security.com/metasploit-unleashed/requirements/)
-- [Installing OpenVAS on Kali](https://www.geeksforgeeks.org/installing-openvas-on-kali-linux/)
-- [openvas | Containers for running the Greenbone Vulnerability Manager. Run as a single container with all services or separate single applications containers via docker-compose.](https://immauss.github.io/openvas/)
-## Bug Bounties
-
-- [Bug Bounty Program List - All Active Programs in 2021 | Bugcrowd](https://www.bugcrowd.com/bug-bounty-list/)
-- [Bug Bounty Program List - All Active Programs in 2021 | Bugcrowd](https://www.bugcrowd.com/bug-bounty-list/)
-- [Search Engine for Security Intelligence | Vulners](https://vulners.com/)
-- [Offensive Security’s Exploit Database Archive](https://www.exploit-db.com/)
-- [Cybersecurity Search Engine | Criminal IP](https://www.criminalip.io/)
-## Malicious
-
-- [Cuckoo Sandbox - Automated Malware Analysis](https://cuckoosandbox.org/)
-- [Cuckoo Sandbox - Automated Malware Analysis](https://cuckoosandbox.org/)
-- [GitHub - cobbr/Covenant: Covenant is a collaborative .NET C2 framework for red teamers.](https://github.com/cobbr/Covenant)
-- [Interactive Online Malware Analysis Sandbox - ANY.RUN](https://app.any.run/)
-- [LOLBAS](https://lolbas-project.github.io/)
-- [Malware Analysis Service](https://www.hybrid-analysis.com/)
-- [MalwareBazaar | Malware sample exchange](https://bazaar.abuse.ch/)
-- [pwndrop: Self-deployable file hosting service for red teamers, allowing to easily upload and share payloads over HTTP and WebDAV.](https://github.com/kgretzky/pwndrop)
-- [theZoo - A Live Malware Repository](https://thezoo.morirt.com/)
-- [Virus-Samples/Malware-Sample-Sources: Malware Sample Sources](https://github.com/Virus-Samples/Malware-Sample-Sources)
-- [VirusTotal](https://www.virustotal.com/gui/home/upload)
-- [REMnux: A Linux Toolkit for Malware Analysts](https://remnux.org/)
-- [Free Malware Sample Sources for Researchers](https://zeltser.com/malware-sample-sources/)
-- [vxunderground/MalwareSourceCode: Collection of malware source code for a variety of platforms in an array of different programming languages.](https://github.com/vxunderground/MalwareSourceCode)
-## Passwords
-
-- [Bitwarden Web Vault](https://vault.bitwarden.com/#/lock)
-- [Bitwarden Web Vault](https://vault.bitwarden.com/#/lock)
-- [Random Passphrase Generator](https://randompassphrasegenerator.com/)
-- [DinoPass - Simple password generator](https://www.dinopass.com/)
-- [Password Strength Meter](https://www.passwordmonster.com/)
-- [CrackStation - Online Password Hash Cracking - MD5, SHA1, Linux, Rainbow Tables, etc.](https://crackstation.net/)
-## Programming
-
-- [API Documentation & Design Tools for Teams | Swagger](https://swagger.io/)
-- [API Documentation & Design Tools for Teams | Swagger](https://swagger.io/)
-## Simulations / CTF
-
-- [PentesterLab: Our exercises](https://pentesterlab.com/exercises?dir=desc&only=free&sort=published_at)
-- [PentesterLab: Our exercises](https://pentesterlab.com/exercises?dir=desc&only=free&sort=published_at)
-- [OWASP Broken Web Applications](https://owasp.org/www-project-broken-web-applications/)
-- [OWASP WebGoat - Learn the hack - Stop the attack](https://owasp.org/www-project-webgoat/)
-- [OverTheWire: Bandit](https://overthewire.org/wargames/bandit/)
-- [Hack The Box :: Penetration Testing Labs](https://www.hackthebox.eu/)
-- [BAM CTF](https://bamctf.com/)
-- [CTFtime.org / All about CTF (Capture The Flag)](https://ctftime.org/)
-- [ctfandcigars - Twitch](https://www.twitch.tv/ctfandcigars)
-- [Red Team Village - Cybersecurity Training and Briefings](https://redteamvillage.io/)
-- [CTF Practice | zaratec](https://zaratec.github.io/ctf-practice/)
-- [247CTF - Dashboard](https://247ctf.com/dashboard)
-- [TryHackMe | Cyber Security Training](https://tryhackme.com/)
-## Honeypot
-
-- [Developments of the Honeyd Virtual Honeypot](http://www.honeyd.org/)
-- [Developments of the Honeyd Virtual Honeypot](http://www.honeyd.org/)
-- [dionaea honeypot - Google Search](https://www.google.com/search?client=firefox-b-1-d&q=dionaea+honeypot)
-- [github honeypot - Google Search](https://www.google.com/search?client=firefox-b-1-d&q=github+honeypot)
-- [HoneyBOT - the windows honeypot](https://www.atomicsoftwaresolutions.com/)
-- [The Honeynet Project – Honeypot research](https://www.honeynet.org/)
-- [Canarytokens](https://canarytokens.org/generate)
-- [strandjs/IntroLabs: These are the labs for my Intro class. Yes, this is public. Yes, this is intentional.](https://github.com/strandjs/IntroLabs)
-- [Getting Started | Canarytokens](https://docs.canarytokens.org/guide/getting-started.html#how-canarytokens-work-in-3-short-steps)
-## Compliance / Policies
-
-- [Incident Response Playbooks | FRSecure](https://frsecure.com/blog/incident-response-playbooks/)
-- [Incident Response Playbooks | FRSecure](https://frsecure.com/blog/incident-response-playbooks/)
-- [Files · main · Public Incident Response Ressources / Public Playbooks · GitLab](https://gitlab.com/syntax-ir/playbooks/-/tree/main/)
-- [Huntress - Incident Response Checklist.pdf](https://www.huntress.com/hubfs/Huntress%20-%20Incident%20Response%20Checklist.pdf)
-- [Federal Government Cybersecurity Incident and Vulnerability Response Playbooks - Federal_Government_Cybersecurity_Incident_and_Vulnerability_Response_Playbooks_508C.pdf](https://www.cisa.gov/sites/default/files/publications/Federal_Government_Cybersecurity_Incident_and_Vulnerability_Response_Playbooks_508C.pdf)
-- [NIST MEP CYBERSECURITY Self-Assessment Handbook for Assessing NIST SP 800-171 Security Requirements in Response to DFARS Cybersecurity Requirements | NIST](https://www.nist.gov/publications/nist-mep-cybersecurity-self-assessment-handbook-assessing-nist-sp-800-171-security)
-- [Exostar Compliance Documents](https://my.exostar.com/display/TE/PIM+Form+Resources#PIMFormResources-CSCRMQ)
-- [Exostar NIST 800-171 - Exostar Documentation](https://exostar.atlassian.net/wiki/spaces/EN8/overview?homepageId=72777866)
-## Forensics
-
-- [Autopsy - Digital Forensics](https://www.autopsy.com/)
-- [Autopsy - Digital Forensics](https://www.autopsy.com/)
-## OSINT
-
-- [FreeCarrierLookup.com](https://www.freecarrierlookup.com/)
-- [FreeCarrierLookup.com](https://www.freecarrierlookup.com/)
-- [DeviceHunt](https://devicehunt.com/)
-- [Network-Tools NSLookup](https://network-tools.com/nslookup/)
-- [Foca | Innovation and Lab | Telefónica Cyber Security Tech](https://www.elevenpaths.com/innovation-labs/technologies/foca)
-- [GeoGuessr- The Top Tips, Tricks and Techniques | The Digital Labyrinth](https://somerandomstuff1.wordpress.com/2019/02/08/geoguessr-the-top-tips-tricks-and-techniques/)
-- [GeoGuessr - Let's explore the world!](https://www.geoguessr.com/)
-- [Jeffrey Friedl's Image Metadata Viewer](http://exif.regex.info/exif.cgi)
-## Hardware
-
-- [Top Pentest Devices](https://shop.hak5.org/)
-- [Top Pentest Devices](https://shop.hak5.org/)
-- [Arduino - Software](https://www.arduino.cc/en/Main/Software)
-- [CedArctic/DigiSpark-Scripts: USB Rubber Ducky type scripts written for the DigiSpark.](https://github.com/CedArctic/DigiSpark-Scripts)
-- [DigisparkArduinoIntegration/libraries/DigisparkKeyboard at master · digistump/DigisparkArduinoIntegration · GitHub](https://github.com/digistump/DigisparkArduinoIntegration/tree/master/libraries/DigisparkKeyboard)
-## Social Engineering
-
-- [Gophish - Open Source Phishing Framework](https://getgophish.com/)
-- [Gophish - Open Source Phishing Framework](https://getgophish.com/)
-- [OSINT Framework](https://osintframework.com/)
-- [PhishTACO | Phishing Security Software](https://www.phishtaco.com/)
-- [ShellPhish: Modded version of shellphish. Mod Features are Colourized Text, Animations, In built setup for Termux, Extra features, More improvements, Bugs cleared, Fixed URL not showing.](https://github.com/AbirHasan2005/ShellPhish)
-- [elceef/dnstwist: Domain name permutation engine for detecting homograph phishing attacks, typo squatting, and brand impersonation](https://github.com/elceef/dnstwist)
-- [urbanadventurer/urlcrazy: Generate and test domain typos and variations to detect and perform typo squatting, URL hijacking, phishing, and corporate espionage.](https://github.com/urbanadventurer/urlcrazy)
-- [dnstwist | phishing domain scanner](https://dnstwist.it/)
-## Mobile Hacking
-
-- [Android x86 Virtual Machine images for VMware and VirtualBox](https://www.osboxes.org/android-x86/)
-- [Android x86 Virtual Machine images for VMware and VirtualBox](https://www.osboxes.org/android-x86/)
-- [Noxplayer – Fastest and Smoothest Android Emulator for PC & Mac – Free and Safe](https://www.bignox.com/)
-## Concealment
-
-- [Steganography: The Art of Concealing](https://www.hackingarticles.in/steganography-the-art-of-concealing/)
-- [Steganography: The Art of Concealing](https://www.hackingarticles.in/steganography-the-art-of-concealing/)
-- [Temp Mail - Disposable Temporary Email](https://temp-mail.org/en/)
-- [Receive SMS Online | Temporary and Disposable Phone Numbers](https://smsreceivefree.com/)
-## OSINT / Company
-
-- [Pentesting Web checklist - Pentest Book](https://pentestbook.six2dez.com/others/web-checklist)
-## OSINT / Company
-
-- [Crunchbase](https://www.crunchbase.com/)
-- [Crunchbase](https://www.crunchbase.com/)
-- [Ezilion](http://www.ezilon.com/)
-- [Glassdoor](https://www.glassdoor.com/)
-- [Guidestar](http://www.guidestar.org/)
-- [Orbis Directory](http://orbisdirectory.bvdinfo.com/version-20161014/OrbisDirectory/Companies)
-- [OpenCorporates](https://opencorporates.com/)
-- [Owler](https://www.owler.com/)
-- [Scoot](http://www.scoot.co.uk/)
-- [Serpstat](https://serpstat.com/)
-- [Spyfu](http://www.spyfu.com/)
-- [Accuranker](https://www.accuranker.com/)
-- [Canadian Business Research](https://www.canada.ca/en/services/business/research.html)
-- [Europages](http://www.europages.co.uk/)
-- [Overseas Company Records](https://www.gov.uk/government/publications/overseas-registries/overseas-registries)
-- [Wikipedia National Company Registers](https://en.wikipedia.org/wiki/List_of_company_registers)
-## OSINT / Internet Scan
-
-- [Ahrefs](https://ahrefs.com/)
-- [Ahrefs](https://ahrefs.com/)
-- [Alexa](http://www.alexa.com/)
-- [Builtwith](http://builtwith.com/)
-- [ExoneraTor Tor Relay Search](https://exonerator.torproject.org/)
-- [Follow.net](http://follow.net/)
-- [Greynoise](http://greynoise.io/)
-- [Intelx.io](https://intelx.io/)
-- [IP Fingerprints](http://www.ipfingerprints.com/)
-- [IntelliTamper](http://www.softpedia.com/get/Internet/Other-Internet-Related/IntelliTamper.shtml)
-- [Netcraft Site Report](https://sitereport.netcraft.com/)
-- [Moz Research Tools OSE](https://moz.com/researchtools/ose)
-- [Shodan](https://shodan.io/)
-- [Robtex](https://www.robtex.com/)
-- [DNS Trails](https://securitytrails.com/dns-trails)
-- [Website Informer](http://website.informer.com/)
-- [WaybackMachine](http://archive.org/)
-- [DNS Dumpster](https://dnsdumpster.com/)
-- [MX Toolbox](https://mxtoolbox.com/)
-- [View DNS](http://viewdns.info/)
-- [Who Is Hosting This](http://www.whoishostingthis.com/)
-- [Whoisology](https://whoisology.com/)
-## OSINT / Email Search
-
-- [EmailHippo](https://tools.verifyemailaddress.io/)
-- [EmailHippo](https://tools.verifyemailaddress.io/)
-- [Have I Been Pwned](https://haveibeenpwned.com/)
-- [Hunter.io](https://hunter.io/)
-- [Thats Them](https://thatsthem.com/reverse-email-lookup)
-- [Toofr](https://www.toofr.com/)
-- [Verify Email](http://verify-email.org/)
-## OSINT / Phone Number
-
-- [Free Carrier Lookup](http://freecarrierlookup.com/)
-- [Free Carrier Lookup](http://freecarrierlookup.com/)
-- [National Cellular Directory](https://www.nationalcellulardirectory.com/)
-- [Phone Validator](https://www.phonevalidator.com/index.aspx)
-- [Reverse Phone Lookup](http://www.reversephonelookup.com/)
-- [Spy Dialer](http://spydialer.com/)
-- [Twillo](https://www.twilio.com/lookup)
-- [OpenCNAM](http://opencnam.com/)
-## OSINT / People
-
-- [Alumni.net](http://www.alumni.net/)
-- [Alumni.net](http://www.alumni.net/)
-- [Ancestry](http://www.ancestry.com/)
-- [Classmates](http://www.classmates.com/)
-- [Facesearch](http://facesaerch.com/)
-- [Family Search](https://familysearch.org/)
-- [Family Tree Now](http://www.familytreenow.com/)
-- [Genealogy Links](http://www.genealogylinks.net/)
-- [Homemetry](https://homemetry.com/)
-- [Infobel](http://www.infobel.com/en/world)
-- [Interment](http://www.interment.net/data/search.htm)
-- [International White and Yellow Pages](http://www.wayp.com/)
-- [Itools](http://itools.com/search/people-search)
-- [LittleSis](https://littlesis.org/)
-- [Rocket Reach](http://rocketreach.co/)
-- [Lullar](http://com.lullar.com/)
-- [PeekYou](http://www.peekyou.com/)
-- [Pipl](https://pipl.com/)
-- [Recruitin](http://recruitin.net/)
-- [Faxvin](http://faxvin.com/)
-- [Search Bug](http://www.searchbug.com/)
-- [Skip Ease](http://www.skipease.com/)
-- [SnoopStation](http://snoopstation.com/)
-- [Spokeo](http://www.spokeo.com/)
-- [Switchboard](http://www.switchboard.com/)
-- [ThatsThem](https://thatsthem.com/img/favicon-32x32.png)
-- [Wink](https://webmii.com/v3/img/apple-touch-icon.png)
-- [Wink](http://itools.com/tool/wink-people-search)
-- [Yasni](http://www.yasni.com/)
-- [Zabasearch](http://www.zabasearch.com/)
-- [Zoominfo](http://www.zoominfo.com/)
-- [411 (US)](http://www.411.com/)
-- [Fold3 (US Military Records) - Browse records of US Military members](http://www.fold3.com/)
-- [192 (UK)](http://www.192.com/)
-- [Canada411 (Canada)](http://www.canada411.ca/)
-- [Inmate Location](http://www.bop.gov/inmateloc)
-- [LookUpUK (UK)](http://www.lookupuk.com/)
-- [The National Archives (United Kingdom)](http://www.nationalarchives.gov.uk/)
-- [People Search (Australia)](http://www.peoplesearch.com.au/)
-- [White Pages (US)](http://www.whitepages.com/)
-- [USSearch](http://www.ussearch.com/)
-## OSINT / Maps & Geography
-
-- [Bing Maps](http://www.bing.com/maps)
-- [Bing Maps](http://www.bing.com/maps)
-- [Dominoc925](https://dominoc925-pages.appspot.com/mapplets/cs_mgrs.html)
-- [Google Earth](http://www.google.com/earth)
-- [Google Maps](https://www.google.com/maps)
-- [Google My Maps](https://www.google.com/maps/about/mymaps)
-- [Wireless Network Mapping](https://wigle.net/)
-## OSINT / Search
-
-- [Bing](http://www.bing.com/)
-- [Bing](http://www.bing.com/)
-- [DuckDuckGo](https://duckduckgo.com/)
-- [Google](http://www.google.com/)
-- [Yahoo](http://www.yahoo.com/)
-- [Ask](http://www.ask.com/)
-- [Advangle](http://advangle.com/)
-- [Aol](http://search.aol.com/)
-- [Instya](http://www.instya.com/)
-- [Impersonal.me](http://www.impersonal.me/)
-- [iSeek](http://education.iseek.com/iseek/home.page)
-- [IxQuick](https://www.ixquick.com/)
-- [Lycos](http://www.lycos.com/)
-- [Parseek (Iran)](http://www.parseek.com/)
-- [Search.com](http://www.search.com/)
-- [SurfCanyon](http://www.surfcanyon.com/)
-- [Wolfram Alpha](http://www.wolframalpha.com/)
-- [Alleba (Philippines)](http://www.alleba.com/)
-- [Baidu (China)](http://www.baidu.com/)
-- [Eniro (Sweden)](http://www.eniro.se/)
-- [Goo (Japan)](http://www.goo.ne.jp/)
-- [Najdsi (Slovenia)](http://www.najdi.si/)
-- [Naver (South Korea)](http://www.naver.com/)
-- [Onet.pl (Poland)](http://www.onet.pl/)
-- [SAPO (Portugal)](http://www.sapo.pt/)
-- [Search.ch (Switzerland)](http://www.search.ch/)
-- [Walla (Israel)](http://www.walla.co.il/)
-- [Yandex (Russia)](http://www.yandex.com/)
-- [Offshore Leak Database](https://offshoreleaks.icij.org/)
-- [Search Code](https://searchcode.com/)
-- [Draugiem](https://www.draugiem.lv/)
-- [Baidu Images](http://image.baidu.com/)
-- [Bing Images](http://www.bing.com/images)
-- [Google Image](https://images.google.com/)
-- [Image Identify](https://www.imageidentify.com/)
-- [KarmaDecay](http://karmadecay.com/)
-- [Lycos Image Search](http://search.lycos.com/)
-- [PhotoBucket](http://photobucket.com/)
-- [Picsearch](http://www.picsearch.com/)
-- [Tineye](https://tineye.com/)
-- [Yahoo Image Search](https://images.search.yahoo.com/)
-- [Yandex Images](https://www.yandex.com/images)
-- [FotoForensics](http://www.fotoforensics.com/)
-- [Jeffreys Image Metadata Viewer](http://exif.regex.info/)
-- [DailyMotion](http://www.dailymotion.com/)
-- [Earthcam](http://www.earthcam.com/)
-- [Archive.org Open Source Videos](https://archive.org/details/opensource_movies)
-- [LiveLeak](http://www.liveleak.com/)
-- [Vimeo](https://vimeo.com/)
-- [Yahoo Video Search](http://video.search.yahoo.com/)
-- [YouTube](https://www.youtube.com/)
-- [YouTube Data Viewer](https://www.amnestyusa.org/citizenevidence)
-- [Bing Video](http://www.bing.com/?scope=video)
-- [Search Insights | EchoTrail](https://www.echotrail.io/insights)
-## OSINT / Social Media Tools
-
-- [Glass Door](https://www.glassdoor.co.in/Reviews/index.htm)
-- [Glass Door](https://www.glassdoor.co.in/Reviews/index.htm)
-- [Social Blade](https://socialblade.com/)
-- [Social Searcher](https://www.social-searcher.com/)
-- [Backtweets](http://backtweets.com/)
-- [Twitter Search](http://search.twitter.com/)
-- [Facebook Search](http://search.fb.com/)
-- [Lookup-ID.com](https://lookup-id.com/)
-- [Picodash](https://www.picodash.com/)
-- [Hashtagify](http://hashtagify.me/)
-## OSINT / Social Networks
-
-- [Facebook](http://www.facebook.com/)
-- [Facebook](http://www.facebook.com/)
-- [Instagram](https://www.instagram.com/)
-- [LinkedIn](https://www.linkedin.com/)
-- [Mixi](https://mixi.jp/)
-- [Pinterest](http://www.pinterest.com/)
-- [Reddit](https://www.reddit.com/)
-- [Taringa](http://www.taringa.net/)
-- [Tumblr](https://www.tumblr.com/)
-- [Twitter](https://twitter.com/)
-## OSINT / User Name Check
-
-- [Check User Names](http://www.checkusernames.com/)
-- [Check User Names](http://www.checkusernames.com/)
-- [Knowem](http://www.knowem.com/)
-- [Name Chk](http://www.namechk.com/)
-- [Name Checkr](http://www.namecheckr.com/)
-- [Namecheckup](https://namecheckup.com/)
-- [User Search](http://www.usersearch.org/)
-- [WhatsMyName](https://whatsmyname.app/)
-## OSINT / Email
-
-- [Find email addresses in seconds • Hunter (Email Hunter)](https://hunter.io/search/liongard.com)
-- [Find email addresses in seconds • Hunter (Email Hunter)](https://hunter.io/search/liongard.com)
-- [Phonebook.cz - Intelligence X](https://phonebook.cz/)
-- [Email Finder - Find anyone's email address — Norbert](https://www.voilanorbert.com/)
-- [Email Address Verifier - Validate and Check In Real Time | verifyemailaddress.io](https://tools.emailhippo.com/)
-- [Email Checker - Verify Email Address Online](https://email-checker.net/)
-- [Clearbit Connect - Supercharge Gmail™ - Chrome Web Store](https://chrome.google.com/webstore/detail/clearbit-connect-supercha/pmnhcgfcafcnkbengdcanjablaabjplo?hl=en)
-- [Signup - Intelligence X](https://intelx.io/signup)
-- [DeHashed — #FreeThePassword](https://dehashed.com/)
-## OSINT / Proxy
-
-- [Anonymous Browsing via Proxy Servers with Proxy Switcher](https://www.proxyswitcher.com/)
-- [Anonymous Browsing via Proxy Servers with Proxy Switcher](https://www.proxyswitcher.com/)
-- [OWASP ZAP Zed Attack Proxy | OWASP](https://owasp.org/www-project-zap/)
-## OSINT / Enumeration
-
-- [NetBIOS Enumerator](http://nbtenum.sourceforge.net/)
-- [NetBIOS Enumerator](http://nbtenum.sourceforge.net/)
-- [JXplorer - an open source LDAP browser](http://jxplorer.org/)
-- [Instant IP Address Lookup](https://whatismyipaddress.com/ip-lookup)
-- [DNS Checker - DNS Propagation Check & DNS Lookup](https://www.whatsmydns.net/)
-- [AutoRecon: AutoRecon is a multi-threaded network reconnaissance tool which performs automated enumeration of services.](https://github.com/Tib3rius/AutoRecon)
-- [Nmap Cheat Sheet](https://www.stationx.net/nmap-cheat-sheet/)
-- [Market share for mobile, browsers, operating systems and search engines | NetMarketShare](https://netmarketshare.com/?options=%7B%22filter%22%3A%7B%22%24and%22%3A%5B%7B%22deviceType%22%3A%7B%22%24in%22%3A%5B%22Desktop%2Flaptop%22%5D%7D%7D%5D%7D%2C%22dateLabel%22%3A%22Trend%22%2C%22attributes%22%3A%22share%22%2C%22group%22%3A%22browser%22%2C%22sort%22%3A%7B%22share%22%3A-1%7D%2C%22id%22%3A%22browsersDesktop%22%2C%22dateInterval%22%3A%22Monthly%22%2C%22dateStart%22%3A%222019-11%22%2C%22dateEnd%22%3A%222020-10%22%2C%22segments%22%3A%22-1000%22%7D)
-- [Grabify IP Logger & URL Shortener](https://grabify.link/)
-- [ThreatBook Intelligence｜ThreatBook CTI](https://threatbook.io/)
-- [elceef/dnstwist: Domain name permutation engine for detecting homograph phishing attacks, typo squatting, and brand impersonation](https://github.com/elceef/dnstwist)
-## OSINT / Shodan
-
-- [Shodan 2000](https://2000.shodan.io/#/)
-- [Shodan 2000](https://2000.shodan.io/#/)
-- [Shodan Internet Exposure Dashboard](https://exposure.shodan.io/#/US)
-- [Shodan Search Engine](https://www.shodan.io/dashboard)
-- [FOFA Search Engine](https://en.fofa.info/)
-## OSINT / Google Hacking
-
-- [Google Guide](http://www.googleguide.com/)
-- [Google Guide](http://www.googleguide.com/)
-- [Google Hacking Database (GHDB)](https://www.exploit-db.com/google-hacking-database)
-- [Reveal the Cloud with Google Dorks](https://infosecwriteups.com/uncover-hidden-gems-in-the-cloud-with-google-dorks-8621e56a329d)
-## OSINT / Sock Puppets
-
-- [The Art Of The Sock](https://www.secjuice.com/the-art-of-the-sock-osint-humint/)
-- [The Art Of The Sock](https://www.secjuice.com/the-art-of-the-sock-osint-humint/)
-- [My process for setting up anonymous sockpuppet accounts. : OSINT](https://www.reddit.com/r/OSINT/comments/dp70jr/my_process_for_setting_up_anonymous_sockpuppet/)
-- [Generate a Random Name - Fake Name Generator](https://www.fakenamegenerator.com/)
-- [This Person Does Not Exist](https://www.thispersondoesnotexist.com/)
-## Bug Bounty
-
-- [Inbox | HackerOne](https://hackerone.com/bugs)
-- [Inbox | HackerOne](https://hackerone.com/bugs)
-- [Tasks - Dashboard - Bugcrowd](https://bugcrowd.com/dashboard)
-- [Adafruit 1.3" Color TFT Bonnet for Raspberry Pi](https://learn.adafruit.com/adafruit-1-3-color-tft-bonnet-for-raspberry-pi/python-setup)
-## AI
-
-- [HackerGPT](https://chat.hackerai.co/)
-- [HackerGPT](https://chat.hackerai.co/)
-## SynAckTime
-
-- [Synth Music | Pixabay](https://pixabay.com/music/search/80's%20synth/)
-## YouTube
-
-- [Synth Music | Pixabay](https://pixabay.com/music/search/80's%20synth/)
-- [Synth Music | Pixabay](https://pixabay.com/music/search/80's%20synth/)
-- [Ambience Background Music For Videos Music For Youtube Videos Music | No Copyright Song & MP3 Free Downloads](https://pixabay.com/music/search/ambience%20background/?theme=music+for+youtube+videos&theme=music+for+videos)
-- [FOFA Search Engine](https://en.fofa.info/)
-- [AI Music Generator SOUNDRAW](https://soundraw.io/)
-## Trash
-
-- [NZBGet](http://sky.cyanidesyndrome.com:32781/)
-## Shopping
-
-- [NZBGet](http://sky.cyanidesyndrome.com:32781/)
-## Shopping
-
-- [Temu](https://vivaldi.com/bk/sd-temu)
-- [Temu](https://vivaldi.com/bk/sd-temu)
-- [SHEIN](https://vivaldi.com/bk/sd-shein)
-## Travel
-
-- [Trash | BenJonesVA@protonmail.com | Proton Mail](https://mail.proton.me/u/6/trash)
-- [Trash | BenJonesVA@protonmail.com | Proton Mail](https://mail.proton.me/u/6/trash)
-- [Schedules | YMCA of Central Virginia](https://www.ymcacva.org/schedules)
-- [skinners - Google Search](https://www.google.com/search?q=skinners&oq=skinners&sourceid=chrome-mobile&ie=UTF-8)
-- [Nginx Proxy Manager](https://npm.encrypt.monster/)
-- [Portainer | NerdRack](https://npm.encrypt.monster:9443/#!/auth)
-- [Cloud9 - Portainer](https://cloud9.encrypt.monster:9443/#!/auth)
-- [Cloud9 - NPM](https://cloud9.encrypt.monster/)
-- [http://facebook.com/](http://facebook.com/)
+        <DT><H3 ADD_DATE="1670801292" LAST_MODIFIED="1709294019">Cyber Security</H3>
+        <DL><p>
+            <DT><A HREF="https://en.kali.tools/" ADD_DATE="0" ICON="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAABLUlEQVQ4jZ3SsUqcURAF4G+NGBEVLGJhbStYbpoUtmkEbWxSKiIWWvgGFlZ5g9imE+wMGEgXfAALUdQYksrYLJGIu8fCf+Hys2ZjLkwxc+85Z+6Z4ZknvAx7oRPyP+A34SbkWQRhLLwLp13wPxOEibAWfpbgEKERBvooL4er7r+LaAlzYSHMVo8HCnAjvA0noV0D34b3wlG4Dt/ChzATXlQEU6XjRfwKW2FS+F5ctMPX0Ky62QitHsqbYbjb5seaQid8CavhvAa+C9thtDSpGY5rJH/CRa3WDrthvO7yUJgPP2pq97X8MLx6alSjYb0yMz3iMsz0W5bxsBN+9zBtpTuZfiTTYb9qv1MYOtUXXBEMhqVqtHfhLCz+bVMHy6TxqPwJI3iNzzho0HmK4AGM6P6/nDWTVgAAAABJRU5ErkJggg==">Penetration Testing Tools - Kali Linux Tools Listing</A>
+            <DT><H3 ADD_DATE="1670801292" LAST_MODIFIED="0">Coding</H3>
+            <DL><p>
+                <DT><A HREF="https://silent-install.net/start" ADD_DATE="0">silent-install.net [silent-install.net]</A>
+                <DT><H3 ADD_DATE="1670801292" LAST_MODIFIED="0">Passwords</H3>
+                <DL><p>
+                    <DT><A HREF="https://makemeapassword.ligos.net/api" ADD_DATE="0" ICON="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAACjElEQVQ4jU2Tv4ucZRDHPzPP8+5e9nZJzhUtNCeKVlpE8YQQwdMiWKVLE7C38m+wEQsRFDRgIVhYpVGwuEJUFExjrjqInhAFf+QkZ7xD72533/d55mvxbiDTzcwX5jvzYYz7YnOTvFicb/b29lRKMc4uG79DzlkA0+nUt7dvzMAEYAACu/jixhuHc12pESMgzMxkGLYUCEmSGe5pcJfx2rs/fL31hQFceuWFy/vHXGtrYBKYAeBzsApqIIaAhGS4gdLgv2b6zIUMcHRUXy7yUESHWVYNQ2L/1czRs87aV5XTNypKBo5qKJxu0h7+uZkB2rYGAzcTSZLJMK9mdy43zDYcNcYD31baqckXgSV3Saonx+EA7o7ArIO/rmT7+YMVu3sx4a3gQCjB3msNu1eHdvhSNpuH4YZ7ItOf0qwa3Rlj/1KmO+ucrA/wDtKx8e9zicPzCT1k7B9k1r4pIAxkzhIDDn4Cj73TMrle8ehrSH2vhbXPC4981CHv4bCUQPRArYrxzWD4h5DRE0H9AMGpW8HoVoALAVSWK3if1FVj970hsycd64RahyqUQRluvz5g9pTzxJstlkDpngNHOPhcDG8Lm4vpVmGwF8QIVn8MznxfoRPD34SV3iGYMkCUgIHkBdbfb9VOsVO/ip8+TOi00fwjHn9rwdHTidEvoWjAJEXUfoWcPbdY1AblAzG4g2IA451KTGC0G1iB8U6gRpBNCPOcmwwwWc2787klhJOwyIZVWL9aqB8X0hy04sgF4ZjCLWWGDz580wEeHc8+WfH4zKBFdIQKTsEpaUEhUTAKQQcqWD7WYPL29a1Pv7yHE4Fd2Dj3/EnHqpn1YPN9v156chGecl79e3v7ux2A/wG9dkiFkjyykQAAAABJRU5ErkJggg==">API - Make Me a Password</A>
+                </DL><p>
+                <DT><H3 ADD_DATE="1670801292" LAST_MODIFIED="0">Scripting</H3>
+                <DL><p>
+                    <DT><A HREF="https://www.cyberdrain.com/documenting-with-powershell-chapter-3-local-administrator-passwords-solution/" ADD_DATE="0">Documenting with PowerShell Chapter 3: Local Administrator Passwords solution – CyberDrain</A>
+                    <DT><A HREF="https://www.sharepointdiary.com/2017/03/sharepoint-online-download-all-files-from-document-library-using-powershell.html" ADD_DATE="0">SharePoint Online: PowerShell to Download All Files from a Document Library - SharePoint Diary</A>
+                </DL><p>
+            </DL><p>
+            <DT><H3 ADD_DATE="1670801292" LAST_MODIFIED="1671403444">Community</H3>
+            <DL><p>
+                <DT><H3 ADD_DATE="1670801292" LAST_MODIFIED="0">Education</H3>
+                <DL><p>
+                    <DT><A HREF="https://www.antisyphontraining.com/pay-what-you-can/" ADD_DATE="0">Pay What You Can - Antisyphon InfoSec Training</A>
+                    <DT><A HREF="https://highon.coffee/" ADD_DATE="0">HighOn.Coffee • Security Research • Penetration Testing Blog</A>
+                    <DT><A HREF="https://www.offensive-security.com/" ADD_DATE="0">Infosec Training and Penetration Testing | Offensive Security</A>
+                    <DT><A HREF="https://www.codecademy.com/catalog/language/python" ADD_DATE="0">Python Courses &amp; Tutorials | Codecademy</A>
+                    <DT><A HREF="https://discord.com/channels/542352179059752970/567475988229783594/747436969297969152" ADD_DATE="0" ICON="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAB6klEQVQ4jY2TzWsTURTFf/dl6kcSpIJak4Kk1S4tmEIXLUUICAVxKXHhQigOLgOu/R+k4GZC93FVaBEKQjbBjdC0tP0DQqHVahuCZIKMk3ddTL4aG+lZPR7nnHvfeRxhCHm3kUWNC5pDyQCg1DBSRqz30RuvDvKle3jmHscTNr6qIivSvx6CAlL0pVnY9NKtnkEkTm4hLI1QDtlopSX+8qaXbhmARDv5/rLiaKosxTW+CiB5t5EVle3ua2IxePTQ4c4toboXApCddfhxquzsh7TbnS1UweicEwXWx5tX11icdwB4+fzquclfvoZ8WPsdbSGCqrgGq7kuYTJleuKLsDjvMJky/QurOYN0vqpDADirK6X1gCCAIIDSesBZXQFYGBwgZAbsYDoTA2D3IGRjK+DwyHJ4ZNnYCtg9iPK43+F04aDUEGYAkokoyMcLY6TvGh5MRf7v3l5nZjoSdjkAKDUHI2WIDHb2Q6buXeG0rhyfWKyNeN9/Wm6OGyZuCzv7Yd/ASFnybiOLlW2RyDk1YcjOxvj0+c+5VZ8+GaO6F/LtRHvjVXROAF6s/PIwvL4o+f+gWCrecA2AH2sWUK1cXqsVX5oFAAOw6aVbvvGXsRRRHS1TBUvR7/QA+Ld2vTpbzSFkBECp6Yg6/wVtgb1BvSMfWAAAAABJRU5ErkJggg==">Cyber Mentor - #hangout</A>
+                    <DT><A HREF="https://www.antisyphontraining.com/" ADD_DATE="0" ICON="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAADZUlEQVQ4jV2TX0idZRzHv7/nec57zvv6ek6548VGTTJQhNrFplRuk7OLIJunu8SVsaA6XXjE4WiMFYMGk4hSZwahXQyCRUSNZlkNBkIw2kwLOcw5cpNZRLXjPOo57znv+zzvrwsVRt/r75+b74cACABIpVJiamoqBBA2NGSSQrgDWpuvgJAjEesFz8u/s7R0fhWATKVStOUFbRUQAAMAe/a8/kgQJCaVcp8slwsdABCLJb7Vev1Xx9k4PDMz9hc2pQCEEgAD4Gw2m2o98MwnRqt/8nn5qpQkgcrnzAylVJfWYaKuDrPPH376vb179y1PT08vAWCVyWQSsVjs/ZjtZLSuQGsMAfCZUWXM5hQzBICyMVyUUqWr3Fi6t7d3tFgsnhLRaLS3ynUzvl+ZNTp4Lpfj21JSjJmxLWaGlLAXFnjRaN0RBMGcW12dtV03KyDE40SEwka5/9y50R8dZ7XEzExEEEJKIaQkIjAz+8oUh4c/+m59ze8nIgiiBsHM5JVKVw4dXPylqamnTogdp6W0qpg1GcO/a60XmTUJYVXFlXOysTG7q7Nz7WfP835CCCEP7N83MzR0ZSyXaz0qZfRCJBJvM6Z8M58vH7l7d+T6ysr1f4marzqOeEqp6nZm7rp0yf57cnLwrba2lllKJrO7ksnol5YVb9V6o6g1n711a/LDE6cOHVy9h/tAgGRSJQYG7lxtamo6Aci3IxE36vtrU8vLukvu3r3/Xcuq7gyCtS+kNC/fuDE4cb9wZNxS8UHf+D8IKROWFf++uSW+83j/8MnLl5u/DoJgp2XF213XJwHQjjDUQaXin83lhue7u99sEKSOah2wBCoSqBitmSBfGxt7o3FubiTneeUzYegHANUKIs4xI1JbG6k/dizbHo0KE3JYAAAiEmSMAICQw0IkgqDveM+zyaSqYxYRgObV+vofo7b9aALwQUJ941areTBvhsKQIcT2Geihh6suCOYnlApf8v2ND1ZX/xyl7bOk02nnsfr687ZtvxgEAYgoLHteGgBitj3BzMKyLJRKpYt3bnvdExNjpQdgSglgSgNAT19fhyI67ThOy1qhkAaAeCIx4ZVKvwVheObjkZGL/4eJgCXeKqPpa9cW7Fjss5qaGhUac5OI2DDfW8nnX/l0fHzuAXoZAP4D/Qec/dZfelEAAAAASUVORK5CYII=">Home - Antisyphon InfoSec Training</A>
+                    <DT><A HREF="https://play.backdoorsandbreaches.com/" ADD_DATE="0" ICON="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAIAAACQkWg2AAABzElEQVQ4jZ1STY/SUBTtbYdHoS2Ftm/kY5THwEyGoC50pQsz8S/4D4x7/5y6Mbpn1IS4HL47M63U8CUttPAezwUYdHQS9Szvzck9554DnHPhX7D3+4gx5jiOIAj5fF6SpGtb+PkC53w4HLbbnYE3kETRsqxyuWyaJgD8gbBerx3HaTQabuszxvu3qw+cqysAKJVKhBBFUX4h9Hq9ZrOZlOOMUe+yy2DPyh6Mx2NN103T/OK6d2s1QsjOQ7/fb9uXn2I5N26mhcNnmr8IgtmrN9H0m5fPRfdqmqpuCOJGOkKodnLcjeHXAkGcpRJxWVGQpqG37+Ru7/ikihDaaNleAAB/NHgKyJ0tT4155ei+KEmzx49GHz4ap08iztAP3+L2P4IYjc6qwvnL9CinJTOGgTFOZ7P6i+cXt5T353VRgOs5oBgk5bmR0YLAr9frlmUtlxHXU6O5zWO7t24Ja7aK5IfhGpg3wBgbhkEppZQGw7DI9/WcsqJ0JwkACoWCoqaiaOV5X8Mo0nU9k8lQyobuBGPLMqzCQWET3y443/c7nY5t24lEAgDCMJRleb5YkGKREKKq6o3VaLVak8lkOp3eKRaPKpUbq/E/5fsbfAeEa+HBj1LYZQAAAABJRU5ErkJggg==">B&amp;B Shuffle by Richard Phung/P3hndrx</A>
+                    <DT><A HREF="https://www.sans.org/security-awareness-training" ADD_DATE="0">Security Awareness Training | SANS Security Awareness</A>
+                </DL><p>
+                <DT><A HREF="https://hackerspaces.org/" ADD_DATE="0">hackerspaces.org</A>
+                <DT><A HREF="https://googledrivelinks.com/awesome-penetration-testing-massive-resources-collection/" ADD_DATE="1671403444">Awesome Penetration Testing | Massive Resources &amp; Collection - Google Drive Links</A>
+            </DL><p>
+            <DT><H3 ADD_DATE="1670801292" LAST_MODIFIED="1701954751">Encryption</H3>
+            <DL><p>
+                <DT><A HREF="https://www.base64decode.org/" ADD_DATE="0">Base64 Decode and Encode - Online</A>
+                <DT><A HREF="https://md5hashing.net/" ADD_DATE="0" ICON="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAIAAACQkWg2AAAB8UlEQVQ4jX1RPW8TURDc3XvvzueTbJ9NbMexY9kolmipaCgoqCj5AdR0fHQoggopEkgICSRqOn4ADQ0NUQQRErUV4s8kMjHxFz7bd+/dUhCinIMYbTmzO7ODu7euQxTMjETKmyavXrvy7NVwd2fw6WPl/qPjD++/bz0huEAHAEYEre1SiZnn3baZW2XmWavBWi0LGBERkRmQ7MoGAMwPOnapjIiz1j4SiSUB8p8TTDHLLlcQMRgN7PUKK7U4OkAhL1gCQELWWiZS9no5mIxZKatQXPSOgpM+SUkchucnDEMOgX1fZnMylZ63GkYsRlJ6zf1gMgZEQVJGMgAgUbigeLnKzLNuy8qvMfOs3UQAMk2cNvYifgABgLUWrmu6mWA0BESZSPo/+2o8BDJOQ/4TDIAAfLro78Zvd24vcVhrw3FqT18Ycafz5mXp7j09Gdc3H2pvioYhrGx+qeNQ+dZKXibd4KQvMxkRs/3DrkgkRTKFZ3//D5gZ8cwR4ODzdrQFYKXsctVaXZt3WmTb5qWst1f3+z0UAhhEffNBVIB65m083ooViofv3mZu3LRWcs3Xz8dfvxiOw1oLMs2ogVC66fjlGmsdel68WlO/Jv7xD8OJk5RsGHSOygDISkk3bRWKi34PCM10Zt5tq9EADQHMiPgbWIT16ie+wA0AAAAASUVORK5CYII=">Ultimate Hashing and Anonymity toolkit</A>
+                <DT><A HREF="https://www.spammimic.com/index.cgi" ADD_DATE="0">spammimic - hide a message in spam</A>
+                <DT><A HREF="http://darkside.com.au/snow/" ADD_DATE="0">The SNOW Home Page</A>
+                <DT><A HREF="https://cryptii.com/pipes/enigma-machine" ADD_DATE="0">The Enigma machine: Encrypt and decrypt online — Cryptii</A>
+                <DT><A HREF="https://www.boxentriq.com/code-breaking/cipher-identifier" ADD_DATE="0" ICON="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAIAAACQkWg2AAABlUlEQVQ4jZWSz07bQBDGf7u2E2y3PqQCLKhQHXEACaoq3HMgPEJuvAN5g75Dn6LH3pF6qNp7q57gQNpESJyoGscb1V6vzcF/hCKE1NFc5tsZfTvzfYIR/xX2OlA2CYgmnx4oIIMUMvaH+2VR3ny7oQNd6ICsuyz6UIKBGBYQs3e8N/4wPjg9mH+Zx9OYDAqwwWoHDCzqbhacvT+zN2zzLw82g6uPVxgogJrHpgQFCcQQ0+l2br/eXk4uhRCH40MHR//VFCDBhgAYwjHsggewdbT5eMW69GAXjmCIxeuGIYGCdJkVedEO1GUJXejCRrs8hCfhZH4RjaLHDNEomswvwpOwRSwiSCFncD74/fnX9adrk5n2OblL8lRvD8LZ9xke+AhOIab/tr+aqfsff/S9XlPS6Tmv3vW8N/7055QAiQAfd8ddrhItNT7YIJuz+GhLL1eJu+PigaiUtjHSqFTRAxcyMI0NHHBRmTLS4LTCCdRC5WVen8Kl+i4v4CUE4KOWKs9yQKy7tXJedVj5vPmqqDrkOtzGAzttlWuFiFO8AAAAAElFTkSuQmCC">Cipher Identifier (online tool) | Boxentriq</A>
+                <DT><A HREF="https://dehash.me/" ADD_DATE="0">Dehash.me - Hash &amp; Dehash</A>
+                <DT><A HREF="https://cryptii.com/" ADD_DATE="0">Modular conversion, encoding and encryption online — Cryptii</A>
+                <DT><A HREF="https://clienttest.ssllabs.com:8443/ssltest/viewMyClient.html" ADD_DATE="0">Qualys SSL Labs - Projects / SSL Client Test</A>
+                <DT><A HREF="https://www.quipqiup.com/" ADD_DATE="1700705752" ICON="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAABhElEQVQ4jaWTsY4TQQyGv/F4ZrW3iTZAEqRMhOgog5SCigqJ4hokBLwDT8BL8AYUiI4WpGtooYhokIDqBAKhIDhRhogibEzBBpZclivOle3x/88/9tix2xwgjbhqxOsWzD/g09l4PD6bZdndLMvuxxjvmJkry/L2cDi8fiI4pXQ5xvg+hHCoqk9CCO9ijE9F5Kgoint1mbThcxF5raoH0+l0D6AsyzOq+gwwYKPAbwMFIMuyfVX9nlIa1/kAMBqNLnnvfwA3thVsHAewWq0uAIfz+fxznfsJuMlk8tE59wmIzfomgQGo6hczu5hSOlfnAmCz2ez8er0eAavW5gH0+/2u9/6DiDwCMDMHBBF5XBPut/Xgj6xut3vVe3+kqq+KongYQnijqi+dc3Pg5jZBcxwGuMVi8XwwGFxR1YPlcpmLyINer3fNzL5578N/n9BUsiP31nt/a/ti3VFs/N2Fpr9XVdVGwbEp7CKp+L04FVDlef6i0+l8rc9PXKjjjGat3/dU9guAL1remVqfEwAAAABJRU5ErkJggg==">quipqiup - cryptoquip and cryptogram solver</A>
+            </DL><p>
+            <DT><H3 ADD_DATE="1670801292" LAST_MODIFIED="1702951557">News and Feeds</H3>
+            <DL><p>
+                <DT><A HREF="https://www.cisecurity.org/" ADD_DATE="0">CIS Center for Internet Security</A>
+                <DT><A HREF="http://cve.mitre.org/" ADD_DATE="0">CVE - Common Vulnerabilities and Exposures (CVE)</A>
+                <DT><A HREF="https://www.cvedetails.com/" ADD_DATE="0" ICON="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAIAAACQkWg2AAACgUlEQVQ4jVXSS4iNcRzG8ef3f//v+55zzMIlkQU2CDEixETZuNSQWIy7jCLlspiiNDJRkpJcZmGaUZpCipCRaw0jTI1rCGPDQo1yaJwz533f/+WxIPHsv/UsPkJ6QEh6DxEohU/v/YXmVIC67fGY8cpaiohSEBGA4j3pqQIAINHRnt08lyUDMBl1KPV745olEUASJEREAVQBshQ9nfbnDz65bfuLNBmHDFd12+Opc3RXh7l3yXgHpQBQA3j3zF1sTn984/62AgAoLKyLlqyNfn5nc2Py/rmjR/dds3xzPHFGoJMK2o+mva/cuOrAe0yeFdTvjQcPU96BAD1A6lDePnXl/qSxZZCmp46kUCXOIoqxcmv8sMNcPZOQWFYfNRzLP3tgr5/NPr52hPy5VCnRZFQBCLQ0JQ9vmKrBIkDrweRNt911pDCtRt+5aF4+sd5B5fIyf6kOc1Ip0Rp8/eILVaJDCUIpDJJiH4t97tLptLom2Hk4H8airMX8peHBs4WZC7SzFPw3Akqjp9Pu31i+fyXTGsqkPLEned5lV2yJh40Iho6USpnO0BkOlDh8lNKh5Ksky9DVYZMKtQowUOa542n3PVu7Idp2ID9ltrl6JgOxamc8rzY0Kb3D7wyABkRAHaLvs29pqoyr1qt3xftaCyLoL/JyS7poVRRoVEq0GUWJyhWwriE3aWZgLfDbDKAUbp3PmjaVX3c7pVApcfKsYH1DnMtDvPcicBad10wYYfq88PFtc6M9K3719Bg9Pth9Mv/hhZs6V0cxSIj3JCkCEQDy6KZpO5TYlGFO4hwWr4lqN0QiAOAdRIn8y5uk1vK51184ldKhbkc8doLyHiT+8v4Fs9xYeRkPMbQAAAAASUVORK5CYII=">CVE security vulnerability database. Security vulnerabilities, exploits, references and more</A>
+                <DT><A HREF="https://cyware.com/cyber-security-news-articles" ADD_DATE="0" ICON="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAACX0lEQVQ4jWWTT0hUARDGf/Pe23272kpUBnWrUwQdMqkkSgmJVNQ010t2qEikQpKCoDps0CEKPChGpKciiRXBypTyEJ2ysj+HpFuXoAgN/FO7+3b3vemgu711v/PMb775hhGKFDchqszesFgKDWOYFSynq6i99gsQQP3VRmGzGtDuoqIshCewg8cJWtsoMR8w0xkgFpO143wAFRCPplQD1XqSDQsTGBYknRSR8BGc7QPEYh7xqOkHiK9Zach2YMkQGEG+Us3o9SbYepnlpRSl4RB/Epc4cLUXRZCVVQodGJzDNGzwXHYwSvfNIbK/xyhdFyKRdgjYt3lzqxFB0ZXhPoAoafMsrs6jgEU5JYzwvLqb9PJnLMvGFBOVe8RjwTUOREGFFzJrZrwuMQyLjOsQZhevDw3gJVrBnSerCfAuEI1l/q/v0x5mAgA0a4+0qtLkJoiqclD7+Na1l6k7NYXZFUoABvlw+C2vKmnVvjykTZUavQhA5+qQNSRRlGE+tpgEHxl4S4FQYl9L/f4+oJGM62AZNtlkC89Kx/JX84Wo/UwGBQZMJASBzW7KHjn1/cd5PP2CYdp4ZJHwfeqcnfnMcgBFpZt6RzG6FHU90o5BWeWx9z97I560iegcqmBJOaY5mGvOA2SVeILdT9I4V2zCdorFpLKx7fHT6dMalmZELLKeA9zN2S9KM0rcHKHdfcjMUIT1ZxIspkKUhSLM9RxtqZpz/7qLvLTG/RkUnUNR6WcyuIkt40HsWoAkqakOKuoE3JWHEy9XbxXfUgCcQaY7DIx3Lu6nBF5UiAOYIK6//h+2EPaKwPT6XAAAAABJRU5ErkJggg==">Cyber Security News Today</A>
+                <DT><A HREF="https://www.darkreading.com/" ADD_DATE="0" ICON="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAIAAACQkWg2AAABj0lEQVQ4jbWSQUsbYRCG39nvW5NsNrESvMSFgDkkQs1lCxZP1lMS+ht6zyX/IDnkj3iSHNVTEHL0UkjOImal2EBFITW7Wcyuu5kevrYIBkHB9zgvz8y8wwDvLXrJIyIiAMzMzH+Ldiq9Z2b+c4/Ml8H8zHM/7X+p1+u+7ysmDMNerzccDuXmSuJrZjUGQmYAOpEAdhLJ6OP2r5ub46MjIQSAQqHQaDTa7bZkMANnvte9nwBYE/LbWm7XMBdp8+D6h+M4avJoNKpWq5ZlSZXjdxxfBHPlbeh66UNuQ+rakzxCCCllFEXyedb5YgGGRlQqlWzbVitVKhVd1x3HWQKAADCAcrnsuS4R5fP5YrHYbDan0+kSwCBBRDHz8clJ9/AQQDab7XQ66lya6rYu5VYiWU4kPxvmvpmJmX9Gj/yvheu6g8GgVqsBkAQiYNcw7VQagCSSwHfPffBnT0P3+/1Wq2VZlkhpWgi+DIOrMLgKg/NgfupNu/eTIG3c3d6Ox2MFzGYzdaUXPmP5s7wOeIv+ALj4l5rMy2MjAAAAAElFTkSuQmCC">Dark Reading | Security | Protect The Business - ...</A>
+                <DT><A HREF="https://www.huntress.com/blog" ADD_DATE="0" ICON="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAIAAACQkWg2AAACCElEQVQ4jW2Sy2tTYRDFz5l7c2+TtPaV2hikIqKtiCAUKvVRXVhQBHeu/AfFhYgrt12ooCJF8QnVklKpTdqmSZtH02+Oi8TahWczfAwz38xvDi9Mz+BIEiSZURJJ/EcGQH254lhDw3CXGcxEqpcFdLyApEi2WiqWwrUFNurotNFosNWkO80o8W9NLAC999gE3MPtRa6XGYIXS1at8OsntJpIU7j3ZowKhYLMbH8/3LkbHj6Ch7B4HwcdNpt+espn57hVYbWiJIEEMhorFAggimy76rNzmjwFMxVL3N3B4BArG371hpV/creGOCYQjRcKABBCuPfAz55nCKAhl0cc+8wlPzfNjV8YHo0+f0Qm018aJD1wrYxWE7kcJXQPNDHJ7Sq3qmy3NTquE8M4PBQQsw+OSFPWa5CrcJJyJQnXyn1i+UHFkUkATL0fDrsYyNrqD7RayubQbkcvl1QsaeoM3aPldzwM+kcJAITgYf5m9OYVcjnu74FkkqDTUZrGTx9DLpKkAaCkdIAr3+3De5++GD97wsqmzy9o8IQyGW7+1kEHZiT7lEhCQpLYty/IJH79FkhbX9PIiO1sRS+ec6+uKDJJZAxAQP/y2ay9XrLltyqWWNsJl68gP2irKz6QPbIje24VQAmgjHRXt0tAaYpcHvUaovjIuXEvEOhBgLtIJkm/RaOuKD7u9j9PzxTj27o9vgAAAABJRU5ErkJggg==">Huntress Blog</A>
+                <DT><A HREF="https://www.infragard.org/" ADD_DATE="0">InfraGard</A>
+                <DT><A HREF="https://attack.mitre.org/" ADD_DATE="0" ICON="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAIAAACQkWg2AAABnklEQVQ4jZWSzyuDcRzH3893e8wz8X3WYg17pom1sXFAWPlxWbmLciBOfpS7f0O5ESUlBxwcHCdyMAspCs2ybH61X095Zptx+K6Rdnh8T6/vp/frffj04eqnt1MfWah7VTpe+5hQVKYByEqOVApa9UKloCXFj2TU7y8Mrs10/05sznv2FwZNtLw4+RE89mqv2zzeZ3NZRDbpajSO9Fi9bnNvc3UJwVFHGcwP2RnMepsYuCRaQnBJheIxTwOD0Z4CtEmGEsKA0/SUSO/6w0KZxlFb5bKIOp7snITf5I+BFtNfwUwFquePb17nVk4BLE11Lk52AJhZ9geCMUNFmZkKLFnYqdsqAnhOpqNJ5e5JZpWX4cSLnI7EFQDtDYbohQKAEI4D4KynAG6jMoBVX5C1rPmCAG6iKQCtEgVAOI5kcnkAE/02AGehGID1w3smbBzdAzgPxQFM9NkAZHJ5Dd82nPv8qqG6y4fE+mEo+5lPKdlyXuO7et47iwCIpTJ6nSYQjB1cv/CEcOLUVvJd7fFRPU/UpwEk37PaOlH413l/A1KtiabprtA9AAAAAElFTkSuQmCC">MITRE ATT&amp;CK®</A>
+                <DT><A HREF="https://nvd.nist.gov/" ADD_DATE="0">NVD</A>
+                <DT><A HREF="https://owasp.org/" ADD_DATE="0">OWASP Foundation | Open Source Foundation for Application Security</A>
+                <DT><A HREF="https://www.vicarius.io/vsociety/" ADD_DATE="0">vsociety</A>
+                <DT><A HREF="https://car.mitre.org/" ADD_DATE="0">Welcome to the Cyber Analytics Repository | MITRE Cyber Analytics Repository</A>
+                <DT><H3 ADD_DATE="1670801292" LAST_MODIFIED="0">NIST</H3>
+                <DL><p>
+                    <DT><A HREF="https://www.sans.org/information-security-policy/" ADD_DATE="0">Information Security Policy Templates | SANS Institute</A>
+                    <DT><A HREF="https://www.cisecurity.org/wp-content/uploads/2020/07/NIST-CSF-Policy-Template-Guide-2020-0720-1.pdf" ADD_DATE="0">NIST-CSF-Policy-Template-Guide-2020-0720-1.pdf</A>
+                    <DT><A HREF="https://www.sans.org/" ADD_DATE="0" ICON="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAIAAACQkWg2AAACGUlEQVQ4jZWST08TURTFz33vjW0pBQqRGgT/oMZgMIoxyIpEMOLShIVh5cKNMcJXMEEXbvUjsHJlXBm3QmKMaELRGElbyBRomYHMtNA6hXnzrgsKccvd3Ht+9+zOIUzN4iQjTuQGIMAMZgB0hAgAM9F/8vjLrACACMZwZCAFiDgyUJIPNKSAYQYgmhBECkSIonRb8kxHq71d3de693SHvV25ei6zVam1t8QMc3CgM+3J3JYX6kghMslEbOTS2dgplUrEgsbB3LOHQ9Nvno7f6kq1vHw/P3Kl196p9nW1CaJfhU0BQBt+Mja06vr2lpfpaO1JpxLp1vk/xXuDF2OWyjv+9MTw99WyW61DSSGU3Pdrfi14/WjMKe00Ql1w/Zv9Pd8KpYWV4szEcNZ24pZ8fv+2W9ohJSUG70LQou28mBwtVOtutX7jfEYQbXi7fq0xMzH8cSn3Jbfx9vGDdz9WPH9PYmC0M52yhChV98avXciuu5cznf3d6XKlVvZrg33dybhVcHxLymTcWvy5JsCshJi8M/D5tx2EOgj1p+V8Mm4lLGup6Lz6sLDmVnrSqbn5bK7sQUmJ62NBqCt/GwBli25oouL2bt7xglDX98Nl21n39hph1Aj11/wmlCRMzYIZOgIRDIMAQQgjALAkpERkYAyAo+CYQUSWahaAAYCUApopQwqSAgTmw2oQoWk7XmA+uo7xISA6cVv/AZuZAoKc768MAAAAAElFTkSuQmCC">Cyber Security Training | SANS Courses, Certifications &amp; Research</A>
+                </DL><p>
+                <DT><A HREF="https://packetstormsecurity.com/" ADD_DATE="0">Packet Storm</A>
+                <DT><A HREF="https://vulners.com/search?order:published" ADD_DATE="0" ICON="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAACJUlEQVQ4jXWTPWhUQRDHf7O7770zJkgMiU0UPyoLLZQgiYhCxBBOBAu1kYAmoqXoIX6AnaiIYCkKQcGUgkXgLCREERUFSSeCEpUoWBgsFN7dvd2xuJdcLjkHlmV3Z37zn91ZWGkCmGXrhVlWujfb0sDdURQ9GxwcnCoWi3v+49MgKhiBAGwCLgGjxhgzNDSEc0699+Oqer1cLn9umVGgYKAEvAZOASIimfc+A4iiaDRy7tWhg8MX2F5a3QTQEbqKvUwFuAWsA2r5uQOcqhKyrFZT6amatptXt0w/18P0NBQEOh8fYOfDvfjuAlkeiOZmBDLErZHUn+9446+sfb+DLroaAEeWWNKRbdi+7sWyVETqAzQNlq3xvOxv/25jE9JKFb8gERwSAqJVCFrXJGBVFWMM1lrE4wMiPtSzJsmSO0grgCBGQARjwFrhYwhhxDl3PHj/IYkia0RMLk8qvv6CBqBgUREyERTha4BzfR0MKDyanJyc2GjnBr6k8VlgVgRF8WRoo4QYK0obSpjYx49Ow0t5wPxCk9x5MvNbj81M/2mzRxE2iLAqibENQJVf6ngnlv7ODvp9hRfZGPftX67h0FDgsldOt8e+AKCet6L8bO7EYZLQyxmgZGJ6AbTCLKCSsBlAa8xJ4DafuCvTpE2ARdAJ1gfHRYFRSUhyhRUC4xhuyD2+LY9pBB+p15WDdoUxymGMp7WT9LfyaQ0B0WU/Lt832kLxP6/JzWbtnCidAAAAAElFTkSuQmCC">Vulners</A>
+                <DT><A HREF="https://ocrportal.hhs.gov/ocr/breach/breach_report.jsf" ADD_DATE="0">U.S. Department of Health &amp; Human Services - Office for Civil Rights</A>
+                <DT><A HREF="https://us-cert.cisa.gov/" ADD_DATE="0">Homepage | CISA</A>
+                <DT><A HREF="https://www.cybersecurity-insiders.com/" ADD_DATE="1685840664" ICON="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAB6klEQVQ4jcWSvWtUQRTFz7kzL4sLfgQNaOxWSGEhNjYh0YhaJF2K9S+Q2ImgjY1M0gTFIAgRVBCDlU/tRDCFu2zsFLRQBBXBgEgiu2KK59t9b+ZaLKvrYmI6fzDFmXvm3stwgN8QG8Ous6HpXw02/eAPyuWy6T/+UQa/bFXnqvnfTXHZdCY5B4nbWtpVJz2DZf0NFASh3Vc3XkxFK9/eTCLnrovjz663beCvrnEcm9nKyNi12vgACJ2vTOy+XBs94tyYBYDV769nbcHfM8V8fubx6FkAOOpgpLPFu51Xr0ghVOpJ/cHt2oWBr2n9kVpftSOtaQBgkINZghAyeEAOAUDVwQsAdU4FisOtRKGe+xMsH8i9DmUpoKrDgBoffJEEFTA0edT+FlDgIMBJ6z0+mYg5BavNZtqgoEHRPARZgaMKZQGiDAE5Au44B5naAyNwCM7db0koPNmyXaxY8/bciYcvrTGviv1i6c0iHAK83aaKnEAuUlDnEG6eRsa5pYmh9MfapGd23kT2OXK7lGXNEm04pd7Efbb41PvkGCzKBEEBmqn3IrJgxNzlzOLwLduHUpbKZyZ752TH8hmS+7IU7wssXcqiD9PwHAyBawSUhKpKRBOKABo9QUInSN16E2hPztfXhILaW/+v/AQbo8rN1JcnngAAAABJRU5ErkJggg==">News - Cybersecurity Insiders</A>
+                <DT><A HREF="https://krebsonsecurity.com/" ADD_DATE="1701954751" ICON="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAAdklEQVQ4jWNgGAUUA0Y8cv+JVEchCA0N/Q+1DRkzEOD/h+pjYFJWVsZp+JkzZ3A6H0VfRUUFThecOHECwwVQ9agA2ZAzZ86g0FBDsGpGcd6ZM2f+d3Z2MigrKzPcvXuXYfXq1QyhoaFwfnFxMYOFhQUNY2RoAgCdC0gvdJIIFAAAAABJRU5ErkJggg==">Krebs on Security – In-depth security news and investigation</A>
+            </DL><p>
+            <DT><H3 ADD_DATE="1670801292" LAST_MODIFIED="1700705752">Vulnerabilities</H3>
+            <DL><p>
+                <DT><H3 ADD_DATE="1670801292" LAST_MODIFIED="1691420065">Website</H3>
+                <DL><p>
+                    <DT><A HREF="https://cirt.net/Nikto2" ADD_DATE="0" ICON="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAACi0lEQVQ4jW2TPUgjbRCAn/32heAPMSqE4yBgUDQENFhqYWNhoYidlSnttAnY+dPZ2YmChW0aGy0UrAzGIm6RwoiYwGrQi4o/MZE1y64711zyGe6ebop53pl5ZzQR0YBfwA/+YNs2pVIJx3EacTgcpq2tjW88AD8REU1ESiIinueJaZqytbUl5XJZ6nieJ9lsVl5fX+UbJRHR/qvrRITDw0MymQxvb29ks1lEBABN04hGoxiGwfv7+/cqaAjOzs7Y399ndXWVr68vcrkcJycnuK4LgFIKn8+HYRh4ntcsEBFSqRQ9PT1YlsXOzg7b29vkcjkuLi6wLItqtUqxWOTq6orT09OGQAGUy2Vub28ZGRmhvb2dj48PqtUqyWSSYDDIzc0NLS0tmKaJUopkMsnY2Nj/AtM0yefz+P1+IpEIhmEgIoRCIVZWVkgkEuzt7eG6LrquU6lUmltQShEKhTg6OmqYRYR0Oo1lWayvrzM/P8/w8DDhcBilVHMLfX19DAwMYNs2BwcHLC4ucnl5yfPzM7quMzExwfT0ND6fj0QiQTQabRa0trYyMzNDR0cH6XSazc1Nent7mZqaorOzk7u7O2q1Gru7u8RiMR4fH5sFAJFIBF3X8fv9FAoFrq+v2djYAGBwcJDR0VEymQxKKZaXl/8WaJpGf38/XV1dTE5OsrS0hGEYRKNRuru7qVQqaJrG2toac3NzDYH2r1uo78XT0xMvLy/k83nGx8cpFAosLCygaRr8uYXGJn7HcRyOj4+p1WoMDQ0Rj8cpFovE4/F6cvM31vE8D9u2OT8/x3EcPj8/SaVSPDw8MDs7SyAQ+OuxxgxEBNM0cV2XWCxGMBgkEAiglOL+/v6fyQC/AV/nULFEKJLlAAAAAElFTkSuQmCC">Nikto2 | CIRT.net</A>
+                    <DT><A HREF="http://www.itsecgames.com/" ADD_DATE="0">bWapp</A>
+                    <DT><A HREF="https://chrome.google.com/webstore/detail/cookie-editor/hlkenndednhfkekhgcdicdfddnkalmdm/related" ADD_DATE="0">Cookie-Editor - Chrome Web Store</A>
+                    <DT><A HREF="https://dashboard.caido.io/#/overview" ADD_DATE="1684796161" ICON="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAADIklEQVQ4jXVTS2hdVRRde59z7uf98lJrjERbUR9IqpSY2NZaitaIiFWcJGgQxQ84qr8qglJ4EycKggiCUYqmBEpi1LaDYqsDi9CCVqyKkwoR4yuhIY3JS+697557znZiivhZkzVYH9ZkEf4Hs807oyys9yKKQLVk8aanjrb/y0fr/PWDd1TQU9oHX8yUeyo1FagXgir/FsSGdaxKOqQlD7zX9+hka3oEPDoNBwC6CXAT8J0o3Ftx/LoEQVjkvqEY35DVsWNniPmCNpSVAq4T8Dv+Cl9e8OWe2/tcxbwbl/SHXNJP6pAnorqa16HeHtTMeR2qXo7U4ybkZVbUhKCnd+zQMQDEAJAKvZa2s3Fr3Y15ln9hM1/KVmRfMZ9ONF78+EiymBMsTrkCLVjMgunhi5NjDQDCnw0M9Nu0QKBVlqduM1L8YdNiCGTfyGPz9LlX976sNa1ly52N2UrSzFI7TE5mvNYjAMAUmT3k8Z21uM0lxbdZWuyE+MkioVecK+bEc5S0i6tFcMJlPMbMN6RJJyNQt0yNBNqDqkR+zedSFUWrsmx/KHUFd6ftzvjwwa9OAsD3Bx7YopVfKHI8azuuRaw2SCFL8x10McELMzF58XCFEwuT55I4K5sA4Mwz9zRs2x9cveR25Ra5FF6J8ybPi2tT70rqkWv6NhNxt5C38GizwpByxQyXzNgTN1+/lY16SBi/aMNXOOt+ZaMMQW5lRY+xUud57dLy5yIYJM9noXi3CH2SpHg+n0v2O3bnpOPGqW0/KNJiY2d28TDl/idnPbyV51zKJwgAjuzcvl88aRFpEWE3SGZMqK7bUI97M+1bPXRxon3lpjdNpK/SNfeSVtFbWw58OgoA1AS4H6Bgx7aPRPwpZl7ywP1KqTiumB+9JmfK2kRVfZeOldcRr7Km97cORMfx87SsfwFT/f1B0FV7myCZCJ2hPD9L1aChS+aWsGwWTASlY32vjtTEtneOH/vnmS7j6I6h+wR6WCDdQljRkeqYsi6HFT1noA7tOnzyggBEgPyr4O/C1OBglwp93RBL5oOF0dOnUwCQJpia8OuZPwGJqnQ3y5MZdAAAAABJRU5ErkJggg==">Dashboard</A>
+                    <DT><A HREF="https://app.redstack.io/search" ADD_DATE="1685127810">RedStack Cyber Security Education</A>
+                    <DT><A HREF="https://onedrive.live.com/edit.aspx?resid=D35646DDB2EED15C!35615&app=Word&wdnd=1&wdPreviousSession=1ebdd828%2D77bc%2D4c3b%2Daef2%2De12a08b1b067" ADD_DATE="1687051619" ICON="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAABL0lEQVQ4jZWTv0rDUByFv6QRQgklgkGXEAcVpMahiEM3F2lfoYuD+ADdOzv7BsXBsZOrXTu4auwmRBGkogk1agvBOJSUNIlJeuDCzbk35/fdfwIRHV19OIBKcblizFjmZwA1HrC0hPVW3xFyKpdWSuwc76cHbLT6QZFKv6/XaPXThC8CdNsmvU4NgJvzQ24v6gD0OjW6bROAwJ+mBosAg6HLnqFQKUtUDQVdk2dtTWYwdDPJRADL9qiUJZoHGs9vE8bfPvXdVXRNxrK9zABpRuAAcNbQsezPeT869uN88f44SicIl1E1FKwnb97Pw18ICCsPHtw5duhlqfAxeneXKOZJwpcCcPMuUuBP8ccjJi/3SYLoh2w0/qWR1G0kdSvpLwRsNrNAUhV/TPnbHpv/B+UDYrFetuJAAAAAAElFTkSuQmCC">Working for an MSP.docx - Microsoft Word Online</A>
+                </DL><p>
+                <DT><H3 ADD_DATE="1670801292" LAST_MODIFIED="0">SQL Injection</H3>
+                <DL><p>
+                    <DT><A HREF="https://www.softwaretestinghelp.com/sql-injection-how-to-test-application-for-sql-injection-attacks/" ADD_DATE="0">SQL Injection Testing Tutorial (Example and Prevention of SQL Injection Attack)</A>
+                    <DT><A HREF="https://owasp.org/www-community/attacks/SQL_Injection" ADD_DATE="0">SQL Injection Software Attack | OWASP Foundation</A>
+                    <DT><A HREF="https://www.darknet.org.uk/2010/09/havij-advanced-automated-sql-injection-tool/" ADD_DATE="0">Havij - Advanced Automated SQL Injection Tool - Darknet</A>
+                    <DT><A HREF="https://kalilinuxtutorials.com/havij-download-sql-injection/" ADD_DATE="0" ICON="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAIAAACQkWg2AAAB60lEQVQ4jUWSQY/UVhCEq/r1G9vM7mwgSxCJhDiAxI1/wM/LX8sviBSQckGJtAR2ltlZ22P7vS4OHkidultV1ZePkiQBILnv53e//3HbL5tkIZHEKhISSAgeEqT1HpIZk9G4ms8BQSAJgXDg/xYCkmrIqQr9sAMCIQmEr0URAJiIcYlxrpFVAk4jAciMBpUqQA4gAimxRtRAl63NaePciBKqzn9qKCcLyW8f5kQ02aYlvg7LiyfdVZclNW79HKEAOEw1gNYtGf3Pf+6f7pqHqV61fnOYXl53AI6n8viRH8ay63INfdyfWrd+qo+37u9v+uOpfrwdXz+72Pfzo5wuu9RkXjZ+0firX7Yl1GR7vmv+uul/+6nxGvh0mPb9/Pl4Ang3LCVirtGP067LJHLiVevPr5p/v05tNn/z68U4levLTePMyT7dTzcH5MT7U/l5uxlL3ZgdxjLMMUzl79Pib1/sprm2OR3GpdTY98vdULpsw1zvhvrhv37jVqtCuN76l2HxJ9tcu5wM29aPYzmM5Uu/tIlVOJ5qCZEgUQO3D/MimYRkqKGN2zpIKAKAKhgpIQJm7OcqwQUoVpZUpWR0Q05UKBkBUBQAIjcOwM+wABIE8LtAnGnlmcEVWTdS551GrrQrFN+hWDPQufgbdtY3RrQOJwgAAAAASUVORK5CYII=">Havij Download – Advanced Automated SQL Injection Tool</A>
+                    <DT><A HREF="https://sqlmap.org/" ADD_DATE="0">sqlmap: automatic SQL injection and database takeover tool</A>
+                </DL><p>
+                <DT><H3 ADD_DATE="1670801292" LAST_MODIFIED="0">Tools</H3>
+                <DL><p>
+                    <DT><A HREF="https://www.tenable.com/products/nessus" ADD_DATE="0">Download Nessus Vulnerability Assessment | Tenable®</A>
+                    <DT><A HREF="https://snort.org/" ADD_DATE="0">Snort</A>
+                    <DT><A HREF="https://www.offensive-security.com/metasploit-unleashed/requirements/" ADD_DATE="0">Metasploit Unleashed</A>
+                    <DT><A HREF="https://www.geeksforgeeks.org/installing-openvas-on-kali-linux/" ADD_DATE="0">Installing OpenVAS on Kali</A>
+                    <DT><A HREF="https://immauss.github.io/openvas/" ADD_DATE="0">openvas | Containers for running the Greenbone Vulnerability Manager. Run as a single container with all services or separate single applications containers via docker-compose.</A>
+                </DL><p>
+                <DT><H3 ADD_DATE="1670801292" LAST_MODIFIED="0">Bug Bounties</H3>
+                <DL><p>
+                    <DT><A HREF="https://www.bugcrowd.com/bug-bounty-list/" ADD_DATE="0" ICON="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAACnUlEQVQ4jaWTPYhcZRSGn3O+e+/cmdlZ45L1P5JEECXgTyEkpEmhmFZCSougYY3ELoogyG5hE6JN/GEVQqyEFDYKYqUpRAtFUJR00SRoTDbGmd2dO96597wWy0oS7Dz1e85bnOcxbpkzB0nzV7F98+jLq9g+gHnELmxpkViEuDFvAAI3iPHz9+62TvnWVCaFDMVGACGM3C2C+sWZ9y79IDADZZuXBGmUOidmvd2j8YSU5VhWbCzLCImy4wyr/Diwf2mjXLbZPlrYeaib4lSVz059fptreIX464qREiYJBHh0EnndtgcGy79+LHAHNHzuvjlLaamZrEf28F7vv/aJdxfedTMzaxsD3DwZhAMS/sblZ+/sA3IDWZYdm8m0rS4GMf32U29+/AK23GWarJu6sybJolozLPmkVTso0kO9fvclA9nq4ft3kbJv3NQLy4jhH5QvvO/5o09peu4ryx95El27qOqj100/nw11+mSIVvzZTMZPuDwt585ME0KSkXJDIRvMGZNVxu8chpRb78iymNlqNLU1QoWzNRXdtzNueqpBBJZ3iNEK1YevoNEKtDX9l8+YP/C42u8+g36HTRzcol2YBmuZG4aESYBZU8uixYou1OtCwlMhgTI3q4OVtq6O+uCDCz9JcbKXuwsCudHUsrl7rHj6CH7HTjrPvGq0UzXnvzeKMrpJLuLN209f/sUFpqY5sVbHxSKZYwojFCsXlO85oMHxr5V2PKbJ6WPStUtRlmVa/bs5N16vTgrsBpC2H+rm6dS4bqfeu82JlphW5nc/iK7/Jl3/HSsH0XHdBNK/LnAQG83tODtbpr3VpCa5YeaonkBWECmnzGFYtZ9vWT6/fxF8EeIWmbbvtsI2ZJIMwDxBtEj8p0z2f3X+B5PvZyQfQjYBAAAAAElFTkSuQmCC">Bug Bounty Program List - All Active Programs in 2021 | Bugcrowd</A>
+                </DL><p>
+                <DT><A HREF="https://vulners.com/" ADD_DATE="1682864879" DESCRIPTION="Vulnerability database enriched with millions of CVEs, exploits and security articles that provides varied tools and services for vulnerability management" ICON="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAACJUlEQVQ4jXWTPWhUQRDHf7O7770zJkgMiU0UPyoLLZQgiYhCxBBOBAu1kYAmoqXoIX6AnaiIYCkKQcGUgkXgLCREERUFSSeCEpUoWBgsFN7dvd2xuJdcLjkHlmV3Z37zn91ZWGkCmGXrhVlWujfb0sDdURQ9GxwcnCoWi3v+49MgKhiBAGwCLgGjxhgzNDSEc0699+Oqer1cLn9umVGgYKAEvAZOASIimfc+A4iiaDRy7tWhg8MX2F5a3QTQEbqKvUwFuAWsA2r5uQOcqhKyrFZT6amatptXt0w/18P0NBQEOh8fYOfDvfjuAlkeiOZmBDLErZHUn+9446+sfb+DLroaAEeWWNKRbdi+7sWyVETqAzQNlq3xvOxv/25jE9JKFb8gERwSAqJVCFrXJGBVFWMM1lrE4wMiPtSzJsmSO0grgCBGQARjwFrhYwhhxDl3PHj/IYkia0RMLk8qvv6CBqBgUREyERTha4BzfR0MKDyanJyc2GjnBr6k8VlgVgRF8WRoo4QYK0obSpjYx49Ow0t5wPxCk9x5MvNbj81M/2mzRxE2iLAqibENQJVf6ngnlv7ODvp9hRfZGPftX67h0FDgsldOt8e+AKCet6L8bO7EYZLQyxmgZGJ6AbTCLKCSsBlAa8xJ4DafuCvTpE2ARdAJ1gfHRYFRSUhyhRUC4xhuyD2+LY9pBB+p15WDdoUxymGMp7WT9LfyaQ0B0WU/Lt832kLxP6/JzWbtnCidAAAAAElFTkSuQmCC">Search Engine for Security Intelligence | Vulners</A>
+                <DT><A HREF="https://www.exploit-db.com/" ADD_DATE="1682875911" DESCRIPTION="The Exploit Database - Exploits, Shellcode, 0days, Remote Exploits, Local Exploits, Web Apps, Vulnerability Reports, Security Articles, Tutorials and more." ICON="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAACCElEQVQ4jaWSv0+TYRDHP/c8b2mpBVqaFgQZJDgZjQ4mDi5OJhrDYhcSSYxJjYmOzs6OhtlIRI1JB+MfYFTCgDrobqICsbYIfVuQQunzPudiEAPir+92udzn7r538J+S7cFC4UBnIl5L1zPN2qEJWn8NKBcHktat9VvHsDGmuhl1vO+fqq7tBTDbg/1huZUPGgvWybtI/RkrrRufL6VyfzTBYiGXMkl3XdSfQuWlt0ybiGPekFHhcX6y/nY3QLBYyKXypS9fTaJ9AeWmInGEs6JUVZgVGDLKvnAsHWYe1ud2ACThTpeLA091ozksEN/KKH3AKIrzEPgYa43L3bcja6NMGK4DkZSIAmuosd48gdEVVJpAckcTOIpqvt02QzhfXk72PPOi8+GY2TSZZjgrRgOQLkGfAM1f2NUvQk1t7Fa2uzGT+7jyYSlbrxgpEWXnGi8EnfYqFWAW0N0Qqozi2mO08PIcd2iC1k9/sDSeHVRx58SbXkTPAyf5cWoHWGBVVa7kpsJHAAGAFrAAcm/5kxa5W13v6whk4zVermI4KIpVuIMyIobjarSytRhA5WIqHxh7xHjTctBtjI4QMW89b1wQxQV7zXsp5e6HM42xnnRPu7EiJaItgBawq51daZcInAuDyHZEpvdBbVW+e7E0nh0UcYeNyKvMZL2+u8m/kRaJaZHYPxXvpW9SMdtcVS1WzQAAAABJRU5ErkJggg==">Offensive Security’s Exploit Database Archive</A>
+                <DT><A HREF="https://www.criminalip.io/" ADD_DATE="1697049137" DESCRIPTION="Criminal IP is a Cyber  Search Engine and Attack Surface Management(ASM) platform to find everything in Cybersecurity with impressive amount data capacities, API speed, and price." ICON="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAACnUlEQVQ4jXVTS0hVURRd+5x7z9Pnu+a3n2JqEOUga1A2K5CIfqhBZH4H0cAGQo0CJ3dkQk0aNKiBmJAPXvlJSkfRHwn6UBFooPXwE1pR6rP7nveecxq8pz5F13Af1tpnr702YRU0AaTzT3ceNoW4rKRXTkAAxKYI1BuNqes/BmrDgM0AWwEArSUXVHU2cxI3uPCbcCMRzjHnSWwhM51L1xlzPadm4mHDmwRXs2Tyjop7Jwzuv8mZhp85LXsKraLhUE1+VkCU+ijSyQxRbHLjQc6x29sAaACUECAN2AycWhg3YKWazZ+6zrVOzzjWvobHJ9OKske/BKsbU9jiXebLyLdS0y7FeTYtj7C5smOnn8SIMGh0JHR+d2ldd1lU4pFULNuk6Aft/Dvlz7B2zEfZK+m57771jBwCbMXihgCpLGUTcR8zhfmVCJDKrfYky/Zis5GYS/uVzxpecNAj3RhppXJxPMsEAAbYGgAQg6PlIknX3Q5AG4QXjCS4LyNgcJrMsURjbqbvKuMcRDSPwZdeQgAaAMJqZgxajnjat/dAY7D8Y1d1j5+5FQbcVivFPDrUXtn7Zy6SRyKdtNKvgfsSsFnCg/hei6qCF5kI3IGMhDPTjaa37WcHAUCHQry0H1cWorpNKR1zo17ZxEDd5ySB5VWi8EzwFhdWE7wFMNLvATZFkCWKpxVL11Faehe+99V2LOUgSWAFBZXBesboGoHyiJtQniOJiSfKXWwL99c+XcoNABirqfFRlNI/OWFKalZBMuZT5E6Pd9eOJoduvcZxlNiisKprsrCq63fC5DUNVoOtfSwo3nWQi7StAPoAaByxjZWbiR/QBgKJgqHriQsmlRcCoPEMamnV6yH5BxoAiIlfXvTv0PisfL5R12T8B3GeFTF1dRDSAAAAAElFTkSuQmCC">Cybersecurity Search Engine | Criminal IP</A>
+            </DL><p>
+            <DT><H3 ADD_DATE="1670801292" LAST_MODIFIED="1671405008">Malicious</H3>
+            <DL><p>
+                <DT><A HREF="https://cuckoosandbox.org/" ADD_DATE="0">Cuckoo Sandbox - Automated Malware Analysis</A>
+                <DT><A HREF="https://github.com/cobbr/Covenant" ADD_DATE="0">GitHub - cobbr/Covenant: Covenant is a collaborative .NET C2 framework for red teamers.</A>
+                <DT><A HREF="https://app.any.run/" ADD_DATE="0">Interactive Online Malware Analysis Sandbox - ANY.RUN</A>
+                <DT><A HREF="https://lolbas-project.github.io/" ADD_DATE="0">LOLBAS</A>
+                <DT><A HREF="https://www.hybrid-analysis.com/" ADD_DATE="0">Malware Analysis Service</A>
+                <DT><A HREF="https://bazaar.abuse.ch/" ADD_DATE="0">MalwareBazaar | Malware sample exchange</A>
+                <DT><A HREF="https://github.com/kgretzky/pwndrop" ADD_DATE="0" ICON="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAABcUlEQVQ4jY3TO2tVURAF4LXvzeOqEATBQqsgCGLhAyWx0V9hYSv4Y6IEtUhA0EJrUUSwsQn+ATshgo9bKJaCMSJJ/Gzm4OFgxIENs/eaNe+dJEFLCS7hAd5jGz9Kv4+l7CeYxWoROvlVp5NtrGDUJ44wj+f+Xx5XwFHn5E4BL3ENG9jCR3wo/VVhL8p2pSMv4yd2sVZvMziOSZ1jmCvsdtl+x7mZJDeSzFVFuxgn2Wutfeq16DNaYbtJxkkOJrkevK1GbeNkry/9ybTujkV8K87rVH0wxey+Y/rjbIzNcvB1lKQlkeRQkgP9yH8htySTJAvFG4+STAs/kmSptaaaOCxhprUmyXKSoxV0GtyrdLaqjFP/yOA03mCvyl4PztflLp6U/hRnBsSHvX7t1OjPdgbrBVzArVqoxZ6DE4N1htXhKm/gHa7i4iD1Cb70nDwrzmho9KhndLiHLVSfdrDWbeVwPJ1+GTcx6b3N1y+8MuT8Bs7LR9lce+lpAAAAAElFTkSuQmCC">pwndrop: Self-deployable file hosting service for red teamers, allowing to easily upload and share payloads over HTTP and WebDAV.</A>
+                <DT><A HREF="https://thezoo.morirt.com/" ADD_DATE="0">theZoo - A Live Malware Repository</A>
+                <DT><A HREF="https://github.com/Virus-Samples/Malware-Sample-Sources" ADD_DATE="0">Virus-Samples/Malware-Sample-Sources: Malware Sample Sources</A>
+                <DT><A HREF="https://www.virustotal.com/gui/home/upload" ADD_DATE="0" ICON="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAByklEQVQ4jaWTT2tTQRTFz70zL83kNbhqlezsQlAEQREEEbqRxrZGTXVRFQt+Ej9C0Y1L3WSRWqgI/vkAblRcSKCaYO1CCtauDOnTvDf3usjENrSGomd3mTs/zsy9h6LZtVOk1iNrKwwz1HqwKoZJiGBBECJrJDvNBg+Qc1DtKhGNEjEwhKEMQH0GRkoAkL/06Q6PFB9Dkq/S/XWPrWEoCIS9FAUJ1BN4gaP4Qp8HN716s3B1I3WVL4tD7Qe56eZiobopFiAB6iZ5frzmyg3luFRzl9dLyec3tzE+JmgXCRNn5M/NNTAmILTdcqRCu70ZAMhNNebi6qa6ynodqJtwuKux57gw03wYV7/1itDjATXdVyeX02TrGtv4hqucXcakWmCfvwjiwTJAXpxY8Z3vF4mj2XzcfInzH4uDLv4K2FEmqQ4bZV92sFQDkM9NfbgSxUdWJO08/dk5dh2vKTsAoH+5MRfFh59I1llKnr2dB476YH9fOwFQNwB5V27Mc1yqSffHUrKxdQuTY4T2u2jvGJWw3aLwxP9bpN4ql1cXOH/o0b+sMuVnWneZzX0AIUx2lIiGhwkhTITUetX3IvbcTpzVg+UAcWaCEP0GWO7VKR+kBLcAAAAASUVORK5CYII=">VirusTotal</A>
+                <DT><A HREF="https://remnux.org/" ADD_DATE="0" ICON="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAIAAACQkWg2AAAAEElEQVQ4jWNgGAWjYBTAAAADEAAB7MuZsQAAAABJRU5ErkJggg==">REMnux: A Linux Toolkit for Malware Analysts</A>
+                <DT><A HREF="https://zeltser.com/malware-sample-sources/" ADD_DATE="0">Free Malware Sample Sources for Researchers</A>
+                <DT><A HREF="https://github.com/vxunderground/MalwareSourceCode" ADD_DATE="0">vxunderground/MalwareSourceCode: Collection of malware source code for a variety of platforms in an array of different programming languages.</A>
+            </DL><p>
+            <DT><H3 ADD_DATE="1670801292" LAST_MODIFIED="1671404938">Passwords</H3>
+            <DL><p>
+                <DT><A HREF="https://vault.bitwarden.com/#/lock" ADD_DATE="0" ICON="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAACS0lEQVQ4jW2Tv2vVVxjGP8/7/ZFvNPeKUYIGOulf0HZpxUUQuiWaQYeA4OjWpR1CZ+vQpYN071IQ0UKhkDGDqw51kQyh9QfGaOI116Rf7zlPh+81V4svnOGc8zzvj+fh1fHljZNBummzkGxjS0J8ImysCBfd/++Z4loZjG6q7i8W6U3qVRGSD8juSAcXCaUMey056t4i7QDNX1nPW4Ps75aO6vuLs0oZF2GBiICpSuPqxoT/edHq3Mpj7/5rF0KlBClZszOhmekgZytCgHj0pOXnP7apCvFmL/PN54e0dKbvIpCzoRClJ63ZtkbJyFAGbGy+45c/d2gqMRwkmkpc+GpG2Xisk8sPBJMkJAiBJKpSHOsVTFXCwOEmxsCOI6GYKGw+FSl3Z5Q6QYX4EBof8Xxg1//sM9J7iEETQEgdISSMPwJP7Osesj0m6KDjsKEIszNMSKJzYFLNmAh4NzKnTlS83c+0o3EiIFKGQ02w+uAt+20mBDl32YWoS7E1SHx5uuHq+SPcurfL9m6iLCcauKmDvzZa37j9ighhi5y7cTZfJ7441XBnZZ7nO4kfb72iqcO2sHE3Usa96dBPd7d94/ZL6moyyrcLR1m7/hn7rVm6/pRn28lNJdmd5JpbXs8Iy8hCw73spa9n9MPlY5w+WQPw29qAlV+32BpkH26klDGd5tLc8vqdqPuLqR2kgIhAO8PE/GzJpbM9Hv7dsnp/yPRUMFWKlDGQo+4XuR3c1ft1RizYtkBlgdqReT3M1JXoT0fHythgScLdOv8H1gU0RhdHz1cAAAAASUVORK5CYII=">Bitwarden Web Vault</A>
+                <DT><A HREF="https://randompassphrasegenerator.com/" ADD_DATE="0" ICON="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAADXklEQVQ4jU2QS2icVRzFz73f/fLNZDJDMplOMpOaxDwa6zNWNB2KiKgUwZWli0JdCIJgVFpLFm7KbFwqLhpwLxgNKASlO1Gr1ldLm4cJdTpJO5NOJplHJpN873vv30URe5YHfucHh+H/MAA0Pz/fFQTBu0KINwzDGJVSwvO8oud5n2utL01PTx/Mn4Zxeh6aMRB7EJ6bmxsmoi8ymUwukUgAAJRSCIIAjUYDm+XyVe26Z9+bmdkAACIw4z/9wsJC3PO87yYmJqZisZiuVqusVCrt1mo1LwzDaG9vUnd1JQa3Gq3cxdf277055fKhF50Gz+fzHABqtdpb2Wz2Wc65XFpacovFfz6o1zePVSqVY4XCrQvLyyuuZqac7F17bmDo6OWh42//dmP2pXdEPp/XACCEcSqRSOhyuSxqjfa5C+fPzT7wzycfXvzYPpr86rOnxn3p2lneN3YyKT33kgCAy1/OjG67bDgIQr6zU9vLGjeu3v7myXRgm4bjOLDiWZ2Iz/anjrxOZneS+4s/oPq3T8xrM1a5dibltc3v15rPPGFjkIR3W0+mbja5DpVWxBkRUbiO1KMv90eSSYStX3VH73G2/XtBVxeXPxW761sinn44/coL48yVlu4wHhem8ViaCDC4id3i1zA7B2Ele8lvXmFWKof9tR22X1za7uD1j4SWdYIcDk3TICGvs9D2icw4iWiKb679rEWkE/FDaQTNK6wjmUN7rUHU9smICm1vlCKC+5pp5XOlJFNem5z1FSYiCVao1GAl0nx8bAR+4ydYqRPYXdmGbN5h6akzrFH6k+kWiMNxQKECtAYzTEQfmsBqaQ87WyZ8tw1t/4XIoRPYXtyCV1lG95F+6DCA9kMAAAcALSVABA7CbnEVhdV1TD79KqgOrF4PcOuXIvYK12BFJFQQAkSACmHfH7ABGYC0BDMYeOowWm0H5ZvfItP3CKrrPtxmCSPP5xDJHAZjBNIKWirEAAjYACkFMAHAgl+r417LxB8bd9HTbGB4oBvjYwPYv3sH2rcRHx0H4wKQAWwbEHAACjwoZx/SGEHPaB/eP38SYAQBjWjEBCmFaI8EEQGWBXnQBgUeHAACnTEoZw+VH2cRhhqkCQYUSCmQVJBhCGgFqPsdtIShAsiDFjpjwL/TOtTpm2Jp+QAAAABJRU5ErkJggg==">Random Passphrase Generator</A>
+                <DT><A HREF="https://www.dinopass.com/" ADD_DATE="0" ICON="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAACeElEQVQ4jYXSSU9TYRTG8f97e0vb27kUKFO9jBUBMWA0JhBixEQ3GkNcujBx5ZfwG7hz68KdCzbGuDAGB2ICRhwSIBAUKFAoLRQ63M69rzs2Uj3bk/M7JyeP4D+ViB/I5e19dpNZNI+b9qCL3hY/wUCjABD/Gv65tCZfb2YoB7sRqh0qBiWzgMuoMeorcPvqoKgLZBJx+WzuF2bPZYydFaRFxRvSEdKkLGucHOeZdJ+g1AM244dkXUEarCr7Sz9I70WxKFZMaaGUydKg1PiSlKj1gFShACJAtZil/+Z9ECaVagkhQXO5wW4jvZGqf4HXoSEsCqZQEGYZLCAViRASVbWTTeXps+dRUrmcPAtwOp0o0kSaFla+zXEQi1IrCXJ5g9RelAFjjUe3xoX6dOY9z9/Oy+mRc3hbWk+fahzG0E5KFDQvLQ4P5dlZxCWdGxGdTt1Db3hCACh3RiOspIq8fPOKw3hMAuxsrMv11e/YQjrpZAxLJsGV9jYEVhrsGr3h7tNFAuDFuwUZkxptux8IahpGrkBcHyfpaCGY+E0mFUPYvLSHW+nz2BkfiZwCKkDEbZIwAyR8QxzbHVTsGXK+XoZrMSpWk3JjJ/l8nocTI3/lRgUI+L3UlqOUw2NUhEq+WiRIkUm9ESOkEc1Kepo9PDnj2SrA52MbhVAXwoRaKU2T1sC07mJ9a5Xujk6uhxvrJlbMfJyXC7ITn8cPpRK+xCJTeoj5gwRfDT8Ra5nRsJdrF8+fiSgXmt10HK1RPd7Hldvm8d0p0T8yJI6KNpxOP8mmLj7tVesdgDIwMChuDbcxVtviXn/TaWMw4GB7fRHvyT4PRpvqAn8A0X75GpIHJUcAAAAASUVORK5CYII=">DinoPass - Simple password generator</A>
+                <DT><A HREF="https://www.passwordmonster.com/" ADD_DATE="0" ICON="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAABk0lEQVQ4je2SMUhbURSG/3vufb7kKZGA0Jo2OPgcEnEpdWjp8GoFka7J1I4qCOLm1MXR2dVBcFOnLpZsd+kihXYxS1OMVEkwTZsSU19e7n3HQUI6lo7iNx04P4fz//zAXYbFv6hUfyiiKGsvJlM1L+G40eWfshZXAMhf9J3Kh0p3oINsBIHQWhsAkEBRAmXG3PratfK2WJocU2Z17PGbOP3oSUc4Lz8ls691u3pUR7CpelOFjx3Ot5rVoxNgkwjBtACAaxp50JajO19L71Z/d9JvrcKy8R5mDY+4ruMtAIAP/ynHqVzISef2n7xQ0CcMAI41UcLQ8+z83oUg+8zaRIXMsGEVlSzRJPIHQ1a1ZwmqRER0e6DMNIjMxJYwThAzzBT97P7aYGICi3NhxelEJiwwSFqWn1mQNwgxmBbQhwiV8nqiu18vLe/1l+lXu55k6do4PFQy8T42WLKuzFEsvL4FgkYMAK4Nv6V6po3igYS/7QKAjE2DRPS9qle+EHrHravh46T5UXNs86xv4T87cs/f3AA/CJ6J2Q4YEwAAAABJRU5ErkJggg==">Password Strength Meter</A>
+                <DT><A HREF="https://crackstation.net/" ADD_DATE="0">CrackStation - Online Password Hash Cracking - MD5, SHA1, Linux, Rainbow Tables, etc.</A>
+            </DL><p>
+            <DT><H3 ADD_DATE="1670801292" LAST_MODIFIED="0">Programming</H3>
+            <DL><p>
+                <DT><A HREF="https://swagger.io/" ADD_DATE="0">API Documentation &amp; Design Tools for Teams | Swagger</A>
+            </DL><p>
+            <DT><H3 ADD_DATE="1670801292" LAST_MODIFIED="0">Simulations / CTF</H3>
+            <DL><p>
+                <DT><A HREF="https://pentesterlab.com/exercises?dir=desc&only=free&sort=published_at" ADD_DATE="0">PentesterLab: Our exercises</A>
+                <DT><A HREF="https://owasp.org/www-project-broken-web-applications/" ADD_DATE="0">OWASP Broken Web Applications</A>
+                <DT><A HREF="https://owasp.org/www-project-webgoat/" ADD_DATE="0" ICON="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAADAUlEQVQ4jXWTS2wbVRiFz53xRGNbKbZcK37IcbwBtlWV0o4TFyLbSQAJEKjqJotCpQiEVLGDtjtA6goVsqqARYQSHkJqIerGjSFSsGmwikvZ0nTR1o8QJV6kzbzuPSySlPDov7vSf3R/6XwfsDMCAECIXC5T6DdDs5HwgdXEwbibOBh3I+EDq/1maDaXyxTA3d3dzN4D5XI53GzcuBAMmtPPjY0ZxVIJqVSKANBqtcTitWv48Yeqt73tXDo0fPjdSqXyYC+rTZWnwvFIpFLI51mv130+Zuq1mn88P8J4JFKZKpfDAARIing0NnM8P8K1tTWbJH3fl47jSMdxlO/7yvd9tbW1JUlyfX3dLuTzHIjGZkgKZLNZK5NKefVazSNJpZTa/+ud1Tuq2+moFyefV1/Nf6mUUvKXlRUvk0x52WzWCvzZak2feuN0gIresyOj1HQd0WiUsVgMTz79lOht9sTK9ev8/dYtPBGJ4KVXXsbwkSOBYqmEb7/5elrr6zNHj1kWnzl2VHvv3DkODg7i/r17CIWCSAwk2Ol0eLPZFJZl8eOZT4RhGAIAx4pF6roxGjCDZiaRTEDXdX18cgLjkxMAQNd1xdtvvoWrCws4cfIk0+mUsG2bAoIARDKZhGmamQAIiJ026XkeAWiGYeD0qdfxxfwczp89i6GhIeE4jkqn05rnedR07VH/mm3bd9vtNgBAKSUMw8Dnn36Gufk5vnPmDN7/8AMsLS3x9h+3BQAqpQQAtNtt2LZ9V5PSW65WFwUAYRgGNzc3+XOtjsuXr+CjixchpeJvzZvY2NgAAOi6TgCiWl0UUnrLOzUmU16j0fBIstfrKcd2FEm6rkulFE+8+pp6YWJSSSkVSTYajUc1gqQYiMZmClae3W7XJkkppdoDSUqpvr/ynRovlhRJdrtdu2DtA2kH5fIuyiOPRbl541e3tvzTf1D+l0yNC8Fg6G+Z0imCQKvdEvVaHVcXFrzt7YeXDg0P/0OmfTpT5DL/p3P/akjvm81lMgXsnr2X+QvXYuH/HpM5TwAAAABJRU5ErkJggg==">OWASP WebGoat - Learn the hack - Stop the attack</A>
+                <DT><A HREF="https://overthewire.org/wargames/bandit/" ADD_DATE="0">OverTheWire: Bandit</A>
+                <DT><A HREF="https://www.hackthebox.eu/" ADD_DATE="0" ICON="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAACdUlEQVQ4jW2Tz0tUcRTFP/f75vl7fDMqBkEQFNOmTRS0aBNtI6LNuLA2arjIMCQIF5qKZCFBCZVjNk5Wi4QUonWESX+A0Co0NIrIH/NmxjGfzrzbwhm18m7ud3Hu+R7uPQf2VI9iiu+BBcIJl8H4KoMDC4T3wwAIAFroggIkUjSKoae0gqMIeOt8yeXpbXZ49S9e9rI9TXI2YOh3qjmzlmUh53ELwbZs7gWrOJhOM7Pl03U1zIe/FMRcjthKt2XRCGzkfB6mMtzvOMQqwIN5DoRquImhDaUEn5ee0NcaYg6AsSRTU4omUqRHl7hQZI8pdkyxdxT+oiHhsj6p6JjLFECgIKPq9xY5YxG0yxiOuxxb2eBJq5AFiM3hlNbSZiyuYyjf2CInShWws9ESL8tibot2Vewah8H6Sj6OrnL+2TKXyuuZCTn0+4rkNmn3siwCJXsJjApeU5ihbIaTySSPRThhB3hnlzGJcDzp8iib4VRTmCEVvOJsYPsqqPiYCcWKCt+Aa6NJXht4Kz6aVy62hJkGmFCsbBKjhZPvmkLRKPgTiqWKtISZFlhGWWkJM62KTChWFHx0e3iHQBULC4OgUSHfCzKuVAIWYI0rlb0gUSGPoBgMBUeaght+Bh0iiSQvRpaI9Aj+PHjFX+bB6xH8kSUiz1OMB0NEVFjZJfC5sZZm2C7nckkZs3GXzroMDpAH8nXfceIunaVlzNrlXMmkSRihYzcLhYqnOC3KnWqHc+kUX1UJoYgY3KDD4UyK95qnq6mWT/+FSQEpbDbu0mAZ+gKlRFQht8nnvM/t5hBv9gvfTu2NamwVZ8zlbiJFd+wHFfthAP4AQZsHWFJ9tsgAAAAASUVORK5CYII=">Hack The Box :: Penetration Testing Labs</A>
+                <DT><A HREF="https://bamctf.com/" ADD_DATE="0">BAM CTF</A>
+                <DT><A HREF="https://ctftime.org/" ADD_DATE="0">CTFtime.org / All about CTF (Capture The Flag)</A>
+                <DT><A HREF="https://www.twitch.tv/ctfandcigars" ADD_DATE="0">ctfandcigars - Twitch</A>
+                <DT><A HREF="https://redteamvillage.io/" ADD_DATE="0">Red Team Village - Cybersecurity Training and Briefings</A>
+                <DT><A HREF="https://zaratec.github.io/ctf-practice/" ADD_DATE="0">CTF Practice | zaratec</A>
+                <DT><A HREF="https://247ctf.com/dashboard" ADD_DATE="0">247CTF - Dashboard</A>
+                <DT><A HREF="https://tryhackme.com/" ADD_DATE="0" ICON="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAACh0lEQVQ4jYWSTWgdVRTHf+fOna/35s0MLqKlLaVpXoOGIAg1C0VqFkLXxWxb7KILuxEENy6KiEvBnUJFutDF07oRFxIxJE0amn5QK0I/VARrCoKakMnkvTdv7nHRFwwh1h+czeHe//n6C/8igC6n6VRozLul6kERGcSqW5VzH05tbHysIAK64w8GoAMewFKSTFuRT9W5i3+urx8r1tamnHNvhJ53+nqavi2gHQj0UbFHnB+KAKzk+cKVOH6eXXQguZbnN+ebzcnt3LaIOQ9uKQyPXEnTi6iOEwStDgTDkfgI/BkoKphv+P5ni1n23nKr9YKAKohZSpLpOI6/rOG3LdV3ApFzSRyPMHxwFqpvoBmLBH3nvhDV0jPmwmKrdUZAuZrnPyw3Gid2dS27x9jJXBiOrWTZ3YVGYx/zWfYzwH0IhwvyFEwHvO1QkB8hmAOrw4XfyrJXvo/jAzZS7V5Nkul2UXy3V7Vvo2h0zvdP+sYErq4vS1Fcnk/T19cGg9JY+6x18GZg7QdLaXqpFvndgDGgDsSDOuz1Zuu6vqtwNHFuC9C837+9Ye0zgArASpJM1MacsSKxDo0iIL5qNet5F97P8/XxqvIfRFG32+1qFEVZVpa/vrW62pO93LWTqN0ePaA6MxD5y0DlwX5gpBbp/HLv3qLsMIX5fA+BGfCOHj789KCqyhh04PsNsbZtNjevvbi6+vA/z7Xd2UoUvdSEI4Xn1bVI+lRRLIzC7SfHx1/rO2cfe2+AT5rNyU1rR9pVteZZa3r9/h/W2kNfp+lkXlWPNwxAY2zsudDa/X/fufMVwCxkQZqefqLX+6kMgon/FXgVvAnQQxCMJskp59yNl8vyOsBxsP8AzOr1XWcYGRAAAAAASUVORK5CYII=">TryHackMe | Cyber Security Training</A>
+            </DL><p>
+            <DT><H3 ADD_DATE="1670801292" LAST_MODIFIED="0">Honeypot</H3>
+            <DL><p>
+                <DT><A HREF="http://www.honeyd.org/" ADD_DATE="0">Developments of the Honeyd Virtual Honeypot</A>
+                <DT><A HREF="https://www.google.com/search?client=firefox-b-1-d&q=dionaea+honeypot" ADD_DATE="0">dionaea honeypot - Google Search</A>
+                <DT><A HREF="https://www.google.com/search?client=firefox-b-1-d&q=github+honeypot" ADD_DATE="0">github honeypot - Google Search</A>
+                <DT><A HREF="https://www.atomicsoftwaresolutions.com/" ADD_DATE="0">HoneyBOT - the windows honeypot</A>
+                <DT><A HREF="https://www.honeynet.org/" ADD_DATE="0">The Honeynet Project – Honeypot research</A>
+                <DT><A HREF="https://canarytokens.org/generate" ADD_DATE="0">Canarytokens</A>
+                <DT><A HREF="https://github.com/strandjs/IntroLabs" ADD_DATE="0">strandjs/IntroLabs: These are the labs for my Intro class. Yes, this is public. Yes, this is intentional.</A>
+                <DT><A HREF="https://docs.canarytokens.org/guide/getting-started.html#how-canarytokens-work-in-3-short-steps" ADD_DATE="0">Getting Started | Canarytokens</A>
+            </DL><p>
+            <DT><H3 ADD_DATE="1670801292" LAST_MODIFIED="1671403607">Compliance / Policies</H3>
+            <DL><p>
+                <DT><A HREF="https://frsecure.com/blog/incident-response-playbooks/" ADD_DATE="0">Incident Response Playbooks | FRSecure</A>
+                <DT><A HREF="https://gitlab.com/syntax-ir/playbooks/-/tree/main/" ADD_DATE="0">Files · main · Public Incident Response Ressources / Public Playbooks · GitLab</A>
+                <DT><A HREF="https://www.huntress.com/hubfs/Huntress%20-%20Incident%20Response%20Checklist.pdf" ADD_DATE="0">Huntress - Incident Response Checklist.pdf</A>
+                <DT><A HREF="https://www.cisa.gov/sites/default/files/publications/Federal_Government_Cybersecurity_Incident_and_Vulnerability_Response_Playbooks_508C.pdf" ADD_DATE="0">Federal Government Cybersecurity Incident and Vulnerability Response Playbooks - Federal_Government_Cybersecurity_Incident_and_Vulnerability_Response_Playbooks_508C.pdf</A>
+                <DT><A HREF="https://www.nist.gov/publications/nist-mep-cybersecurity-self-assessment-handbook-assessing-nist-sp-800-171-security" ADD_DATE="0">NIST MEP CYBERSECURITY Self-Assessment Handbook for Assessing NIST SP 800-171 Security Requirements in Response to DFARS Cybersecurity Requirements | NIST</A>
+                <DT><A HREF="https://my.exostar.com/display/TE/PIM+Form+Resources#PIMFormResources-CSCRMQ" ADD_DATE="0">Exostar Compliance Documents</A>
+                <DT><A HREF="https://exostar.atlassian.net/wiki/spaces/EN8/overview?homepageId=72777866" ADD_DATE="0">Exostar NIST 800-171 - Exostar Documentation</A>
+            </DL><p>
+            <DT><H3 ADD_DATE="1670801292" LAST_MODIFIED="0">Forensics</H3>
+            <DL><p>
+                <DT><A HREF="https://www.autopsy.com/" ADD_DATE="0" ICON="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAC+klEQVQ4jW2RS0wbZxSFzz8z/8z8nrEZbGPG5uGCCSBICfYCRCABVLVN1aZCbCpVWXfBgkUXVTatFEXZZpN9VbXNJlKUhxRFolU2VSIhRQlJSOJUFYTSgE2MH3jM2PPsypKTcHb36p7v6p4LtIjjuCVK6TIAEUfrFICf3vG0FvFo1MsM9F+ilH5zlFtiygKTpHEA/JEAlTFrYSKt9uj6MoDYe36mqsFMKqEPK0DHkQAfXnpUjyAV10/wTJ1/D6BTpvT1xjqGBpOJL5tNoWWgzbacCRU+Pop10GD77ncNniOe68VEJlNCkPKAhEJ8biSizT3e2vkZgN8KEIxGQ7y39gy5AwtaJDZPY11zruNwhOMhUAE1o4JCsegqHFYB+GgNA4Dp8bQrWzJmCw5BIKgRXhRJOMAjygBN8uEHwtjY2999vPn6RwDFDzKoGwe/lhrOhul4cM0DKJyLmlmHYfso1FyQeg2pZBdpbv8AAGDHc+ztgEjAmIzeRBy+42Jn30DFdKEwGRJjwWi0fbhpaJ6QUjTtLMeL0+kO74sfzihad9jD0+0G8pU6eIFCCYVQNS3M9xtSJt7ovp+t3gRQFwRB+Oz452cvz3719YguU5JduQbBX8eZhIuxcBXXszauP8ijWimCuBYGxxUQKoy0q2J3ybDKfP/k9LWF8xdOnDp9msxkxjGWnsTNW38C1QJCgoeZUWBzu4JXGwVM9/CYPcawsm562QJxJVnOCPrQyMfhRDcEz4Xou+hL9sLSUvjt3hoW0xF82hnE0lQMYVCcOxmG1Aas/lvNGYfuOM/BFGp7+VzVqPaUVYY3dRfULCOXy+cHwrK7s+/E/1o7JMVDB4wRPPyvht0X1lbpwD7n2PYjBwB/WN53AEzxWkQuFt7i7u+/lFZu3/n+0evi5bGuwFRfp6i3MR4S5TCalPEsX3/y4G/jCgATgEcAiEwNLUaTfd96vue/3fznqmWaNwDYnxwLLU/2qJe2io3necMuR4JC4Omb2sWXe40/mm/8H/F0IQoIOByBAAAAAElFTkSuQmCC">Autopsy - Digital Forensics</A>
+            </DL><p>
+            <DT><H3 ADD_DATE="1670801292" LAST_MODIFIED="0">OSINT</H3>
+            <DL><p>
+                <DT><A HREF="https://www.freecarrierlookup.com/" ADD_DATE="0">FreeCarrierLookup.com</A>
+                <DT><A HREF="https://devicehunt.com/" ADD_DATE="0">DeviceHunt</A>
+                <DT><A HREF="https://network-tools.com/nslookup/" ADD_DATE="0">Network-Tools NSLookup</A>
+                <DT><A HREF="https://www.elevenpaths.com/innovation-labs/technologies/foca" ADD_DATE="0">Foca | Innovation and Lab | Telefónica Cyber Security Tech</A>
+                <DT><A HREF="https://somerandomstuff1.wordpress.com/2019/02/08/geoguessr-the-top-tips-tricks-and-techniques/" ADD_DATE="0">GeoGuessr- The Top Tips, Tricks and Techniques | The Digital Labyrinth</A>
+                <DT><A HREF="https://www.geoguessr.com/" ADD_DATE="0">GeoGuessr - Let&#39;s explore the world!</A>
+                <DT><A HREF="http://exif.regex.info/exif.cgi" ADD_DATE="0">Jeffrey Friedl&#39;s Image Metadata Viewer</A>
+            </DL><p>
+            <DT><H3 ADD_DATE="1670801292" LAST_MODIFIED="0">Hardware</H3>
+            <DL><p>
+                <DT><A HREF="https://shop.hak5.org/" ADD_DATE="0">Top Pentest Devices</A>
+                <DT><A HREF="https://www.arduino.cc/en/Main/Software" ADD_DATE="0">Arduino - Software</A>
+                <DT><A HREF="https://github.com/CedArctic/DigiSpark-Scripts" ADD_DATE="0">CedArctic/DigiSpark-Scripts: USB Rubber Ducky type scripts written for the DigiSpark.</A>
+                <DT><A HREF="https://github.com/digistump/DigisparkArduinoIntegration/tree/master/libraries/DigisparkKeyboard" ADD_DATE="0">DigisparkArduinoIntegration/libraries/DigisparkKeyboard at master · digistump/DigisparkArduinoIntegration · GitHub</A>
+            </DL><p>
+            <DT><H3 ADD_DATE="1670801292" LAST_MODIFIED="1707965129">Social Engineering</H3>
+            <DL><p>
+                <DT><A HREF="https://getgophish.com/" ADD_DATE="0">Gophish - Open Source Phishing Framework</A>
+                <DT><A HREF="https://osintframework.com/" ADD_DATE="0">OSINT Framework</A>
+                <DT><A HREF="https://www.phishtaco.com/" ADD_DATE="0">PhishTACO | Phishing Security Software</A>
+                <DT><A HREF="https://github.com/AbirHasan2005/ShellPhish" ADD_DATE="0">ShellPhish: Modded version of shellphish. Mod Features are Colourized Text, Animations, In built setup for Termux, Extra features, More improvements, Bugs cleared, Fixed URL not showing.</A>
+                <DT><A HREF="https://github.com/elceef/dnstwist" ADD_DATE="1707497942" DESCRIPTION="Domain name permutation engine for detecting homograph phishing attacks, typo squatting, and brand impersonation - elceef/dnstwist: Domain name permutation engine for detecting homograph phishing a..." ICON="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAABcUlEQVQ4jY3TO2tVURAF4LXvzeOqEATBQqsgCGLhAyWx0V9hYSv4Y6IEtUhA0EJrUUSwsQn+ATshgo9bKJaCMSJJ/Gzm4OFgxIENs/eaNe+dJEFLCS7hAd5jGz9Kv4+l7CeYxWoROvlVp5NtrGDUJ44wj+f+Xx5XwFHn5E4BL3ENG9jCR3wo/VVhL8p2pSMv4yd2sVZvMziOSZ1jmCvsdtl+x7mZJDeSzFVFuxgn2Wutfeq16DNaYbtJxkkOJrkevK1GbeNkry/9ybTujkV8K87rVH0wxey+Y/rjbIzNcvB1lKQlkeRQkgP9yH8htySTJAvFG4+STAs/kmSptaaaOCxhprUmyXKSoxV0GtyrdLaqjFP/yOA03mCvyl4PztflLp6U/hRnBsSHvX7t1OjPdgbrBVzArVqoxZ6DE4N1htXhKm/gHa7i4iD1Cb70nDwrzmho9KhndLiHLVSfdrDWbeVwPJ1+GTcx6b3N1y+8MuT8Bs7LR9lce+lpAAAAAElFTkSuQmCC">elceef/dnstwist: Domain name permutation engine for detecting homograph phishing attacks, typo squatting, and brand impersonation</A>
+                <DT><A HREF="https://github.com/urbanadventurer/urlcrazy" ADD_DATE="1707497998" DESCRIPTION="Generate and test domain typos and variations to detect and perform typo squatting, URL hijacking, phishing, and corporate espionage. - urbanadventurer/urlcrazy: Generate and test domain typos and ..." ICON="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAABcUlEQVQ4jY3TO2tVURAF4LXvzeOqEATBQqsgCGLhAyWx0V9hYSv4Y6IEtUhA0EJrUUSwsQn+ATshgo9bKJaCMSJJ/Gzm4OFgxIENs/eaNe+dJEFLCS7hAd5jGz9Kv4+l7CeYxWoROvlVp5NtrGDUJ44wj+f+Xx5XwFHn5E4BL3ENG9jCR3wo/VVhL8p2pSMv4yd2sVZvMziOSZ1jmCvsdtl+x7mZJDeSzFVFuxgn2Wutfeq16DNaYbtJxkkOJrkevK1GbeNkry/9ybTujkV8K87rVH0wxey+Y/rjbIzNcvB1lKQlkeRQkgP9yH8htySTJAvFG4+STAs/kmSptaaaOCxhprUmyXKSoxV0GtyrdLaqjFP/yOA03mCvyl4PztflLp6U/hRnBsSHvX7t1OjPdgbrBVzArVqoxZ6DE4N1htXhKm/gHa7i4iD1Cb70nDwrzmho9KhndLiHLVSfdrDWbeVwPJ1+GTcx6b3N1y+8MuT8Bs7LR9lce+lpAAAAAElFTkSuQmCC">urbanadventurer/urlcrazy: Generate and test domain typos and variations to detect and perform typo squatting, URL hijacking, phishing, and corporate espionage.</A>
+                <DT><A HREF="https://dnstwist.it/" ADD_DATE="1707498232" DESCRIPTION="Find lookalike phishing domains that adversaries can use to attack you">dnstwist | phishing domain scanner</A>
+            </DL><p>
+            <DT><H3 ADD_DATE="1670801292" LAST_MODIFIED="0">Mobile Hacking</H3>
+            <DL><p>
+                <DT><A HREF="https://www.osboxes.org/android-x86/" ADD_DATE="0">Android x86 Virtual Machine images for VMware and VirtualBox</A>
+                <DT><A HREF="https://www.bignox.com/" ADD_DATE="0">Noxplayer – Fastest and Smoothest Android Emulator for PC &amp; Mac – Free and Safe</A>
+            </DL><p>
+            <DT><H3 ADD_DATE="1670801292" LAST_MODIFIED="0">Concealment</H3>
+            <DL><p>
+                <DT><A HREF="https://www.hackingarticles.in/steganography-the-art-of-concealing/" ADD_DATE="0">Steganography: The Art of Concealing</A>
+                <DT><A HREF="https://temp-mail.org/en/" ADD_DATE="0" ICON="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAADKUlEQVQ4jX3TS2icVRQH8P+53/1emUdmbEaTKZmqSKppJW5aG2vpogsfIAUXlqAboVVQjEs32k0Rt7WgkFIQQSjixl02CpUmRlp0YShGSptkOskkmem8vsl8r3vvcZEWCqJn91+cw4E/P8LeEAAGgOKtqyd4OPMuaTNNYXoAANi319kSS9Td/aZ9aOb6ozv0IOCx7y7lcbxygZL0vdytpuctb0LWewAANZZHdHgMwaFSpH37srhe/az1zmxv7wqDij/M5XGkdNVvxq+NfL2AoZUdxSQES0EggBQz2JhwoiSbH76MsOTN48bOTPut97sEAIXVH7/MNMLZsU/nUxEpSw87AgCTAcAM0gZgkOjGhn1bb1541R7sz1xqPf3mx5Rb+f64a+jn8S+uSXutQ5AkRKQYYNKeBLsSxrXArmTt2yQ7kUkPFHnzg2MqgTklKeeezf1Sdb3bTZUUPNE/Os7JaJZgCWRv1mA3+qh9chLuepdkN2Jd9MnqRcbdGbhczpyVMjbT/p911lIIq5+Qsx3svSwIsheBPRsySEBg5BfWaGilAUq06J16hjdmX5qWIkwrdr1LBEbrjUlWBY+sfgKdseHUOiDFcFfbKPx0G1vnjiK/sMZDKw3qnHySRJhW5MMamQjuWgsy60AMUrArIVsRVN6Dzjhwqx2ULy6g+fYLCI5VkLtxD3GlCGl8u5qODU+4d9ucWd4WaSmD+6cnwbYFq59A7CYQqQIxYHUjjH71G1Gqze6LFaiiX5XKFUvhVPng8LU7Otk3RKQZ+V/XiaWAUw+gMg7i8QLq546AHcksCHY7NOHUfsnGLEkO4ivB1BMzwxMj0llts845YujvBjNAbFuwU43Hv/0DxpPMliAriE3yVJE65WysQ3VFBM+eWVS+M7fz0QnLZGxt9WKjci7pnMvsWgwidrYC9u+2KPv7hnFrPR28MmmxFHPB4TOLAgyim9vnwxF3fuPz1+3w4IiQrYGSrZBFEEPsxqBQMcVKDaZGxb2Lp+3dSnae7zTOPxT1L0zZv+57/nIdcqu7h2k0j/D5MvrP7YvYsS5jsfYIpv/jHD3g7P03538Ae/iaYQN7u0gAAAAASUVORK5CYII=">Temp Mail - Disposable Temporary Email</A>
+                <DT><A HREF="https://smsreceivefree.com/" ADD_DATE="0">Receive SMS Online | Temporary and Disposable Phone Numbers</A>
+            </DL><p>
+            <DT><A HREF="https://pentestbook.six2dez.com/others/web-checklist" ADD_DATE="0" ICON="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAIAAACQkWg2AAACu0lEQVQ4jT3MzU9TWRiA8fc959wL95bSBmwtUAXFllgclI8ZY1Akxm+NutG9MTFOdDmL+SPYjLOYRI0bd34QMzsnE2PMsEGSCUNUqrYRWwVq0fa2cL/OOa8LJzz734M3fr8jSsVfzsSS/V3KV0KgEOArmv0EL96oxw//KecLD5z3ttQKGKAW7srqtTHRM7hNBcpoN9Ydf2ZJz+W96quKDNRkK06Z9q+x7X+sFSUyBBRZqoxNDge1ZrVYW1wJn7pbvtZlx/yrdLexNW2uBuuJMPi7NXE36vzsVCtciJFsZG1546/b/wrObUF95UWbjB8OJk9dyIgWA1rHeu+9uHjzv9/at497zb3BBs+MHF588mG4zzh2/cfsod7BnXbh+UL/6VxXV9xvSh3o3M7Y9JN8acOYtSMZ6fHOtt7JNjVxZcgXFiOYLjQWyZi6/1oxPLgvyUxz6d3q1J/FwBBVNB9ZcTZX+OQ2v4JlaS/klrk+X7p5dy7+tqyq7scmWy8s37o9u1YPZTMAIGSc15KD+YZ39XQ/RCzthvtyid0Cxs+NnjyVcZyg+KZx4fzApYnuaOguFGq+ZpynB1bqchdzR49mSFGDmzO8txLaC6XQDWh0uCOxpaUr3XH8xK6zmfb5+TLv3vNTww+fLXze1qhne6L1d9XXsyvLaC1VoeHRiQEOimQgpat6ssmLB9J8z8SRcqni2ZHp5x9zXm0kYe7u1ENDHW1RY6ibZVJcKeCcMQahJ1vaLWEaAoBQ6ngqMnl53M6mTC/s9OWOHq2JwpAYIiISAeeopRS1mgOI5KtcJp5KxYLPDiCEjAMQACICABARImhNjCHbn38Z4wRK9yUj3GQagXGO/webEQEiEACbWFsNOQPShsGIARACEADB5v87ACJCIGAzVnQDOCB8cXyQGhEIEAEJgIg2AQICEAF8Aww3USYFtSUkAAAAAElFTkSuQmCC">Pentesting Web checklist - Pentest Book</A>
+            <DT><H3 ADD_DATE="1670801292" LAST_MODIFIED="0">OSINT / Company</H3>
+            <DL><p>
+                <DT><A HREF="https://www.crunchbase.com/" ADD_DATE="0" ICON="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAA+ElEQVQ4jdWTvWoCQRSFv41r8AdExASyCJrFYhVsRK3Tp1AU8R20sbOPEEgnWvoCYqXWFj6AphZBYhM0gopgCkmxKaZQVxQ2NuY093LunG+4MCN587rO36XfXBAG4B8AYo8QvL8AkIxCXDUB8Dgh4gN5byJbhOdxHgNk421vOfhcgc0KqYrwX7MwmoHihlITOu8nAOWMCA2nkE2A9iD8eg9eWhBSoFE4A3DcwvJb9KMZbH9Ev9jsqsN6ZoVaF9pFGEzgSYN0VfilZ9AUiAXEmX1JxqccV0G9g94Qvtbg94LLDmEFxnPofxzk9SOASV3BX5ABMytIRuMXnzc6kUXDr9QAAAAASUVORK5CYII=">Crunchbase</A>
+                <DT><A HREF="http://www.ezilon.com/" ADD_DATE="0">Ezilion</A>
+                <DT><A HREF="https://www.glassdoor.com/" ADD_DATE="0">Glassdoor</A>
+                <DT><A HREF="http://www.guidestar.org/" ADD_DATE="0">Guidestar</A>
+                <DT><A HREF="http://orbisdirectory.bvdinfo.com/version-20161014/OrbisDirectory/Companies" ADD_DATE="0">Orbis Directory</A>
+                <DT><A HREF="https://opencorporates.com/" ADD_DATE="0">OpenCorporates</A>
+                <DT><A HREF="https://www.owler.com/" ADD_DATE="0" ICON="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAACQklEQVQ4jZVTTUtUYRg9z/u+d+aO1qiYI2IUQpgumhRXtWglBIKKwsw0Qh8Q9Q/ctHJRtGsRhAyBEPg1V7iDtpG+FkERtSslouzDJKJFiOHMvXPvfZ8WeWUcP6CzfZ73cM55z0PYHwTmA6a075AwNiYOIK5argQzhczXc7ma1/F4oiQlBVoLjsXIdF040ShYCPrc3/8RAFS1rLPj44kvTU035jzvEknZoAHA97XY2HAYYBDFaonuABgFM4UEBIBPW1brB+BxYBid0vMKVC4/N6RMlIku+Eq1cRAgovX7ZqKbaztyYCYG6MjMzHy9bfvH8vleAGCAGKCkbScap6cX6xcWuG1uLgUAYU4CAIGI2227I4hGB4xi8fZqJvOk2bKuHi0UHqQtS7wdHv7VQnSNyuVyUeueStcCqZQAgJLj9JCUukapQlehUO/6/v1NxzmzbJodScs6uZTNfofvv9NE57YU6JAgtMEMQCsl1v+FsqGVOvETWPrNfH4rKAVA71SQTmsAOBSLvYHvC9dxUl+HhtZjhnE5YprPDNe9u0Z0r3Nq6jgbximp9avKDGg7RCIkZmfzXiSSinvewGom85ABIoC7JyaavtXWzkOprgalkiuDg5/CnwuLRAA4aduJH0Gw6Jtmt9zcfCS1fqGlbPG1zlI0WnfYcS6ujoxMhvu7mwig17LqloUYdYPgCrRuZWZXRSJP4553ayWbfVnZ1r0ItplzuZwx397e2FAqFSf7+v4QwNWP98Nex/RfB1ataJfNSvwFnfv2C5/zArsAAAAASUVORK5CYII=">Owler</A>
+                <DT><A HREF="http://www.scoot.co.uk/" ADD_DATE="0">Scoot</A>
+                <DT><A HREF="https://serpstat.com/" ADD_DATE="0">Serpstat</A>
+                <DT><A HREF="http://www.spyfu.com/" ADD_DATE="0">Spyfu</A>
+                <DT><A HREF="https://www.accuranker.com/" ADD_DATE="0">Accuranker</A>
+                <DT><A HREF="https://www.canada.ca/en/services/business/research.html" ADD_DATE="0">Canadian Business Research</A>
+                <DT><A HREF="http://www.europages.co.uk/" ADD_DATE="0">Europages</A>
+                <DT><A HREF="https://www.gov.uk/government/publications/overseas-registries/overseas-registries" ADD_DATE="0">Overseas Company Records</A>
+                <DT><A HREF="https://en.wikipedia.org/wiki/List_of_company_registers" ADD_DATE="0">Wikipedia National Company Registers</A>
+            </DL><p>
+            <DT><H3 ADD_DATE="1670801292" LAST_MODIFIED="0">OSINT / Internet Scan</H3>
+            <DL><p>
+                <DT><A HREF="https://ahrefs.com/" ADD_DATE="0">Ahrefs</A>
+                <DT><A HREF="http://www.alexa.com/" ADD_DATE="0">Alexa</A>
+                <DT><A HREF="http://builtwith.com/" ADD_DATE="0">Builtwith</A>
+                <DT><A HREF="https://exonerator.torproject.org/" ADD_DATE="0">ExoneraTor Tor Relay Search</A>
+                <DT><A HREF="http://follow.net/" ADD_DATE="0">Follow.net</A>
+                <DT><A HREF="http://greynoise.io/" ADD_DATE="0">Greynoise</A>
+                <DT><A HREF="https://intelx.io/" ADD_DATE="0" ICON="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAABlElEQVQ4jZ2TPWsUURiFn3NnsmEFdZMdLQQbCwuNYCXESgWxtLLQlBZaWGhhoUGcJbsLgl3s8gtE0rqNYPwJ4gfWQoiwSNgmA/sxx2Izmo2Ls3iaezn3vue897xcUYbUgS+INxpN5f8P/l1YqpCs+YoC1e6qOgf5E6kvEjgbylwslnSEtwsNrxR8ddWnPcd7B+6UdGCBnLTdIeLSXo+lvbZ2krY7mPOjiAszCRxPfaZS5XM+ZFPwQfNs9DOu957pXVkE47SBhYbvJS2PkrbzZM0vi7N/ZFAIYFIHm9dAV3MoN5vF8QxzdADl9abXQ+C2A5lGfO/+4Brr9GNs0Zgi9BwjBMprDV+N5nkw6LPiPtuVo2zVT/LwJ3pR2kEtdS2u8FHwrftUNwCSljcUcXc05HK8mPqcA9FEVY4IePcTX0PMI4lqf8j9/SdpOOBxLJaDeKWk6YFE7GJmf9bcZtmwk2XkWUvbBz2OpV6M4JTqTd/EhzoYx+thxFbviXYL57Hu5H6WKezfKYoneXHLf7sXOPyFp+AXLCqhfOMbDrcAAAAASUVORK5CYII=">Intelx.io</A>
+                <DT><A HREF="http://www.ipfingerprints.com/" ADD_DATE="0">IP Fingerprints</A>
+                <DT><A HREF="http://www.softpedia.com/get/Internet/Other-Internet-Related/IntelliTamper.shtml" ADD_DATE="0">IntelliTamper</A>
+                <DT><A HREF="https://sitereport.netcraft.com/" ADD_DATE="0">Netcraft Site Report</A>
+                <DT><A HREF="https://moz.com/researchtools/ose" ADD_DATE="0">Moz Research Tools OSE</A>
+                <DT><A HREF="https://shodan.io/" ADD_DATE="0" ICON="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAC3klEQVQ4jX2Sy08TYRTFz/d9M51OS8tAtSJUgURtfaDGqGgKCilqhSgGHxu3Ji50pRvdGP8Fd25cGDRGMQjqwrcRMERFE0QJaBQE+oDy6ItpZ6Yz40aRhuDZ3Xtufjf35BIso46a+mrJIly0S9K2nKokknPJB6NZ27WzHx/Ji+e4xcVVgF4FjE5/4EBlZXnH6kCdjS8pgZ5MIt3fv8vS27f7JHCiDdDzADf8fsfaHH/OtkJqDAIiz2hpaeNBm6PGD4vHAyOTAXU44JmNHzudO3iirevZ3QXArerDzgo7fVxet6/W7tsAMAYlEgHndsPi8QAAqCjCVrUZfHcPnAwBAP8ALkG/XNkQqJUOBGD1eUEFKzLD35D58TMvE13OQEskQHSiL+7TFUWFTaLXC6vPB2oVAUIg+rygooj4q9cws1mooTBi99shR6JIUnTmhchbeRc4BioIeRtZgR3Rm62YffoCSjQKbSqGuXhiIG0RfuQB5ET6uzL6q1SbnARfUrJgpPs/IxuOQp3+AvtGHxw7d8ABsmVlKPzlGQveiWfNC6d6n86y46s8mk1VWvTZOZg5DdrMDKY7OhF/0w1lagquhnqsbAxC2lcDx/atxFZWypwc266FJrZurNr0kN0eHxlothfmjFisNts/wBJdPUgNDhnJSDhaVLWlwN18hBTsqQbvdoMrLoZQXgFTUUBnptdzY5MxBgCtYyPdTcXu9lRaHk7KSl98Xr6iUS65xl+93+n3gysuWjiNUAoiCJCHh2COjaYWPvHo29dfAXz9Wz9paGohhAAcW/LmVLDAVDVQEwJd4v5RTlUGsuEI1LHxJd784BCUcAQZk0wsxf9RsGxdyC7Pn+INXSKUgne5YOo6Uu/eI3avDenxiVTEwCWyHAAA2usOBSuc9jtOT5nEJAmGokINhZCZi6sjBjlz/Pmj1v8CAKDTH/QWMP28KPB7TcNkGcP4pBm564ffvPwAAL8B5I8meGZQoX0AAAAASUVORK5CYII=">Shodan</A>
+                <DT><A HREF="https://www.robtex.com/" ADD_DATE="0">Robtex</A>
+                <DT><A HREF="https://securitytrails.com/dns-trails" ADD_DATE="0">DNS Trails</A>
+                <DT><A HREF="http://website.informer.com/" ADD_DATE="0">Website Informer</A>
+                <DT><A HREF="http://archive.org/" ADD_DATE="0" ICON="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAIAAACQkWg2AAAB3ElEQVQ4jZVSvc4xURCeOWdjf7Ci2JBNKDQqCYlQ6tRuQ+8ucAEuQaeRqLSioNFQiMRP4qdYBRtnd885b3GEt3i/4ptqznPmmZlnZgAAAIAQAv82RPz66o2I8Xg8mUxWq9VyudxoNPb7/Xw+n81mx+PR8zwhxDsSAHRdb7VapVKpUCik0+lEIhFFEaU0DEPP826323w+H41G9/v9TbBtezweE0IQ8fl8cs4NwwiCgHNu23YURaZpttvtxWJBCNEQkTE2mUwcxzkcDtlsFgCu12sqlbJte7/fO44jhDifzwAgpSSapjHGHo9HpVLp9/uO47iu2+12r9drvV7v9XqZTMZ13dPpRCmVUmpSSgBwXbdYLFJKc7mcruuUUtd18/m8QiilAKB0vwmMMcYY5zwMQ0TknAdBoGQEQaAIKpL8MWlEtRnl/P76Ej4JPqU/yAdXTO2zCsuyCCGGYcRiMUKIruumaSpEtYSIX9G73W65XAoh1uu1pmlCiO12u1qthBCbzeaP0+h0OrZt+75vGAYAvF4vSmksFvN93zRNzvlgMLhcLoQQDQBqtVqz2WSMqdKfdoUQhBC16c1mMxwOEVEDgCiKptPp8/lERHW2UkrFkVJKKS3L8jzv9wD+w34AXpv0aEqV0YgAAAAASUVORK5CYII=">WaybackMachine</A>
+                <DT><A HREF="https://dnsdumpster.com/" ADD_DATE="0" ICON="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAIAAACQkWg2AAABp0lEQVQ4jX2RT2tTQRTF79w7E2depP5pLKQiCO4EP4fZiAim3RTBjUhBBDd+jnwEV0UQXCpuBLtQcaPSRWMSXLjQUErTvryk6byZ40J9yUuKZzXcO7+559xR3vtms9ntdq21AOg0ichgMGg0Gq1WSy+2mfnPAcDiEyWARRRhOMy0NjF4FuOcDSEAUErNA0pReniQTfBw89GVlSVj3euXW2+2P9VqlxI3dVsACJBbd9aWayu3Gze33746f/nq/Qeb165/6H3b+bzTKXzOWELMRpM6589fbJmK7b9/p1hXE5dlI2Y1n0Gx+HH6/Vd/bf0uHY+JY1RKG7fX233W7tili6MsKwNEeYj11XqnvXu8nxrnT4yZjHn1bPXCueowRFoMTUQxRNEiWrOGsGjNSlGMUDS1xLMAAAKIUKqUNQVAxMJ5CLnPg/d5yL3PCaQUzUK6uG2M2fvZv3FvwyFEjpGoUkl6Xz6moxOT2GLsPyBG65If7a9PnzyuGIkgAkQ4PTokfYYQC2vT0ACM0UeDg79NRQQSrUV4NklpSwC0MXMVgE75uP+sZU6/Afg6zCkERVCiAAAAAElFTkSuQmCC">DNS Dumpster</A>
+                <DT><A HREF="https://mxtoolbox.com/" ADD_DATE="0">MX Toolbox</A>
+                <DT><A HREF="http://viewdns.info/" ADD_DATE="0">View DNS</A>
+                <DT><A HREF="http://www.whoishostingthis.com/" ADD_DATE="0">Who Is Hosting This</A>
+                <DT><A HREF="https://whoisology.com/" ADD_DATE="0">Whoisology</A>
+            </DL><p>
+            <DT><H3 ADD_DATE="1670801292" LAST_MODIFIED="0">OSINT / Email Search</H3>
+            <DL><p>
+                <DT><A HREF="https://tools.verifyemailaddress.io/" ADD_DATE="0">EmailHippo</A>
+                <DT><A HREF="https://haveibeenpwned.com/" ADD_DATE="0" ICON="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAABPUlEQVQ4jaXRz0oCURQG8O+cUWEMHa2JICa8oxP4Bi1zE7SpbQtfoVZBi1aBUM/Qo0RP0MJduJgSXA0ZCeMiCcd7T5sGJCP/fXAX98D34x4usGYsANhX6sApl7fiOO4vC7BSqm4Et5jAWeUFzCItAH27YD+tBBDolCDPnU5nnM5+zkLJEOHGaOsxLdcq/iVgCiXXbbXb7WQu8Nrr3U3diSB1AZUGg4EFYC5Avwee523mTZ7DKPzwfX+HJrQHAMxa50YbLzr/uZ0YywUgzNrMANOpVipNAp0DMAC+IOaKmE+M4JgADSD5F/A8z85ms0VmFiISx3Hi4XBoa63tdDZTCpQ6rCl11kAjM29/4I/vEpEmhC7C3TC3NBAEQRHgKoCHKIpGSwMmSY4AGSPD94uUZwASeWPCdbfbfV8UWDvfAY9mhrrJAkEAAAAASUVORK5CYII=">Have I Been Pwned</A>
+                <DT><A HREF="https://hunter.io/" ADD_DATE="0" ICON="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAABY0lEQVQ4jaWSsUsCcRTHP7/zEtIgiIhw61SI5oimaJCmqIgwPaKiocChv6IxIvoTwvK4IaIhHEKaGxocw7OloaEhGk/7vQYNTe8E6Y3v+77vfd7jKRFR/CPMwOzudAw/fkukmUWPLCO6jlOvBpUagQ0a8UMgw7eZQ+QM1EkYgepbIZ/aQKQIxADdHtJEKYtS7S2cwE7PkUs+InLTNnfrJiKFcIJceg20C0R79CpQAzYBH6WXKL0+/SWwrSnQlwFmUHKK420hcgFEEaNC3jrgaN7slGSTeyAJlNRAuQGUH6B8kERXrgl8odS5iXhFXNHYVgYdtCWTIL05E5hAxDJxpWXT7ATaw0KkjDQKrSOuz44x2ninc/0QExUUd2gp49ZfflFg/FPjx/0BDR6IUODKq/UKnUfKJW2gGGC+x/FWw6A6j+R41yi9CDx36U0wjgdt1f/KANszKyhjH0jheAvDNxgifgAdAoUMQB8bcQAAAABJRU5ErkJggg==">Hunter.io</A>
+                <DT><A HREF="https://thatsthem.com/reverse-email-lookup" ADD_DATE="0">Thats Them</A>
+                <DT><A HREF="https://www.toofr.com/" ADD_DATE="0">Toofr</A>
+                <DT><A HREF="http://verify-email.org/" ADD_DATE="0">Verify Email</A>
+            </DL><p>
+            <DT><H3 ADD_DATE="1670801292" LAST_MODIFIED="0">OSINT / Phone Number</H3>
+            <DL><p>
+                <DT><A HREF="http://freecarrierlookup.com/" ADD_DATE="0">Free Carrier Lookup</A>
+                <DT><A HREF="https://www.nationalcellulardirectory.com/" ADD_DATE="0">National Cellular Directory</A>
+                <DT><A HREF="https://www.phonevalidator.com/index.aspx" ADD_DATE="0">Phone Validator</A>
+                <DT><A HREF="http://www.reversephonelookup.com/" ADD_DATE="0">Reverse Phone Lookup</A>
+                <DT><A HREF="http://spydialer.com/" ADD_DATE="0">Spy Dialer</A>
+                <DT><A HREF="https://www.twilio.com/lookup" ADD_DATE="0">Twillo</A>
+                <DT><A HREF="http://opencnam.com/" ADD_DATE="0">OpenCNAM</A>
+            </DL><p>
+            <DT><H3 ADD_DATE="1670801292" LAST_MODIFIED="0">OSINT / People</H3>
+            <DL><p>
+                <DT><A HREF="http://www.alumni.net/" ADD_DATE="0">Alumni.net</A>
+                <DT><A HREF="http://www.ancestry.com/" ADD_DATE="0" ICON="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAC3klEQVQ4jY2TSWhTYRSFz/3fkLzUGmvnNK0DONUBxdmNC1FRBMEREaUErTiLdcbFE1SoCw1OaNSKitrqprgRN9qFdmERlCKIIypGbZtoa2Je8vL/10VbsFrBszz3cuByvwP8h27dggaA+pv1ay5fDq2kBHprK2RTE7K9PjOICAwA58/DSCaDut5PII+dVjymtNSsHzOVE0vWoAOsHr965oSJ4l3V1TAiEbhpvbTKk4ca8UcAA0CqI/PRMChgGJT/01FHIZA/erLVVBsOjIpE4AKAZJIg5PUGUM+dAIDa2m+divHUMGjg7c3Rlm2h6HYFPuUfLBqPhIuKARBcTjMjIWwbAgCvWAEJALYNHwBkUvKAZYmiUF1gGQBsrYpeJoGWgnwjDIBJcAYERQCwaXdOSWXloJBSVEmEpOkBsll1303TCN8AWvoj7qys2dLxMrQHuTMnlT9vf+dOJj+G5uboN+js1eAhnyVCyaRszjIdLCj80dEZy53htcROZvxMJOUXjyGmCB33mPmtJmivktyYSvIbYdJO3eOl+V6fCGaVyknEHLF6Uec3oPNuVRUezF5Y8dqfqz1wMipqebX96TQ/1TX4pKA51gCe7rrMBAAn6gKr/Dl6jVQcVAqtrPi9YVJhKqGuC50GksD0jCPPbV//+cmlhornboYPf/qc/lBabN7sA1Lt2YJRXtMYRkQq7rjNAb+51fBo65xUeubGtV/bjp0rHFGUbzW3taXGG6Y+S9f1Y93k/fbCXp2uK198484QDkdKpvZ6F+srLlysL38IACcvla09VRd8pQPA7Z4XwoawAcRiMCwfHe/6nm3YUf2lxb481Ftmqn2Amud08VwAEKRMCI36kGh3c6BGjgss8Odpw4UuJpy5EmwMeGQTgye2x9JztlR/egkAmkZlQlCgTxdsuxtlpcnX8fbsRpVlV0o4KUc+2bUh+qJnR9g21Pe4vAbIR3+e/k8xg5j/bu8vqyg1/z7jZOcAAAAASUVORK5CYII=">Ancestry</A>
+                <DT><A HREF="http://www.classmates.com/" ADD_DATE="0">Classmates</A>
+                <DT><A HREF="http://facesaerch.com/" ADD_DATE="0">Facesearch</A>
+                <DT><A HREF="https://familysearch.org/" ADD_DATE="0">Family Search</A>
+                <DT><A HREF="http://www.familytreenow.com/" ADD_DATE="0">Family Tree Now</A>
+                <DT><A HREF="http://www.genealogylinks.net/" ADD_DATE="0">Genealogy Links</A>
+                <DT><A HREF="https://homemetry.com/" ADD_DATE="0">Homemetry</A>
+                <DT><A HREF="http://www.infobel.com/en/world" ADD_DATE="0">Infobel</A>
+                <DT><A HREF="http://www.interment.net/data/search.htm" ADD_DATE="0">Interment</A>
+                <DT><A HREF="http://www.wayp.com/" ADD_DATE="0">International White and Yellow Pages</A>
+                <DT><A HREF="http://itools.com/search/people-search" ADD_DATE="0">Itools</A>
+                <DT><A HREF="https://littlesis.org/" ADD_DATE="0">LittleSis</A>
+                <DT><A HREF="http://rocketreach.co/" ADD_DATE="0">Rocket Reach</A>
+                <DT><A HREF="http://com.lullar.com/" ADD_DATE="0">Lullar</A>
+                <DT><A HREF="http://www.peekyou.com/" ADD_DATE="0">PeekYou</A>
+                <DT><A HREF="https://pipl.com/" ADD_DATE="0">Pipl</A>
+                <DT><A HREF="http://recruitin.net/" ADD_DATE="0">Recruitin</A>
+                <DT><A HREF="http://faxvin.com/" ADD_DATE="0">Faxvin</A>
+                <DT><A HREF="http://www.searchbug.com/" ADD_DATE="0">Search Bug</A>
+                <DT><A HREF="http://www.skipease.com/" ADD_DATE="0">Skip Ease</A>
+                <DT><A HREF="http://snoopstation.com/" ADD_DATE="0">SnoopStation</A>
+                <DT><A HREF="http://www.spokeo.com/" ADD_DATE="0">Spokeo</A>
+                <DT><A HREF="http://www.switchboard.com/" ADD_DATE="0">Switchboard</A>
+                <DT><A HREF="https://thatsthem.com/img/favicon-32x32.png" ADD_DATE="0">ThatsThem</A>
+                <DT><A HREF="https://webmii.com/v3/img/apple-touch-icon.png" ADD_DATE="0">Wink</A>
+                <DT><A HREF="http://itools.com/tool/wink-people-search" ADD_DATE="0">Wink</A>
+                <DT><A HREF="http://www.yasni.com/" ADD_DATE="0">Yasni</A>
+                <DT><A HREF="http://www.zabasearch.com/" ADD_DATE="0">Zabasearch</A>
+                <DT><A HREF="http://www.zoominfo.com/" ADD_DATE="0">Zoominfo</A>
+                <DT><A HREF="http://www.411.com/" ADD_DATE="0">411 (US)</A>
+                <DT><A HREF="http://www.fold3.com/" ADD_DATE="0">Fold3 (US Military Records) - Browse records of US Military members</A>
+                <DT><A HREF="http://www.192.com/" ADD_DATE="0">192 (UK)</A>
+                <DT><A HREF="http://www.canada411.ca/" ADD_DATE="0">Canada411 (Canada)</A>
+                <DT><A HREF="http://www.bop.gov/inmateloc" ADD_DATE="0">Inmate Location</A>
+                <DT><A HREF="http://www.lookupuk.com/" ADD_DATE="0">LookUpUK (UK)</A>
+                <DT><A HREF="http://www.nationalarchives.gov.uk/" ADD_DATE="0">The National Archives (United Kingdom)</A>
+                <DT><A HREF="http://www.peoplesearch.com.au/" ADD_DATE="0">People Search (Australia)</A>
+                <DT><A HREF="http://www.whitepages.com/" ADD_DATE="0">White Pages (US)</A>
+                <DT><A HREF="http://www.ussearch.com/" ADD_DATE="0">USSearch</A>
+            </DL><p>
+            <DT><H3 ADD_DATE="1670801292" LAST_MODIFIED="0">OSINT / Maps &amp; Geography</H3>
+            <DL><p>
+                <DT><A HREF="http://www.bing.com/maps" ADD_DATE="0">Bing Maps</A>
+                <DT><A HREF="https://dominoc925-pages.appspot.com/mapplets/cs_mgrs.html" ADD_DATE="0">Dominoc925</A>
+                <DT><A HREF="http://www.google.com/earth" ADD_DATE="0" ICON="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAACoUlEQVQ4jVWTu29bVRzHP+dxbV/fPOqGOHEbhop26MLI0pHCVFYGWuhYFv4BsrAgBmaGtgtt1aVb1YEuFRJkQ+oYqXIFbUmInYdjJ/b1fZx7fgz32oSf9JN+wzlf6ftSnJluV+qDkOsictsorhkla6H1tBpFf8G4LaXUg2az+UIplc7+qNnxfFs6iWMz89wEzjVrsBiC0RBoYTV0rDbyoVY8Br6PomhvDnD3N+kow73McaPwIAJaw1IIGyvQCMqH7TCnE+UoeAbciaJoT3/3RGqp8G2Sc8MLKFWuCAwn8OYA0hwE2J8GHCUW4DNgU0Rq+r01rqep3Nw7Kni37xiOPSIVPwXjBHYH4H0J0o8DYqdR8EUcx5/Yw5H/6tVO1tofFohAPVC837ZcuRhQt6VEwwkchdBegswrdsY1OlHe0siX6vOfpn8fDouNmZhSCbOxavnwUo2gAqlZ+GANokalkQKtZEcfnxTrZ/2Y2bJz4Oju5lRsSB28OywpAXiBOFPrtvBQuAKXF9iaxRg9z8VfPUdr0XBhxYDAJIU/+6U7WsN4iliXu/6gN7qYpTlBzbK8skgjqgOQO2H7bUYjqHN+SSMCmYODk1LgNJeeHg+nW1mSIV7IpjmD/ogkTqGy8zT2vHydsnvoKPx/Np9OPd1/8i07PY0fIXwKtFAlneHBCSumRdCwKCqQbsr5JcdyU+M8HI2KwWjiH5r25TtvXWAuKPhoxt0XnhklG5h5sCZTYTD2HJ8UJIncb8vCPQVw9dZ2x5ngbpWw+RhriJZDwoUG1hoEcJkjT4ungnz9x4/t3rxMV29td3ITbCrKMp0F0kaX7iiOvZNHiVc/vPn5Uu9/bQS4/E23rk/1x4i/LXANWK+y1Qf53Sv9QPXl19e/XJnX+V9ITUYFKXQ9dwAAAABJRU5ErkJggg==">Google Earth</A>
+                <DT><A HREF="https://www.google.com/maps" ADD_DATE="0" ICON="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAACt0lEQVQ4jY2TXUhUQRiG32/OnLMej7uuBZWGZlE3ZpR1YSD9ieBdZRQUWVFRQvR7Y0K0rFDURRlhUEEEQdiv6FWRFRQEdaFlQUV6IxRG9KPhuu6eMzNfF7uKlUHfzczFvO8838z7ESYVAwQAMw4MLJF27nYCLwrYWLNynZeFIautKxbtAZgA4nENTdITwCQa0/sLOXECViisgjQ8m1BakA9iPar8ZOxprKAlq2MAEAAQz6z8ZU1l/e6fD88PCS+s/KTKy3FROm0aSKWU0coLedGz1THemRGz+I2gv3J+pCA38s4TujBWtI/bZqxTxXluh+dYyjBvIUEgeCIVbv84VL1x4buFSACA4CxF1I2sFFLOThgLscFLOD12cu+L5vwtj4/lbYNM7xLsWencRyZdeK3EebN2FTLoQmITCHcAElScI8gkjC14zafP9cdbbyUX77UBoKFh+u0VZ3pOpWZeLSI7ZCxFJRnu1ULiTmarLZPwR4XIqRo0eTWD0eR9u6yh4XIvQFxzZW75sPch31DSWDpEbIIUAODtExYADADogXA3yr/5Xu1Hg0C4jsO3uIt2fH0Y3kORZ+1GJjwLktnXJjCmGwBwG4YAgBlEBE4/kB1OhNcHIxTYDmxIjeaRStwdmQNX+4pcW+qU7urZ3F47/pVicpAcSx01SSTIgQVfofV7ub4+VKpd4ytYFpnAjCmJpuwD0kQOiMDMIKpBn69wSNpKdPjz1MXRMooKnxgAOZZlfNX4emP7KwCEeKb1CQIicDwO4dbqq/d+FLecCypkiDQT2AjXkSoV3Hy5tfMC4pnQTRXl8YEgHOx3llY1PZeSKgzA0NynHL28t65z+M/j4i+DZhC3LgiYgsOGoUGADvSR3rrO4ezt/1GcIVvWVte97MaG9/+kBSCnNGjOTpugSzBwsqZTWvwC9FkjnHrnD/UAAAAASUVORK5CYII=">Google Maps</A>
+                <DT><A HREF="https://www.google.com/maps/about/mymaps" ADD_DATE="0">Google My Maps</A>
+                <DT><A HREF="https://wigle.net/" ADD_DATE="0">Wireless Network Mapping</A>
+            </DL><p>
+            <DT><H3 ADD_DATE="1670801292" LAST_MODIFIED="1721423131">OSINT / Search</H3>
+            <DL><p>
+                <DT><A HREF="http://www.bing.com/" ADD_DATE="0" ICON="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAABrElEQVQ4jc2Sv0tbURTHv+fea9575of6F3ToVErV2ckfS+MP6JJRELQOhRfQSQfRouLcgEsKKggOOggOcZBE26E4uEhx6FChdGkdxDyfiSZ593TICzHymjp08Ludy/d87veec4H/rwUBMNVrpurZ41RvHFs3YWeMRlCzBl/hyYNXslUtktYjVYfarRTd9zfpoa9NAEwAcejdpxeWIY+hKwazTgNcESTfMildLJd6Sqv9ZzVvDdDwNlOWV0jIEoqFl06qP+mkBqb52u0iIciUvBIU2gcQY/KkhWQoru/czXx68DsSZyHEM0Z+bfhcl242iNRrxDMGAA4AAPh5IcBMABQAwP1BiDyrmhkeAIGI29B8Pw8B4FgyuyeU1ctXl935teFzAGizs88p1PpZlws5JzUw+nAGyh8iAMKtR7OW4C8UjZzGktmPgkULg8fJbLPorvALAJDYEdiB9/c1Tux3qrA1D/beAEIweAuaf8tw+5R368w5H/qWgtaJ+jp92RkDY4dmrYwlj+Y6Zk45aueWgy6+p4CvnNiWABC1c8sxO/cNvYeqCeAf6XzY09EfOYea735J+IkAAAAASUVORK5CYII=">Bing</A>
+                <DT><A HREF="https://duckduckgo.com/" ADD_DATE="0" ICON="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAADQklEQVQ4jaWTT0xbdQDHP+9f+17/UGAtBQIkmywDVERnZoJmISaCMcAyN5w4EndQY3bw5ElRSdBwWswOxh3mdIkeAJ0kbstwZMkuiH9QMgfbCDB0UrLSFvra0vb1vffzYDTj7Of2vXxO3w/8T6QHx3Lf/pDQPIeKknLCk88/rRVLnoKuZ12f54ZXckaMTetazXezeQnEDoEA6e7hA61SuWc4UL+vR3/hOPreR5EcB8cu4mxtYU2Nk57/YdLeMt/b0/zzrDSE+59g5diBx5RdkcnwoRNRpWk/pdgS29cukhkbQ44ECb70BsHn+2B9hY0vT6ey68s9zV/fnAaQ73Z06GrIN1w18FbUUQxiAx3YsWUq3jlN7blvUMNVmKNn+Ku/HSuTJdL3eqU/XDO00rs7CiA7dXZHoPmpHrm+ifi7r6F392O8+CYaYDzRTnjkLJ6mFggFiQ+fxAk3ENrd/Bz+SM9YH4pcRAx6u/rJTI6i1DSgvHySW4sJkps5XAHznkaSRj2qUBGKQebKKNqzR5CCwd6H51sUWcpbbWp5Jeb4ZyihcuRQGNPcJp6ykCWIxZMUaqvwP+JDb9Ip/ngVbXczsqweLAuZimoUC37FF8COJ5Cr6/FkU7S1VKPZ93BXx+mVHPKNf2KVu4gNjfQvy+AKVJnQetiV1JLmKQnhat59e7FzJvn5GaKdRyFzG2fpbVLTVTjCh1ypkZsTyKEIrrVNSYg1KyELueT3Thfu3EB/pgt3M4F989d/HuJrxwmPgDeAYWg4MQl3yyR45FXI5RC2WIhs6K6sCvfz4uWvKOvqR8pkcBbvYAEoFXjKDiP9HuHStmB13UFO5gl2HsW+fgGlWPikcWnJUtX7pYmsunjR+GOhO/rROdKnhvjtpzE+1S5jm2mSPQlWq1xGbmVoe/8MpNbYmJuZSpr3rjeAkB+amk27TnYw8e3Z+4qhUv3FJfy76rDtIpJu8IraznHRQdOpC0g+iJ//OGWtxT5om1hN72xh4PFW2aj4MNTyZLfUeYx8OESgMoq34JBZmMW5Mkpu5fb3bsYc3NM6t7OFf5nuqzNq9NqDlvAMirzVZhTzAUvzWiWfd0bDPW9Z5kTL+PzmgzX+DWN5abKzgxf8AAAAAElFTkSuQmCC">DuckDuckGo</A>
+                <DT><A HREF="http://www.google.com/" ADD_DATE="0" ICON="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAACIklEQVQ4jYWSS0iUURTHf/fe8RvHooE2VlT2FNqUGWmNEYUR9lhEEVJhUIsoXOQuap1Rq6KHNQt3LaPAIOxhlNTChUwLMU3NR1CklUzg6xvPd1ro2KhTHjjcA/e8/uf/hzmmqsUiEheRLhHxp/2TiDxQ1aK5+ZmFeSJSrwuYiMRVNZKuMxnFz51zu9T3GX/6iPGmRqS/F5WAUMEawuUVRI5UYjwPEWl2zlUYY8YMgIjUW2vPBkPfSV6uYbKvJ+uW3rZSojfuABAEQdw5d96oajHQqr7P8IUqpL8X43lEjp3EK4mBtfgt75l4+4po7U3cytWZPbcyjUlTidv642ipDu7foX7bh2zgs92jDhHpUlWdbNmuEw15OvqweqE7ZjboCAEFADrSjs1LkRM7NAt3+bWRebfYudFx9XguwFqbwePs9z/mT/6NLdAHMBpex28W0/C1Y1Zy05VFM75nUwiAZVGT/v5sgdcA3UurOPUrxvXOFhJD7fOmdn4LeNc5NbpkfWimv5mWZ8KXFKdfXqInOYBnc6gsPEjZ8mKssbQOtvEkMczYl0oK8z3un4lgppbYkhZS3Fp7bnD0Jxeba+lODmTFviFcxq29NeRHDUEQ1DnnqtNSjohIo3Nutx+keNz9gmf9zfQkB0ChYMkK9q2KcaLwMJFQGFV9Y4w5YIwZzyBBI2lRLcD9PVXN/SdFqlokInUi0iEiE9P+UUTuqurmufl/AKTzsFGmvUNUAAAAAElFTkSuQmCC">Google</A>
+                <DT><A HREF="http://www.yahoo.com/" ADD_DATE="0" ICON="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAIAAACQkWg2AAAAAXNSR0IArs4c6QAAAepJREFUOI2Fkr9rU1EUx7/fc2+bNJZog6BYhQ4VdbJiEAQ76CoodHGoaHXwz1AXQRRE6aRDFxcdHHSMtlBUrMbFttIiSUEQsRhjY16S95p373F4qZbgjzMduOfc8z3n++EE5/H3UFWSv3IA9r/VmhQCJAj+q4GkQkmkMqIe7ZYqVDZ+gliIAQCFioFYUNBWPX938EZp35mbO9fhSFhVkIy8D7034BYagkHsHJTAgZH+0Ys5Y7g004ihKUMrBpHzew9nDp3KfvvYnp2qKnDibG7X/vTzB9Wj49uEWHnbLD6upWF8rDbZKGr405d3AHg/HUQNd+n+HoIrr5ujFwYonL1XbTnXb6x3EPVIiZSWm08nv6rX/Fg2P7YVyifXVsOmCwNfmmu8ebiWhnivJDjBeVAj74cPZq4Uh2ursWtrbnfv9ePloSN9Rli4U3ExhFQFCQtAPVKU0rvWQiEYOZkFUHy0tn2od/zWIIDyXGvxZT1NIQhAkntT6KGF2xUXK4AXU98/vGp8WmgtzdS/lMMeENoxp9s4Y/l5OVycDsLIX82X4nV1gKUkejoTEu8MeOzcQOuHezZZqUcu3SPtdQVgycTZjv0JfAk2fVlRRRh4VSUAsIu/35ISyIKaS4Zy4ybJ02bNdjOY5k9Ud8VPXV36Fuy2Z6MAAAAASUVORK5CYII=">Yahoo</A>
+                <DT><A HREF="http://www.ask.com/" ADD_DATE="0">Ask</A>
+                <DT><A HREF="http://advangle.com/" ADD_DATE="0">Advangle</A>
+                <DT><A HREF="http://search.aol.com/" ADD_DATE="0">Aol</A>
+                <DT><A HREF="http://www.instya.com/" ADD_DATE="0">Instya</A>
+                <DT><A HREF="http://www.impersonal.me/" ADD_DATE="0">Impersonal.me</A>
+                <DT><A HREF="http://education.iseek.com/iseek/home.page" ADD_DATE="0">iSeek</A>
+                <DT><A HREF="https://www.ixquick.com/" ADD_DATE="0">IxQuick</A>
+                <DT><A HREF="http://www.lycos.com/" ADD_DATE="0">Lycos</A>
+                <DT><A HREF="http://www.parseek.com/" ADD_DATE="0">Parseek (Iran)</A>
+                <DT><A HREF="http://www.search.com/" ADD_DATE="0">Search.com</A>
+                <DT><A HREF="http://www.surfcanyon.com/" ADD_DATE="0">SurfCanyon</A>
+                <DT><A HREF="http://www.wolframalpha.com/" ADD_DATE="0">Wolfram Alpha</A>
+                <DT><A HREF="http://www.alleba.com/" ADD_DATE="0">Alleba (Philippines)</A>
+                <DT><A HREF="http://www.baidu.com/" ADD_DATE="0">Baidu (China)</A>
+                <DT><A HREF="http://www.eniro.se/" ADD_DATE="0">Eniro (Sweden)</A>
+                <DT><A HREF="http://www.goo.ne.jp/" ADD_DATE="0">Goo (Japan)</A>
+                <DT><A HREF="http://www.najdi.si/" ADD_DATE="0">Najdsi (Slovenia)</A>
+                <DT><A HREF="http://www.naver.com/" ADD_DATE="0">Naver (South Korea)</A>
+                <DT><A HREF="http://www.onet.pl/" ADD_DATE="0">Onet.pl (Poland)</A>
+                <DT><A HREF="http://www.sapo.pt/" ADD_DATE="0">SAPO (Portugal)</A>
+                <DT><A HREF="http://www.search.ch/" ADD_DATE="0">Search.ch (Switzerland)</A>
+                <DT><A HREF="http://www.walla.co.il/" ADD_DATE="0">Walla (Israel)</A>
+                <DT><A HREF="http://www.yandex.com/" ADD_DATE="0">Yandex (Russia)</A>
+                <DT><A HREF="https://offshoreleaks.icij.org/" ADD_DATE="0">Offshore Leak Database</A>
+                <DT><A HREF="https://searchcode.com/" ADD_DATE="0">Search Code</A>
+                <DT><A HREF="https://www.draugiem.lv/" ADD_DATE="0">Draugiem</A>
+                <DT><A HREF="http://image.baidu.com/" ADD_DATE="0" ICON="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAIAAACQkWg2AAACP0lEQVQ4jVWSS0jUYRTFf983M5qmMw4+UYsS0zAKKjdimkHgogcRNIGryijJRZs2UW1sWRIJQZBBbazcRGZCZA9FKoOCGlTMkbSHOj4QZ3TGceb/3RbzN+iuLpfDPffcc5QxIoLWGAFBa5JljN2LIIJS9lwrhVLIOvrhR5oe8XMRrQnM8uwrRlAKsfE4kwssg9KMTtP6mpklcjNo3s+5DoamuVzPxQM2iQj2BS4nTs1MCCMUeFiK0DvCr0WKvfSOEk+AILLOoBQPPhCNU19BVhr+KXYW4U5jeY3IGg2VpLhsVUrhVIr+MVp6iMQRaDvBQICz1awlOL+PNCfVJVzvoaaUujIsgxKRO320vSMjlfJ8Ok4DDE2RvZECD4Cvnb4xCj10NlKahxahLI9Ygt+LVBQgwoXH+O5z9C4v/FiGYJiSHKIJxudRCqcIB7dz4xjzKzTVcPstL4fJcxOJcaWLLTmU5tL1jUIPW7MRQf0zDmjt5epzWg4TXePee7zpZKbScoRgiOIsardhDMoyghBLcOkpgVlOVbG7mL7vjAQZnOTQDgYnuHmc8nwSFg6NNoLWdH6h20+bj1cjfJokz01dGaEoDZWEVvG1M7GAQyeNE0Tw/8G9gRQHc2EcihQH3nR2FWEZMlMJxxieRilM0mml2LOZqSWuddNYTU4GTz4zMM6ZKgLzzC2jFUVZICiFMkaA1Ti33tAfwOXAm84mLysxfiwQDJPi4ORemmvtFP73JcsAONYTblksRnFpPOl2kIC/BsEA9PPta4oAAAAASUVORK5CYII=">Baidu Images</A>
+                <DT><A HREF="http://www.bing.com/images" ADD_DATE="0">Bing Images</A>
+                <DT><A HREF="https://images.google.com/" ADD_DATE="0" ICON="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAACIklEQVQ4jYWSS0iUURTHf/fe8RvHooE2VlT2FNqUGWmNEYUR9lhEEVJhUIsoXOQuap1Rq6KHNQt3LaPAIOxhlNTChUwLMU3NR1CklUzg6xvPd1ro2KhTHjjcA/e8/uf/hzmmqsUiEheRLhHxp/2TiDxQ1aK5+ZmFeSJSrwuYiMRVNZKuMxnFz51zu9T3GX/6iPGmRqS/F5WAUMEawuUVRI5UYjwPEWl2zlUYY8YMgIjUW2vPBkPfSV6uYbKvJ+uW3rZSojfuABAEQdw5d96oajHQqr7P8IUqpL8X43lEjp3EK4mBtfgt75l4+4po7U3cytWZPbcyjUlTidv642ipDu7foX7bh2zgs92jDhHpUlWdbNmuEw15OvqweqE7ZjboCAEFADrSjs1LkRM7NAt3+bWRebfYudFx9XguwFqbwePs9z/mT/6NLdAHMBpex28W0/C1Y1Zy05VFM75nUwiAZVGT/v5sgdcA3UurOPUrxvXOFhJD7fOmdn4LeNc5NbpkfWimv5mWZ8KXFKdfXqInOYBnc6gsPEjZ8mKssbQOtvEkMczYl0oK8z3un4lgppbYkhZS3Fp7bnD0Jxeba+lODmTFviFcxq29NeRHDUEQ1DnnqtNSjohIo3Nutx+keNz9gmf9zfQkB0ChYMkK9q2KcaLwMJFQGFV9Y4w5YIwZzyBBI2lRLcD9PVXN/SdFqlokInUi0iEiE9P+UUTuqurmufl/AKTzsFGmvUNUAAAAAElFTkSuQmCC">Google Image</A>
+                <DT><A HREF="https://www.imageidentify.com/" ADD_DATE="0">Image Identify</A>
+                <DT><A HREF="http://karmadecay.com/" ADD_DATE="0">KarmaDecay</A>
+                <DT><A HREF="http://search.lycos.com/" ADD_DATE="0">Lycos Image Search</A>
+                <DT><A HREF="http://photobucket.com/" ADD_DATE="0">PhotoBucket</A>
+                <DT><A HREF="http://www.picsearch.com/" ADD_DATE="0">Picsearch</A>
+                <DT><A HREF="https://tineye.com/" ADD_DATE="0">Tineye</A>
+                <DT><A HREF="https://images.search.yahoo.com/" ADD_DATE="0">Yahoo Image Search</A>
+                <DT><A HREF="https://www.yandex.com/images" ADD_DATE="0">Yandex Images</A>
+                <DT><A HREF="http://www.fotoforensics.com/" ADD_DATE="0">FotoForensics</A>
+                <DT><A HREF="http://exif.regex.info/" ADD_DATE="0">Jeffreys Image Metadata Viewer</A>
+                <DT><A HREF="http://www.dailymotion.com/" ADD_DATE="0">DailyMotion</A>
+                <DT><A HREF="http://www.earthcam.com/" ADD_DATE="0">Earthcam</A>
+                <DT><A HREF="https://archive.org/details/opensource_movies" ADD_DATE="0">Archive.org Open Source Videos</A>
+                <DT><A HREF="http://www.liveleak.com/" ADD_DATE="0">LiveLeak</A>
+                <DT><A HREF="https://vimeo.com/" ADD_DATE="0">Vimeo</A>
+                <DT><A HREF="http://video.search.yahoo.com/" ADD_DATE="0">Yahoo Video Search</A>
+                <DT><A HREF="https://www.youtube.com/" ADD_DATE="0" ICON="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAABhUlEQVQ4ja3Tv2pUQRTH8c+Ze9e4CAGNlSSa2CmCGE0hgm/gA9j5BlY+RawFGwtbH0IkiGCwEMQ2aFIFokGUGHfvjMXcTTapZPHAMH84Z+bM+f5OQCGQ1HnKbvf7D+XkuYIclEnwTFaIqIsbS5xZI1+gOUceoiWa3rXDmHRA94v0jT+b4dN2FKsPSC9wsTqnOkXURI8ynlieLPbIj6JYfUNzn25EpN67MKpJpIZ8FBR1lEwzoNtIlKt0mdJQEhq61sqV1mAwkH8MpNQS7bFPaWpMLCfSQn251kOK4Gd4/DC8fs7dO+T94DBIcfy/SJSFhLPH/4uY3GPcce8mGy959YzlRYyImKY2TLMinFiL3xj21S5KqS+0DW8/8mSdd+/7ROcoeRrJQRS3tolLtfgRtdAdK0vs7IbRPmm+yGUKYZnob6cltmgWT2Jsiq0vPcb5KYzRY9RjHG+1WKdcI50SUtsr3qkWyapCyx7xtJfy9cvMrZHO4x+kHN853Ayfv/6vZpq9nf8CnF2KWbg2p58AAAAASUVORK5CYII=">YouTube</A>
+                <DT><A HREF="https://www.amnestyusa.org/citizenevidence" ADD_DATE="0">YouTube Data Viewer</A>
+                <DT><A HREF="http://www.bing.com/?scope=video" ADD_DATE="0">Bing Video</A>
+                <DT><A HREF="https://www.echotrail.io/insights" ADD_DATE="1713873180" DESCRIPTION="Endpoint log security platform." ICON="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAADWElEQVQ4jV2SbWiVZRjH/9d938/znHP2cs5sW/PMbJCStuUmGmF9aX2JEvYht4mNWIYtHSH2YRKU8SikxcKI1ajVqAiEpYkvRB+1RQTFFrXU7YvujeUObmfn/Zznee776oPKVv/P1+/Hn4s/wWUBlwwAbPj4+mYZsl6BpDYw6oTtxEwp/9VMz6M9cFnh2lnG2U6NNVFwycTcK7HYxoaTYHQD/Df73ggbPa3ZrJSymRmgQ8KlYBVjAogBgOo/+q3Fqqw5T8oSppDrNUJoQWgnoXaATRmILDCBjXeDhfhs9sDmy2sl1DB8MwHCteXZiddi8cfeE0q1i1D5SJBbvhqsLP8jBGkrtr6aQuFnTDHbDa1H08X8y8uHm+fvNhie35VN3JqM1awfFU6kwuRzL86fam8my94vpFXDANj4C1zKD8aPXZxS0jpnmFVxKfXUYl9zggAAPZcjDz3Z1Jm+8ftPuYv9/bI8ulsHxpWE68xCGME7pBDHTC71pdP2xtvVTa0TppAdnT20tYP+89EtT5+S4XBfKZPZZoXDzxKJIwB8QJ/wit4fTnnlRGl2snvj6V+lKOWHPT/3uKr5dGxTOFTdZSpiA4kTbV0cBP1SWY+Qsga0V+oS4FpS1hnbti9w4Auruv6IKekDMlJhiaXMTuVobFOhsOsV0j+y9gtkhRTImPulmEgSE8BMYD4OKZZypmymoph0tVbjKtBiXOXTRWVHtvvJxSEnvulDnUt/I6Tslcp6B4CHwNvnFXjcrrRf8m9On0u+vi6VBI4DgLj95vZpE3gjAJ+Mdhy9YLLJ75yKqjEWdhWIjgL8rpFOkxMNT5lcujG693BZwxe39qLn8wgAEACKDv4Vq7LLf4Fl21wsdM6/v6eJlPMqKasWDGLtz3ExO/jgBz9POrp0yXglnZr7c1cs3tJA9yRc416pC8frvxZCPifDld8GhfTVIHNnEQCsaG0tOZFWUyzsY+P/sHJ7sm9dvHGAmZ+g/297w9DU84L5kFB2IxgEsA9Qno0eB5nvTWC0ipR/gkCH/NTKnjU7WJXcjSvqTr+w1Sl7oIF1sYqJHhZ2aDeBWhh8Znlu5q2M23pHrQL3YJcFFsYkhnb6ltNxUITsg8bHCoETbPQl39f7F3q3TN2//ReU+5XCcgRDEwAAAABJRU5ErkJggg==">Search Insights | EchoTrail</A>
+            </DL><p>
+            <DT><H3 ADD_DATE="1670801292" LAST_MODIFIED="0">OSINT / Social Media Tools</H3>
+            <DL><p>
+                <DT><A HREF="https://www.glassdoor.co.in/Reviews/index.htm" ADD_DATE="0">Glass Door</A>
+                <DT><A HREF="https://socialblade.com/" ADD_DATE="0">Social Blade</A>
+                <DT><A HREF="https://www.social-searcher.com/" ADD_DATE="0">Social Searcher</A>
+                <DT><A HREF="http://backtweets.com/" ADD_DATE="0">Backtweets</A>
+                <DT><A HREF="http://search.twitter.com/" ADD_DATE="0">Twitter Search</A>
+                <DT><A HREF="http://search.fb.com/" ADD_DATE="0" ICON="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAABe0lEQVQ4jY2TvUoDURCFv7kEs9FmEXvjE2irVYKFjaAPoGghJoJgeosoqKUknX9FbO00D6D4Al6ttDKirbAiZJOIjsXmdzdKDizMHuac+bn3CiE4WU2JsqjKApAEELAqWITd2pFUuvOlFbg5df0qeYFc2LQbCoVEg12vJF7bwM2pW69yrTD1n7irqo03SHsl8QyAXyXfT7w5C48H4B8H38VGu4spf4g8gDhZTfLDc1i8NA2nq73c7RPMHXYRhnSMH3b6tbk804mvLJQtfPihUb5ZjClMSkQO46OdOHMOXjWao8KCkQEW10/cRNKEmZOVYGHjYx2utcTt+aiDASpRuj8eXnv/FWxMlUsRtlpk+R5e3oMjdIcDbq/cNHjrNRDBirOmKQzX4WqP+50xEpk/WjJMmNqZ3KhSHHSMdnWlWDuSigGof7GjYAcWg42PBPcnOIWSePUG6UE6EaUYHybtFYLHFIGT1aSzrqX3T73TJpx1fU5ktOCsaSqc/wus3Yx1Cv0t/gAAAABJRU5ErkJggg==">Facebook Search</A>
+                <DT><A HREF="https://lookup-id.com/" ADD_DATE="0" ICON="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAA+klEQVQ4jc3SPU7DQBAF4G9t54eCMkehhgopt6Cho+cm3IAqPRVFGu6AOAINjUGJnHgo1o4BIWEhITHSame0mvfmvdlkiIKzYigXwWrvryNlZi2Xp1Tn7N8o56RHbm5/Aqjy2OuWYsnxNa84wuYBYwDW0eU124bdlu2MeBkjoeAs5TRKTDLo4YwB6CMFIfsSaUzzF4BI2dNc/ALg0BukRIz6Ax90RseaCpognXB1N8hJkQmj5vmCVe3zFlJ0rG2+Y0G5HBQFSuxqJhMDW78FM6Yl1ZxpRZVyU//8va9V/kSQntjfkza0VTdRB1J0U0ZBWdM0ve4xPv3zeAdcnU0TBucf2AAAAABJRU5ErkJggg==">Lookup-ID.com</A>
+                <DT><A HREF="https://www.picodash.com/" ADD_DATE="0">Picodash</A>
+                <DT><A HREF="http://hashtagify.me/" ADD_DATE="0" ICON="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAACuElEQVQ4jW2TzWucVRTGf+fedyZJM50hmURoJKJoScy0FLG4sIilC61I3VT/gC6MGxcNYtMuhNci9ENLl4ILcVUC7oRsrNbRhVCwisqETFBpsMTaRpomM5lM8977uJhpmop3dTn3fDzn+XGNh46s/M7CmJm9SJZ9ERLKHv+xsCYWryRKPvv7o6duba+w+5ehE/M7Fd0xjLdBmz6XOxSy7ADSDJADbjvspZ6sr94urfrbaaUB4AAGpn8vKdpZTB+Cdguu38q37ihqb7cY4OZGEv5s+fXDoZlcKE7VBjsN3pD3yqYw3gLyACb7ldpEMNPebdvV134bX8HYbzCZS3LTTP6QS8qPLeyWeB6og0WQzMXvhytzfWommWCuu+x3VJA16RPUgeeGS8WKkdbypY3QvzWo7W21RAMmsoHWHzvDvQ0PUKTYunFxtDWc1grtux2lj2T5pg2+u3DUQR5JYE7Em/8sjn07NDr/JN4/25XfKBSSy42V1kBM3AsOcwARxcTQJUG+w0PIbIYKVTXdMdDJjnxdbay3q8olLxv6VF16hkUH+Ie4ip9ZuubN2PfAQOaXz481sPjMdvSAS8BSLPZ2ExWdZh8fKfu15r1Z4Kduh68BLLqrQmdwil1awUjloOqoHRQAn1v43xgy0qrfilWqBgejlU8sPE3UKTkGnbi2fHftg6Fi6bAsvNkRZX8F3z6ZC31PSDqFkYdo4FajC+dcz47CohltE69GYxef7N+U6RWwI2BHMMb7e4faQgcwvQ56rfMmedl1t5SOrEdz78uYddiPI+nSDogTW6ZGfllKR9bNtG+beZeDj+8tnx9fe/CZjs/t8kk+xIRiDOEKMApIMOn7s5nY9F+C7RG6FGM8s3JhYpH/IAGgPFV/lMROgw4ZFCzaUetJ6nFzcxq5b3pD71c3Lo627uf/CxA6Od6XonxVAAAAAElFTkSuQmCC">Hashtagify</A>
+            </DL><p>
+            <DT><H3 ADD_DATE="1670801292" LAST_MODIFIED="0">OSINT / Social Networks</H3>
+            <DL><p>
+                <DT><A HREF="http://www.facebook.com/" ADD_DATE="0" ICON="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAABe0lEQVQ4jY2TvUoDURCFv7kEs9FmEXvjE2irVYKFjaAPoGghJoJgeosoqKUknX9FbO00D6D4Al6ttDKirbAiZJOIjsXmdzdKDizMHuac+bn3CiE4WU2JsqjKApAEELAqWITd2pFUuvOlFbg5df0qeYFc2LQbCoVEg12vJF7bwM2pW69yrTD1n7irqo03SHsl8QyAXyXfT7w5C48H4B8H38VGu4spf4g8gDhZTfLDc1i8NA2nq73c7RPMHXYRhnSMH3b6tbk804mvLJQtfPihUb5ZjClMSkQO46OdOHMOXjWao8KCkQEW10/cRNKEmZOVYGHjYx2utcTt+aiDASpRuj8eXnv/FWxMlUsRtlpk+R5e3oMjdIcDbq/cNHjrNRDBirOmKQzX4WqP+50xEpk/WjJMmNqZ3KhSHHSMdnWlWDuSigGof7GjYAcWg42PBPcnOIWSePUG6UE6EaUYHybtFYLHFIGT1aSzrqX3T73TJpx1fU5ktOCsaSqc/wus3Yx1Cv0t/gAAAABJRU5ErkJggg==">Facebook</A>
+                <DT><A HREF="https://www.instagram.com/" ADD_DATE="0" ICON="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAADBUlEQVQ4jQXBTYiUdQDH8e/v/zzzzM7Mzuw2vrL5HqagUXZpPVQWGRJ16FRZRFEHIRI62K0MCko89XLoEBVZIZEFdegQiNJhBYl8icyyLbRM09VxdmfnmZ3n+f/6fATw4vLimQphTzAbs4VCjTynWfTUKgaMuaQJ1JFHFKmqcDMunBky8+Yt3PeZXp4ons2UfJgZsmsxLoq5Fld7asd5WnFAvYxULSoRQllYDJ3JQe7GIZ2deuvm+EctaG3leiw3bC/TzbvFaNtO0qgkARkojUocLw1V7rtAPHyxqFCkfa6fSdcFr3U3smpHTO76JKH3bsee6igd9gmzA7CgVgFHpZOjTr7ZID3cSYoj55yF+fU6tSKPw7lct35Xh2Ndz780rTY3CNyAVg3KBHqzaNdmvCxFaTRbG+KBLymVk06UVylaOdnYChfH/1G7fp5kyRDvn0TbJyAaHbqIj1xCxRD+zqWHbreZVfCcQ1O/qln5hZAOVE2mCT4Jb9+GNlXxgwfw/V/gu8dgcgw+OIqyHg5RqAt0FdLsB7LaFCHpEzgLG6/AttX4hY/w9Fl87hx+/mv89DpcF+7fgNRIPcyAlNGfCE1DsoBH/4XxCzgIFl2H9iWYr0GjgYYlMb0K2TjBEWuAiQS3zqPWBUSOlvagPIV+PIr27UZb2+jexei9p+DwcTQ/jW4qcFliF0CFVOMX7WapoIFje05eNQuH9qKdr6B3XgMJpqbw+x/jiRxG5lCwnUnkdaduX0MjBXFwRWHLFsc/D4rGaTj4BK6tgbkM/dWFpIHSHuGe5+yZjuwcZWtItShaI8CJ1/Gj3yrUcLxyTHYN9Qx5Bd/ZgG5CWD1p73hE3rXXoZlCrFvxVX7TUta7SuH121Jt2oOqy22CIIEoGEZUYM/MiAMHHL8/WyYLd6TurPxZxX52hmV8qsWS5UiGqEhYuBD0A+qk+PIImrZ9uUXor5X/W1Oos/KxkO7h86jkSaqcpJVAS1C3XY+oXqLRIW71YXzOLA+wJC3J8hOxcu1x/f7GV/8DZgeEJS00n28AAAAASUVORK5CYII=">Instagram</A>
+                <DT><A HREF="https://www.linkedin.com/" ADD_DATE="0" ICON="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAACrUlEQVQ4jXWTu4slZRDFf/X14z66rzM7D0cD0VmDZWVBQVjMdGFBjMWJBAVBE4UNBBEMTfwXJjBQWIQNjDTRYBAUUcFoAh+sysIuO7Pz7p57b3d/dQz6BmtgQUHBqSoOdeoYAK/t5gzurG6Uk6huanv8T9RAOhI6Sxj/84Dtd1rjva8Hw9nks5DYtdm8mwFhmAWT+hl7aF4mCfNgYSCPO9PW30iZ5ssh6Hrj+crTGwPMArf3p+RpQPrvBgOQIMkwn12H8+WwkY406/x8czXz7z98tvvugyv+1Grm86b1QHTFzvHoKDoeXfJOHl3onJh62nPDQMElXApIGA4ygoEQMYo0GAFD8mDWE0rvn0xtXGb21/6UFz7+FSTuHM1JLDDvnK4TSWIsjROO6o4kCQyyBI8Yg8TSooA2wtpSxidbm8jFu5//wfuvPMFzT5Z88eMeW1fXubg+4qfbp3z05d/cO4lkZlDVpEVRcnA6I0sCrz6/hru4cfNPrl6ccO3yBV6+coHj88hkmHDp8TF5lvD69u8QgKIg1HWFmSGJk2nHybRDEmezSHSxvXOXzRs/8Nanv9FG58VLSzy6lNN0TkFJKIqyl8iMJPTJog4Gt37e5/ik4ZvdI+pZZJj1mARFUfUMennFQgUkAf0nZUnA8kCeGlFC6nvNjLqGYMvrkiQzI08CeRIwM9Jg2EIreb/sYVySbHmktKgqZoZc+P3T1nsmcDSNVPNIEwXBiIK9sxYzcxeYoaIC482vHhtlk92QD1dWhoAZB1XLI6OUUR44rFrmrZMEY6XMQOJwBt7MDqdqnklhfAz61rvmpbtHcW4oZEmww9OWKMgWx3Q33TtsEOZ5lg5AO4ya494qb/+Scf5grSwncbywc0FJUUBdV9RAmY5ULBxdVWcJ89MDbm01/wL8bm3MmqkRjQAAAABJRU5ErkJggg==">LinkedIn</A>
+                <DT><A HREF="https://mixi.jp/" ADD_DATE="0">Mixi</A>
+                <DT><A HREF="http://www.pinterest.com/" ADD_DATE="0">Pinterest</A>
+                <DT><A HREF="https://www.reddit.com/" ADD_DATE="0" ICON="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAC+UlEQVQ4jU3TX2jVdRjH8ffz/f5+p/Nnjm1tpJg2GgaCI0pmEixt0LkypK66CjTCNOwm0CyQ6soJXrWgRbPsposECclgaM6EpoPFLhqU6Gk6NSfrzNPOzrbf7/d9ni42yc/N81x8PpcvATAQAQOwPl7C8RZCL8aTGIKXabDL+Oik/JRdenQjrMa2UqSNfmAfQowChingFEGAQIpnkBKH5SwNADEQtlKgjTNElElRQAFniIiaLLWu1/jQSfX1quOz/Y76g2EcrzNMwwkYbfQTUSaTZQRwzqvzIrGT72tFO0K3zPSUo8W+N1y68fllAmXEHxMwsT5eJGKEgJDgLEYsAZfBxUXkTL3Ap09h82+fwKd11g4dMudRYjEy2xERsY+M2KJcRtcm4e/rWNez2I5d0prfYAcjpKVWkaZzX5qfmkCe3izcuwFpEhPxDvYyFdvdoTo5GkKWqE7/qWZmwf5Ptnr1zjUNWaI6+Wuw3R2qffyFbSNJj+/R1MxUgy4Hs5mxK5osLFiaJpamiSX1ut0fu6rLutJJzSw7vjfYNlJHDpdU/uD+XM0QYfb0N6Z7tksy+iMqDhPH0oXThL0vyD9nv1vpzNVs+cakkEMcTe5WcWKUwtcf2zwi+bXttPf2WKmzk5z3xN6zprubjt4eyzeXWEAkf+oTK05chSZ3S0LZnXKZvpk9viG78/lvfk1zq7lsyR3rP2FT168JwMauTfbhB+8LuaLO/1uTdQeeC9HszUgj961zQb+wWLLo7rR/bOioVaoNqabeSqWCXBi5ZOcvjlhTsSAPQmSVuYbkvjpq0d2bQiypy3RQAOwVBvDyLvOms9tflXu73qO4uYdakoma0ZLPWWNyjHXnBqz9yg+BZolJbEDOc1BWYXjKTII8Q92Eorel9VuQJzoxAZuZssLt35XFENEikNgwVV5jnEWxnUR4juD5CCUy74RMRRKEgAFCBOQBcSmqg1Q5LOMPMe1kCznGUXKriFaEOvfwzRC7TdDLKEPyM788yvk/cGyWUmNH49QAAAAASUVORK5CYII=">Reddit</A>
+                <DT><A HREF="http://www.taringa.net/" ADD_DATE="0">Taringa</A>
+                <DT><A HREF="https://www.tumblr.com/" ADD_DATE="0">Tumblr</A>
+                <DT><A HREF="https://twitter.com/" ADD_DATE="0" ICON="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAIAAACQkWg2AAABjElEQVQ4jYVSvaryQBCd3YhgyCoLKQxqIbHQMhY2FuklramELfUBxBcQwUIfwEJIIWJjZZpg42Lh+tOEPISFtaXkFvtxr+bL5Z5ihoGdOWfODsBfQAi9l4pMlFJVVSmlz+czjuP313EcE0IQQq/X62fAcrkMw3C9XnPOVVXFGAOAjM1mk3NuGMYHb7lcDoJA07T5fL5YLAAgk8kAQK1Wu16vlmWlqGSMeZ4HAEKITqcDAIVC4XA4uK77zfYDWa9Wq263W61Wb7dbpVLxfb/f7wOAoijpbui6fjqdDMNgjD0ej+FwmDI7QeI4zna7BYD9fp8u5h1yUd/3R6ORruthGBaLxcQ/JBls2+acR1FkmqbrupvNJp1Ejmk0GkII0zRbrdbxeJQ2DAaD9B5N087ns+M4shyPx9PpFGN8uVzq9frHjSCEcrlcEASMMWkixjibzQohbNtut9u73U5RlH8NMk0mk9ls9k0to2VZURR5nne/33u93ocwSun/hwkAhJBSqZTP5wkhv5qbcCKBL8tFe8plPSxnAAAAAElFTkSuQmCC">Twitter</A>
+            </DL><p>
+            <DT><H3 ADD_DATE="1670801292" LAST_MODIFIED="0">OSINT / User Name Check</H3>
+            <DL><p>
+                <DT><A HREF="http://www.checkusernames.com/" ADD_DATE="0">Check User Names</A>
+                <DT><A HREF="http://www.knowem.com/" ADD_DATE="0">Knowem</A>
+                <DT><A HREF="http://www.namechk.com/" ADD_DATE="0" ICON="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAACB0lEQVQ4jaWSv0uVcRTGP+d8v++9r2lWmISKaYQhQtEWBMFFaAgagtCCwr+g/ofb1iq0NhkNSktDDS23IILUpV9DKQ4GBaEFiXjv+37PadCguJpDz3z4PM9zzoH/lABceHSzL2reL5a8TOX3F5MzKwDjs1MDllV7KWyjMXl/aTeAAlQlv5t3VF5HjfPVWH1+7sGNbgAN2b3Owx0LMZPpvRIodVRg1M3UwUKeDXbl+fh2PhkTlSDOCgD1bcO/AGeHrnQjDFkyx91DVFORy7XZiS6FPiuTu7AEUKPWDjh6sOeEOEe8dEOkSEUSlPEgXTVEKmmzEEu+DNCgYW0Aw0YlCxXcf2D20EoTkH6N4ZZDsNJKI33aqeBtABU5FToyFyiKojXtKa2JSlWQixIk4L62vplWd+bbAaJyUhB3+Nq4PvNORBsxj+bQ1KAOLL2Zmtnc6woR19NaCYqzCmDuj1G9Cp6HjkxSq1zZ9p0I3JlrSxDBW8VGcxWRlwDNMj2Vn1uLiPSkraJqzjyCw1zaLYFcenK7+vbZgn4+9KpJHQOo1WuxOdabtT5syeL7vFm71jlSCbHTkpuJCQWQ7QD26vZbw/VaPnLm5EeNccCSmTjquKuKmPu3tsf4c8EAx0eGB0GOeTJ1LCCuCBBVgeX4D4ABaHbgSymt8xktUgGaZSRLTjI1Y32/BvvqF3Zs3QUrKzeGAAAAAElFTkSuQmCC">Name Chk</A>
+                <DT><A HREF="http://www.namecheckr.com/" ADD_DATE="0">Name Checkr</A>
+                <DT><A HREF="https://namecheckup.com/" ADD_DATE="0" ICON="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAACcElEQVQ4jX2Sy2tVVxTGf2vtfU5uHjcafKBCqRUyUComBqEY5VqllE7ioJO2tAUHTnVmJ4X+BQ512lAQBIcSC0rwIgoqRtNhhRYDbcigkMS87j3n7LU6uDcxtehiD77B/h7r21v6Rk5fj5oNAXgqflr57eFL3prBkcYJD/qVG/tF5G/36vbqiwcPAEJt70e3JM9HJWYfe7J2sfDq3n/IxxrfEcKUxvykxuyohHBSnAs9+z6I7YW5+1I/2pgn0/2C4FU5t5KtDzMzUwL0jY4fCJb9IVmseVHOi8rPuH1CzM4hgpTF5xE1wRX3hGT5hzuSnlmGewDBs28kz2telpVGnVh+fn8GkPpIYyH01femVP6oiAs4mD9DFIPvt/Kbfyoi4NXjLhnAQX7wVFx39+kIIBpw97upaA2jen73+Hj9n0ePVpB0CADVp9t7WZltTgKTANo5ARH/PajejT299dZq/kUnQdjhOCDzb7/M5iiIdKC4qd8EwbFvAUEsw0Hw4t0CRleAodVBvWPFeqHIZwOj5w4DawBm4u9JsNmM9NFstnCmtVarCWkC0aVOON4nYJ0E7tq5Kzdwh2RfYmRd+XcKxG3Yu4pT5UbrtUYdw1Ibt/8lGBxtXPLYc56yvaxGtwPp7Lk021ySYFMSoiBa22IdOZJvQnMuawhnMTseN/mYbbko8QbuX7/xlMV6vucyY2eHvUoHVcMhLCEaJqOq7JKYYWVry+31kk/376wWQ94zJBrAKpfEQR2oX/SyjZtRFa0nvf3pahTkmlflgIq8+W2vmi0dOXOF5Kc8Fa7mf7raX7axpp5KRcOztdX+X9Zmf23/CxtHD0LWomxJAAAAAElFTkSuQmCC">Namecheckup</A>
+                <DT><A HREF="http://www.usersearch.org/" ADD_DATE="0" ICON="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAIAAACQkWg2AAACw0lEQVQ4jTXGS28bVRQA4HPuY2Y8dnDtuEkc11A1Ii1pqFCBgBDQSF1QKa0EYdEdLFixbn8FW/oHKlV0hcQOkaoSVAHaWEJEbgSWadwmdvzKNI7juR7P3HsuC8S3+tAQgbUJQStQG1sHEdnOKAnG5iDU3YjyOX8+n1KM1UfU1sxJOwIBkLEnfx9u7Bx+tpz/q6N2e2q/Pz5Q+s1z+cX59Pn5zFFsS0P9az+pvIzEdmOw1QpXX899/vbsz5VW5dlR/XDcHCZX3pq79kZu7dLMtz/tfXQhd+XsVL5+kmAkijnvfcE8h5mEP652/9wbBhOam81cmEuvX55Ju/JgMBlFeqngNY6TpiKWWNAW7j/abyuTTYluf4TGTPvitXzKd0S9E3aG8aPaIErMcsHNcGBZXy7Opr9aLXtx/Nt223cYEo3C+ETFiPh9pbdRDb77vdPoKkBIEsPuPGjUe+rhs2F5LpOSzMRGAvQDtbnTbwZKJfaUL7O+CGOqNMPdIBLr7xSLU7LWPOGIkiFow8FOxslu8/juw+fXLxc/XMxyBtWe+mUv3NpT4vSUc7/Svr5S+qfWbXVOXMH1RPsZ72J5yhXsmx9qVnDXd3oT+zSIhxZFPi0LHidNviscDpEhz+GvFlIri9PbL453GoNWqGXaTYQgV7qeZBbg6sXC3c1WqZjN+o5JdMYTNz44s98dPdnpHR4pjwFoIy1JS1aTQABguLrwykzO+/LTpe16cHPtfDsY33uw+1IZxhkYwzizhig20xkXiQgRAQDAAiAAENn12z9Wnw/GFsGRJAW4UgsRC/7Fx2WBiNZaawERjCHOcfOP1tNaf2IRJSdDgDSxiRa09t6ZW1fLAgAAABEQEdECQDollxfyjW44iLSxxJktFVKfrJS+vrZQnk6htRb+998RMRiMH1e7LzojYigd8e7S6UtnTwnOiOy/+ld3q/gOo70AAAAASUVORK5CYII=">User Search</A>
+                <DT><A HREF="https://whatsmyname.app/" ADD_DATE="0">WhatsMyName</A>
+            </DL><p>
+            <DT><H3 ADD_DATE="1670801292" LAST_MODIFIED="0">OSINT / Email</H3>
+            <DL><p>
+                <DT><A HREF="https://hunter.io/search/liongard.com" ADD_DATE="0">Find email addresses in seconds • Hunter (Email Hunter)</A>
+                <DT><A HREF="https://phonebook.cz/" ADD_DATE="0">Phonebook.cz - Intelligence X</A>
+                <DT><A HREF="https://www.voilanorbert.com/" ADD_DATE="0">Email Finder - Find anyone&#39;s email address — Norbert</A>
+                <DT><A HREF="https://tools.emailhippo.com/" ADD_DATE="0">Email Address Verifier - Validate and Check In Real Time | verifyemailaddress.io</A>
+                <DT><A HREF="https://email-checker.net/" ADD_DATE="0">Email Checker - Verify Email Address Online</A>
+                <DT><A HREF="https://chrome.google.com/webstore/detail/clearbit-connect-supercha/pmnhcgfcafcnkbengdcanjablaabjplo?hl=en" ADD_DATE="0">Clearbit Connect - Supercharge Gmail™ - Chrome Web Store</A>
+                <DT><A HREF="https://intelx.io/signup" ADD_DATE="0">Signup - Intelligence X</A>
+                <DT><A HREF="https://dehashed.com/" ADD_DATE="0" ICON="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAABLElEQVQ4jaXTSytGYRAH8J/Xy+tWRElkY8PCxlI+lK3kUygbJT4ACymykI2SFRv3SCnJyiW5XxbvnDyeWMjUNGf+zzzz/8+cc/in1f6AdWMQz7gPrA/9uMPTb81qIi7gA9ORV7Ad2Fhg5eJSKWnwEbExYkOC59hrztqDySgcQicugrkOI2jGEU5whlG8FY1GgqnwtyzPsZdCVbHEJ7RhD+1oxSkWsY/ekL+DVaxgLRn7my3GwUyC7QY2nheXk+eK6lLrI28Ib0yUNoW/4zFt1BfyDnATBdfBfICHwC5xiKWM3LC/LfFBtsQ73GIDXegIRVPYxEBIX8cs5rGV76Ow5WCZS7DjwCby4nSOuig6jfnP47ys+irbcBV5SfVf+dFKaPH1lRajNv924V/2CeilWQL7JOhLAAAAAElFTkSuQmCC">DeHashed — #FreeThePassword</A>
+            </DL><p>
+            <DT><H3 ADD_DATE="1670801292" LAST_MODIFIED="0">OSINT / Proxy</H3>
+            <DL><p>
+                <DT><A HREF="https://www.proxyswitcher.com/" ADD_DATE="0">Anonymous Browsing via Proxy Servers with Proxy Switcher</A>
+                <DT><A HREF="https://owasp.org/www-project-zap/" ADD_DATE="0">OWASP ZAP Zed Attack Proxy | OWASP</A>
+            </DL><p>
+            <DT><H3 ADD_DATE="1670801292" LAST_MODIFIED="1707497942">OSINT / Enumeration</H3>
+            <DL><p>
+                <DT><A HREF="http://nbtenum.sourceforge.net/" ADD_DATE="0">NetBIOS Enumerator</A>
+                <DT><A HREF="http://jxplorer.org/" ADD_DATE="0">JXplorer - an open source LDAP browser</A>
+                <DT><A HREF="https://whatismyipaddress.com/ip-lookup" ADD_DATE="0" ICON="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAADXUlEQVQ4jV2TS0ycdQDEf/9vd79ddpfHLizvt7gENQQqWFOJJNAa00tVNGkPVXtwg8aL2lMveqgkamLTQ2OKSavVkKbxosY2fUQIChxAEYWyS7uFsJUCS3d5fPv6np7Q4pzmMDOHyYzgf/joxqE2WZZC9f4negqdgcd0AxLpjXt59uLhrrpXv6j2Nc88qhe75L0rr+XlFWXPdDcceevJ8pckp8PHclpHWCbq3Vki82F822tmOKF8H1fV058NDPwOYNs1e4rs10KdH/ftqzwkCmQ3mmGxnTZQF2eZv7tIZUkVz9oz4kHKbEkFak50tbeFR0dHbksAOZd6pjd4qjueriWu6AB4HYKWYplwOEKusIxYdSsj57/jUuF+Jiufl4t8hRcGBgYCtjevHG7raXr5/MhKq+gIuGjwOwGQhEC3ILpwh5X1Db5SqxhteY4Fw8WaYvJKIOvM5NRpSUWENKlXCnodWOK/clK6ya2VLHXtz6DEovRs/0lGuPBKDs7uk8mmM3QeaO8Vp26ejEjy+8Hklo5qlzjYmE9XtZtzkR1md3TqChyEXKtc/fEnbHY7Pp8PwzAJBpsYtX5dshe4Shon41m2VbivW1zeyFI25yDUVECtx8alewrJqgAfnOjHuREjnclQVlpKVVUlv4xN1Eq6KcRazmA+o7Ga01EyOtFEjtPTCW4sKbxT7+bLTj/RjOBvXz35+fnM3Z4HQDOFkB6kHy4+XiizmVJxaAYOzSTPMFEyGguJLDs5A5dN0Ffr5mC5i63NLZaWlkkmN1lJJe5L0+uR4QMVBrJuoWQ0JN3AY5lYmoHQDByWtWepqqoSj68Tjt3ht/jCz5KQ8waTuRHrKb8Tm2GRzemksjpuy8JtWYzHFP7ayP4bYBg6iqIwFp3GJRcMSmPHLk8Nha99/XZHllK3HbcAdJNUTkMyDP5YTTH/MAfAN3NJLMA0TWqskqGJYxfHJYDSirp3P5n+fOLDbp3OCjdeu8BnExiaQatP5nCDl7OT61yNbiE3+qk6+vTU0b6+/j1neuH6Sc/syvK5N5pffD3o7REzqxLL2xoVXgc1+TKNfo2Z5E0uhq8PdRTX9f9w5NOdPQG7qL9wfP+OqYQ6S5p7yz2+GgvEajoZm1qPDBe5PIPR49+OP6r/B1nQh6D6zaQiAAAAAElFTkSuQmCC">Instant IP Address Lookup</A>
+                <DT><A HREF="https://www.whatsmydns.net/" ADD_DATE="0" ICON="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAIAAACQkWg2AAAB0ElEQVQ4jWMU9y1hIAWwEFThb/w+wPCmBP+XD984GjaaoGhgZGVlYmb+++MHXKQt+GqS2U4Ghn/ff7MU7PG4+YyDBa40PDHAx1L/1Y9/1evOfDu0h/Hntzynu0mGOxh+/f/8ky1mcdDJhzIMDAxMEA0iAR5GDiYuwuwsjAwssnKM2tZC3H/KbbYx/Pr//RtL9CKoaoQfODS19777Lf6bacnT7////uPg4eBg+//xI5MAB2Pmep9Tj2TQPf39/feLfxjv/P8fKsyabyF2/UffhhsfGf8yt+233XFLBdmfTAwMDJysDGbHu+a8DbZ8svjJkw86zC8tGbexsnAcuy855ZQZWqAxSfP9Phyz5uGj31euf6hnr3526+KOnTMKdrlkGlws3O2BGcrM/xRsb77mmu+2fecTk9ZTTq8eP/r97UOb1aGu41r3Pglhj7iDTxXmX3zWqLeqUZeVgZGF4e/3addMT72UwVSNCNapV8xefuJm+Pmb4cf3++8Fui5Y44h3mIYff1lmXjdh+MXA8Iuh/JTrj784kwwTnLXkvt7XH6ybHqkdeiWPSzUDAwMzj7oVhPXzHws/088Jdyw//2HHo4EROXkzMf7/958Rj2oGBgYAXti6ZI5XSLgAAAAASUVORK5CYII=">DNS Checker - DNS Propagation Check &amp; DNS Lookup</A>
+                <DT><A HREF="https://github.com/Tib3rius/AutoRecon" ADD_DATE="0">AutoRecon: AutoRecon is a multi-threaded network reconnaissance tool which performs automated enumeration of services.</A>
+                <DT><A HREF="https://www.stationx.net/nmap-cheat-sheet/" ADD_DATE="0" ICON="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAADGUlEQVQ4jY1Te0iVdxh+3t/3feeSZaTzmHaWl1gkElhj8zCUGrhuY7Mi2ehCiy5u1NoIBksW/Nj+GK22FFp2mVEsMmosqYRqtLXljXIVW7pMETP1HHV5ttSO53zf7/fuD62MscsLL7x/PM/L+z48jyGlFJcvJwkge1w34+/FhKJmA83/hXtS9A/z06ATp69uulh3O8NrWsOKtWl5XE5B3qxDhQWzewGQlJKklPpkdePsmmvtb8RG7CgROKb0xJws/3lzxLa7rzd1lba0h72GoQEycas1uIgf/FZI8VkDUkpdXn7BV/L5uSOh/uhcraJguJA9Iz6Y8oy3AgCwY/e555NzS7owrdhGWnHENWsbv7Bs52H+ASYPhnyB5btqkbGFkf72Q/iLdc6rn3bXXWudM/ZbkQGcUu9sr8yvvtL0XWfn7xYMKLfbay3Mn7nXVmr6pZr21207EmUW7sz0pN7tGwqWblyd1wBIMSZOkcE4pT8pq16//0TdoZ7u+4CA8sZNMGzbhmPbDjSZyb7JvasKc5Z+8dGbDYAUgNTj1RUM8IYPj6779vyt0vCfQ3EgaDAIIPKnJgzMfzFt+bE9G688uhoAxGO6lCCAvyoJnJmaPKkPGiSEABmkQYbwJcb98vUrO6+OckbJjxdIKQWk1KFQmy93TdXZlrb+GWSQ0o42WbEFUs7N5p6Xs/esLeMmaY73gZBSCimlHgwN+la8d+b0z009Ac2OzZrMtOmJoam++BAcNrVWqu1euDj7fVHGjQesRz4iAODhjpRFm6u/+b629SVHRUdYwZOaktD77tr5i2+23KOf6tsuBYPheFhku11ed1ZmYvmNvbFtlCFHqLLqx2e/PN54sqahI4DYMMPyUKp/yh/zcjOXVJaurweAzw5efGvfsdqKjjvdAgSGZyL5U+IOdvU92GoORY0Kl2llzQukB4UhTAhjKD83Y8fHW1+rH1Ub+GDTgqPhXVXu678myZjtQLNml2Wt3LIyr4+67j/0T0sYVgAJRIigBqI06bn+sQDxuDAxc2cqMIEQiQAA7vZ59P9J4r8m8i+kjFnsfUgLCQAAAABJRU5ErkJggg==">Nmap Cheat Sheet</A>
+                <DT><A HREF="https://netmarketshare.com/?options=%7B%22filter%22%3A%7B%22%24and%22%3A%5B%7B%22deviceType%22%3A%7B%22%24in%22%3A%5B%22Desktop%2Flaptop%22%5D%7D%7D%5D%7D%2C%22dateLabel%22%3A%22Trend%22%2C%22attributes%22%3A%22share%22%2C%22group%22%3A%22browser%22%2C%22sort%22%3A%7B%22share%22%3A-1%7D%2C%22id%22%3A%22browsersDesktop%22%2C%22dateInterval%22%3A%22Monthly%22%2C%22dateStart%22%3A%222019-11%22%2C%22dateEnd%22%3A%222020-10%22%2C%22segments%22%3A%22-1000%22%7D" ADD_DATE="0">Market share for mobile, browsers, operating systems and search engines | NetMarketShare</A>
+                <DT><A HREF="https://grabify.link/" ADD_DATE="0">Grabify IP Logger &amp; URL Shortener</A>
+                <DT><A HREF="https://threatbook.io/" ADD_DATE="1707097527" DESCRIPTION="ThreatBook CTI makes a better understanding of threat intelligence." ICON="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAB4ElEQVQ4jWWTvU5cQQyFP3uGTTYQNgHSkI4OGgokXoByJRoKKqQ8QRpEQRWJB6BCosrPO2yDREFJQUMdiBSlAolmEQICzJwUc+/dn1iyZF9f28f2GfsNXzN8SgBgDGTYriVX3xXBMvywX6AMomiTpMq20YAGYczAPJeq/3W3sWQxIlZ1zNEKFGuyQ8BAkgqCKmIAOZuZKedsDhJYrDo0DVJK5DEETW1QkszL2AYQ61nrHztbW7TX1vh7dsbT5SWT3S6538cmJugfHtrrlRXd9Xpmz88C8HpiAR8ODni/u0u6uSkFY+TV8jLvtrdRCIT5eeb2982np6kQWDQzskRrcZGp9XX+rK7ydHVFAF6AfHvL3N4eVzs7vFlYQI+PkHMznjc3abfRywvp+ro5R3Anzs5irRYxBCxGkDCJesEuCTfj6fyc54sLPh4f83Zzk8mNDZQzcsc6HZQScsdnZpB7IY5E+AxfvDh23+uptbRkU90u3m7zcHSESeS7Ox5PTzEJM+P+5ARLqSzhZ3UAq06jIeI5A4p6xcBc2fWYcYgDFswkdyOlchmpJLpDzgIsuKNckxcV9JUjCVJS5Q24XRLK4nOWDYDJDXzsoTTOsI7FaxK5G3yPow+l3smIjksABfj2D6FS2vLeEh7hAAAAAElFTkSuQmCC">ThreatBook Intelligence｜ThreatBook CTI</A>
+                <DT><A HREF="https://github.com/elceef/dnstwist" ADD_DATE="1707497942" DESCRIPTION="Domain name permutation engine for detecting homograph phishing attacks, typo squatting, and brand impersonation - elceef/dnstwist: Domain name permutation engine for detecting homograph phishing a..." ICON="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAABcUlEQVQ4jY3TO2tVURAF4LXvzeOqEATBQqsgCGLhAyWx0V9hYSv4Y6IEtUhA0EJrUUSwsQn+ATshgo9bKJaCMSJJ/Gzm4OFgxIENs/eaNe+dJEFLCS7hAd5jGz9Kv4+l7CeYxWoROvlVp5NtrGDUJ44wj+f+Xx5XwFHn5E4BL3ENG9jCR3wo/VVhL8p2pSMv4yd2sVZvMziOSZ1jmCvsdtl+x7mZJDeSzFVFuxgn2Wutfeq16DNaYbtJxkkOJrkevK1GbeNkry/9ybTujkV8K87rVH0wxey+Y/rjbIzNcvB1lKQlkeRQkgP9yH8htySTJAvFG4+STAs/kmSptaaaOCxhprUmyXKSoxV0GtyrdLaqjFP/yOA03mCvyl4PztflLp6U/hRnBsSHvX7t1OjPdgbrBVzArVqoxZ6DE4N1htXhKm/gHa7i4iD1Cb70nDwrzmho9KhndLiHLVSfdrDWbeVwPJ1+GTcx6b3N1y+8MuT8Bs7LR9lce+lpAAAAAElFTkSuQmCC">elceef/dnstwist: Domain name permutation engine for detecting homograph phishing attacks, typo squatting, and brand impersonation</A>
+            </DL><p>
+            <DT><H3 ADD_DATE="1670801292" LAST_MODIFIED="1713873180">OSINT / Shodan</H3>
+            <DL><p>
+                <DT><A HREF="https://2000.shodan.io/#/" ADD_DATE="0">Shodan 2000</A>
+                <DT><A HREF="https://exposure.shodan.io/#/US" ADD_DATE="0">Shodan Internet Exposure Dashboard</A>
+                <DT><A HREF="https://www.shodan.io/dashboard" ADD_DATE="0" ICON="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAC3klEQVQ4jX2Sy08TYRTFz/d9M51OS8tAtSJUgURtfaDGqGgKCilqhSgGHxu3Ji50pRvdGP8Fd25cGDRGMQjqwrcRMERFE0QJaBQE+oDy6ItpZ6Yz40aRhuDZ3Xtufjf35BIso46a+mrJIly0S9K2nKokknPJB6NZ27WzHx/Ji+e4xcVVgF4FjE5/4EBlZXnH6kCdjS8pgZ5MIt3fv8vS27f7JHCiDdDzADf8fsfaHH/OtkJqDAIiz2hpaeNBm6PGD4vHAyOTAXU44JmNHzudO3iirevZ3QXArerDzgo7fVxet6/W7tsAMAYlEgHndsPi8QAAqCjCVrUZfHcPnAwBAP8ALkG/XNkQqJUOBGD1eUEFKzLD35D58TMvE13OQEskQHSiL+7TFUWFTaLXC6vPB2oVAUIg+rygooj4q9cws1mooTBi99shR6JIUnTmhchbeRc4BioIeRtZgR3Rm62YffoCSjQKbSqGuXhiIG0RfuQB5ET6uzL6q1SbnARfUrJgpPs/IxuOQp3+AvtGHxw7d8ABsmVlKPzlGQveiWfNC6d6n86y46s8mk1VWvTZOZg5DdrMDKY7OhF/0w1lagquhnqsbAxC2lcDx/atxFZWypwc266FJrZurNr0kN0eHxlothfmjFisNts/wBJdPUgNDhnJSDhaVLWlwN18hBTsqQbvdoMrLoZQXgFTUUBnptdzY5MxBgCtYyPdTcXu9lRaHk7KSl98Xr6iUS65xl+93+n3gysuWjiNUAoiCJCHh2COjaYWPvHo29dfAXz9Wz9paGohhAAcW/LmVLDAVDVQEwJd4v5RTlUGsuEI1LHxJd784BCUcAQZk0wsxf9RsGxdyC7Pn+INXSKUgne5YOo6Uu/eI3avDenxiVTEwCWyHAAA2usOBSuc9jtOT5nEJAmGokINhZCZi6sjBjlz/Pmj1v8CAKDTH/QWMP28KPB7TcNkGcP4pBm564ffvPwAAL8B5I8meGZQoX0AAAAASUVORK5CYII=">Shodan Search Engine</A>
+                <DT><A HREF="https://en.fofa.info/" ADD_DATE="1712580023" DESCRIPTION="FOFA is a Cyberspace search engine. By conducting Cyberspace mapping, it can help researchers or enterprises quickly match network assets, such as vulnerability impact range analysis, application distribution statistics, and application popularity ranking statistics. FOFA is a powerful tool that can effectively improve cybersecurity and attack surface management." ICON="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAACfElEQVQ4jaWTW0hUURSGvzMc5yI6xZQXRDBvOREWFIZRKQbVRPgYSdZTQiRRkqhomviQYVJBNxIkH8TIHgIJSQgSpUwwqDBKUBnHtMh7M+PMme2x3YPMCc0eovW2N3t9m///11KklBeAUkDl30oHbihSSs96zV09/daBwc9mgKzMbcKVm62tBzGtbW5oarVnHD6R0NH31hGbkhwVn5oS1fHmrcN5pCChoanVvgagKlLKyfDpXM11x5IaYS2/VEyk1bLqZTAUouHGfYI/FkTbzbqZ8L0B6Orttz552eeoq7qEosD36XketnXi9S3i8weoLDlFQnwMdddukR6/2V9x9rQXwBQmNTa32QtOHkdRIKiFqLrazPtPbjyT08zM+5n8OoWiQEVpMS1PO6MMDQBDox5VtdnUzbExLEvJs+e9+AMaO9ITuFx2ZpUUm8VCXt5+unr6ra7cbM0EMOKZUJOTtwCwKHSkXALg4/AE1fXNNNx5jM8fMCC7dmYSTuiP+DR9GYCFmXE2bkpkeOwb5giV2Xkv0VGRK8YpCopi+i0hLSlRd7d3GJDFkCDgm+XowWxKzp9Z+wfvPgySv3e3MEx0pibpejCoezxfVnRGWgHI2O5ELP9cE6egu/sVrpyVwTJSKCsq9N67/QAhBHFxMVgsFuwbN7CgCaYDGnPBEFO+RSpq6rlZdXEu3GcAXDnZWv6BPd7qyjqi7XYetbeQvjUNAClh1D1OedkV9mdmeKWUCCFMqwYpXF29/dbG5ja7arMZybjdY+jBoF5WVOiVUlJc2+i4W1s6dyxvn/bXZRoa9agjngnDZGdqkg4ghDC9eD1gPrQvS5jNZqH87zr/Ak7pExCujn4zAAAAAElFTkSuQmCC">FOFA Search Engine</A>
+            </DL><p>
+            <DT><H3 ADD_DATE="1670801292" LAST_MODIFIED="1681675384">OSINT / Google Hacking</H3>
+            <DL><p>
+                <DT><A HREF="http://www.googleguide.com/" ADD_DATE="0">Google Guide</A>
+                <DT><A HREF="https://www.exploit-db.com/google-hacking-database" ADD_DATE="0">Google Hacking Database (GHDB)</A>
+                <DT><A HREF="https://infosecwriteups.com/uncover-hidden-gems-in-the-cloud-with-google-dorks-8621e56a329d" ADD_DATE="1679963039" DESCRIPTION="Find sensitive data in Amazon AWS, Google Cloud, and more" ICON="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAIAAACQkWg2AAABxUlEQVQ4jW2STWuTQRSFz7kzSRNNIlibqLRFUSlYsWI3upVuRPCv6D/zJ7h1I0IrKBUq1FaqxC9qmrzvfBwXk6YROosLM9xzz3DPw8FggPMOSUmlzr97kucKSndR/ieQRABEGWRE1pnDnGGZAiNQJ0wCCOSMSQCg4nAqA4EQFSIIWBVx/VK6sxTHAU2vm1diTIAkgZQkEnXUYif3u6mOsuOKm6vh6Xo9qhASnt+vei3FDKNOKqYMR41qPrtX97u5ijQjYmIV4RxHFXe/+QcrYRxYJzy6FbqtPA7od3OvnXcOfaclAwijGXPWhabeHbi1q9EIR7zcGm0sh19/7eFq/PLTjWo6gwGiVNa44LH/wxux2MkbK/H1++aNy7nhcPdafLvfaDeQMw2gwBIRiCx+OPKby2FtEF9tt6Lw+HYdEz4PXashASbJKKMkKuPiQn6z19xar3vtvDd0OweNF09Otg99yjACgBk1qTGqQUpA02F4bF//2O6Rbzp9+u5+n9jHI99qKJWEl/oDbyIVktk0zmloZpKQRaNmgHgjUqYEs2n4pwipcOQ4pQcgIA+UVs5QKERNvzgHX4HLz90LRWdszjCdkUfiHzfi/PUDqGgfAAAAAElFTkSuQmCC">Reveal the Cloud with Google Dorks</A>
+            </DL><p>
+            <DT><H3 ADD_DATE="1670801292" LAST_MODIFIED="0">OSINT / Sock Puppets</H3>
+            <DL><p>
+                <DT><A HREF="https://www.secjuice.com/the-art-of-the-sock-osint-humint/" ADD_DATE="0">The Art Of The Sock</A>
+                <DT><A HREF="https://www.reddit.com/r/OSINT/comments/dp70jr/my_process_for_setting_up_anonymous_sockpuppet/" ADD_DATE="0">My process for setting up anonymous sockpuppet accounts. : OSINT</A>
+                <DT><A HREF="https://www.fakenamegenerator.com/" ADD_DATE="0">Generate a Random Name - Fake Name Generator</A>
+                <DT><A HREF="https://www.thispersondoesnotexist.com/" ADD_DATE="0" ICON="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAIAAACQkWg2AAAC1UlEQVQ4jQXBy28TRxwA4PnNzK7X3sQOjk0S18XGNCHKg0ilj1DaQ1XEhQOCY6WeEFwQfwKXSvwVvbT3igs3kKqmlRASj0ZAcBICxI/YXu96H97x7nh3Z7bfBwTTFKUZhfz24O71mzdw9hSe2juP/hyzkPtM03NXf76dK9fbLx+PrMG9X3+nAEgI8cu1H76/uOpY5kwhCsZ2z/I2Ns6HQZgIGFsDy+jppc9B8B+/WqFCCE1Rrl5a8VwXJtzuHoKiJ2nODabfbm8bPXPUaw/6PZLN02RyeasGCKHV+sIfD+54tmMOuqHHCno+o+p+GEjpJ1j1WEAx9rlk/rhenacIoUZlXlOVF82mOzTnVFIoLS7WGp7tHDSbhtW1gzClWNWylh8RMAlCsF4r1Yqk0+oWtNza+uZS/RxVM4QShCnnUxFPWRD6kQinoljIEoRwrZRrlBXHZZtraw6Te2/2ZlVydPjhv7dHWMvqquK5EyYEAsgQwAjJQGqxgCDCpVLlybO9Ny17obpEtcy7E+fFgZFKvFQqRmyCklhEESWY7LeG7ZV8fWlh45vt+7VlSILq2bNiyr84t8yjRPJxp9Pd7/ZzQsQhYEqp6Xh/7Z6U8zMY40plASfhq793jt4e6ipeX6krgDiPZzW9PFPoezGhhCqUdqzxla8vNObU10+fEm3WaJuG5fJoOvzUGpueyyaVQtacpP8cdAnBFAMkUgx9/tOFer8/fPb8GKWK4wTvj0/m5jRVyJHLHu5+3O2MGI8IxhgBZCj91Buunql8t9UoFOfVMAl9dup0rljUQ5u9M+ydjwMWRgiAYKAACDBgBAddc3u9sfXlaqY0mz+tUSrs9tDz2L8to2MHFONYSAoYpQgJITOK8v5k8OTlfllFQSgjxkbHHcf1OZVSpizgWRUwVgklBKUIAJIkrp7ZvHXzyoyw93ebo57hjCdhKhMC1cX8Z8uXh37Mfet/WiKHbDsX+DoAAAAASUVORK5CYII=">This Person Does Not Exist</A>
+            </DL><p>
+            <DT><H3 ADD_DATE="1681675400" LAST_MODIFIED="1682864879">Bug Bounty</H3>
+            <DL><p>
+                <DT><A HREF="https://hackerone.com/bugs" ADD_DATE="1681675384" ICON="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAA1ElEQVQ4jcWSPQrCQBCFv1FBSGEjiSFtDmAX2ENYJN0eQcHWI3gAEfEUHsI+haWdrYKVRRplbFQ0/q0o+Lp98/ZjZhi41xJYAfUHNScpoEmSNF3ClWeFOI5rXwFc9TXAqU2gAfSBHTD6FJCKyFhVo9P7BvBuhCEwu/p8p5eANE0rnucVWZbNHTq9SAG11rZUta2qgzzPO2e/HH65AxFZAAtrbetZ5v938HtAGIYb3/e3xpji7BljiiAItlEUrct5KRuq2gOqwEREDievCnSBvYhMr/NHB6c23o7RPogAAAAASUVORK5CYII=">Inbox | HackerOne</A>
+                <DT><A HREF="https://bugcrowd.com/dashboard" ADD_DATE="1681675415" DESCRIPTION="Bugcrowd's bug bounty and vulnerability disclosure platform connects the global security researcher community with your business. Crowdsourced security testing, a better approach! Run your bug bounty programs with us." ICON="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAACZElEQVQ4jWWTTYjVZRjFf+f533v/d4JM70y6UBEJwgxy4WYIhdoq4kZBkJQwSrFcSAunRblqEfRBjIhumo2KbmblwoUQusmI3Ihoi74IIcIZHG2c+/E+p8W9QzK+8G7O85yzOOc5YsV7eJBVnQ4wt2LQgbk5GL/AwrOwAAwhSH/AHjf1HRk2KdIabVnGNJAKh3WWq8ucZQGxn3a+zM8htvAv0AKawyGADWpC9rgbS2xnhq7AMVJyTsSJEFvKSxsGZceBLBtfdenjtFyMDZk9BlGzNWs+1FAzAvDiu2wkOOWnJJsmoxy5FH7nAlQhehYJKASEB6SCqcWjrAccAtdtPotGrnYdGbdmxa0Z/MKEcJITa6BuiW4KkAupFp2W+VRg+Rg7U1yXCUclnpTI96ad2w5If93Gm7fD0iLV5SPmx2uKthLbiEEpvB1pzoRo2uB0EJhBX35xHP78ieqrvTD3G+XQFamzxtl3GJCoQ0yH4Z9hmCDJGNxso/kHxOwUunOTmD2Fx1bhzZNEH6MAgeBhVMlxFx4rGBmLhEzmMEIB2Wc5bgsrkJOFnvgodJ57pfCtmgQoEWbQlcc34F1T+JU3yL2fo6ePiF9/ME1SjQybb9pnuR8GNWq+cI8/onIAidPx9y/267spn3yP1r3mamafmZ/PaKnKJX6PBb40SMsnOXifw1XNTPbpuzUWygLZw2s3ofkH8LgPNRkNmnQ5qPNcHHGHXQAoR7lZjfEmXUYIMAAqhjfXSLzIDZ3jraFXZOOZVqWTk/T4uhhFgQQRItLOkkRiJR+P3NbKJv/v9GnCrPhD7DnSf87vM3rfSdBuAAAAAElFTkSuQmCC">Tasks - Dashboard - Bugcrowd</A>
+                <DT><A HREF="https://learn.adafruit.com/adafruit-1-3-color-tft-bonnet-for-raspberry-pi/python-setup" ADD_DATE="1682795772" DESCRIPTION="If you'd like a compact color display, with buttons and a joystick - we've got what you're looking for. The Adafruit 1.3&quot; Color TFT Bonnet for Raspberry Pi is the big sister to our mini PiTFT add-ons. This bonnet has 240x240 color pixels in an IPS TFT display controlled over SPI. This display is super small, only about 1.3&quot; diagonal, but since it is an IPS display, it's very readable with high contrast and visibility." ICON="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAC5klEQVQ4jVWTPUtraRSFn/fNSXJzlCRmEAvHL5RAijhCuoAD/oArWmhjKxZjYSn+A8H+FmIlYmEUCYJEkBEsFFFUEIwYRBRBkSTqFXPydd49hR9z74ZdbFh7sdZmbWXb9vdIJPJDKWUbY0Rrjeu6NDQ0kMvl6O/v5+7ujmq1yldplBJVKhaL/3haWlr+9fl8fyqlApZl2UopOxQK2RcXF/bExIS9vLxsO45jp9Npu6OjwzbG2FrpgGVZQZ/P97eltf4WDAYREQMopZS8vb0BMDMzg8/nI5lMAuD1ejHGKECMMVpEvlk/n39ye3sLoH5ptra26OzsBCAejxOLxXBdl0AggOM4KKUAsOJ/xZmcnEQphdaacrnM6uoq8Xj8y3JTUxPRaJR0Oo3f7ycajaKUolAooJLJZH5nZ+cPr9cr6oPWcRy01lQqFSzLwhjDwsICAPv7+6ysrAig2tvbCwD52dlZMcYY13WlXq/L09OTiIgsLS3J9fW1/FqlUkmy2axZXFwUpVSeeDyeB2Rzc9N8gjKZjGxsbEihUJBsNivb29viOI64risiIsYYc35+LkCetra2fCwWE8DMz8/L6+uriIhcXl5KqVSSq6srOTk5+VLguq6kUikDSGtra14bY/D7/QCEQiEaGxu5ublhb2+P+/t7Dg8P6evr4+Hhgd3dXaanpxkZGSEWi+HxeKC7uzsPyNDQkKnVaiIi8vLy8iX36OhIXNeVQqEggACSSCRMV1fXu4JAIADA4ODg18WDwSDPz88Ui0USiQQAkUiEubk5AMrl8v+pdl0XgIGBAQCq1Sq5XI7x8XEymQy8x/MdrPVvM4D1yXZ6eioHBwekUilZW1sDYH19HYDR0VG01p+LSiklIqIArEqlUu7p6WF4eFh/kKre3l5qtRoej4exsTGOj4+Zmpri8fERgHq9rj4Iy8q27e/hcPhHOBy2tdbiOM5vHiORCGdnZwAEAgGam5txXVcp9f7O/wEoRZmLgbulXQAAAABJRU5ErkJggg==">Adafruit 1.3&quot; Color TFT Bonnet for Raspberry Pi</A>
+            </DL><p>
+            <DT><H3 ADD_DATE="1709294019" LAST_MODIFIED="1709678180">AI</H3>
+            <DL><p>
+                <DT><A HREF="https://chat.hackerai.co/" ADD_DATE="1709294010" DESCRIPTION="Unlock the power of HackerGPT, your AI ethical hacking assistant, trained extensively on hacking knowledge. Swiftly identify, exploit, and mitigate vulnerabilities using cutting-edge AI expertise in hacking." ICON="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAABz0lEQVQ4jX2TTYjOURTGf+c/g/FRyliMyUIjSnaSb1mwoSjK11A2PrMZH9koNEqzUZqyZmehGWpkNhYMM0xmVjZKssEUGgtvM2/NjJ+F8/JPvU7dbvc89zznnnOfA3VMXa8OqsPqOvVM+qN8r0hnoS5Qt6tL1G7gFbAJ+AAsBVrVlRFhxjT/m7FF7VR7/G1P1cPqVbWiflW71Da1Vz1IKfsetV9tV3+qD9R96tskG1ZPq1fU8fQdUwN1VTom1fNJcFt9ok6oF9Rz6pB/bUr9rrYUwDfgRy4AgXlAN3AReA5sADYmPgU0ABNApQDGgTGgCfiSjZ0NLARuAs+Ah8AuYACYlURvIqJSRMRMZpkPLAMuAaPA8SRtAvYD24BHQGcSjJZ/YG+pvhfqTvVE9uWjulsdSLxdrapb/ugA6AfeA9PAZuBx1r0G6ALmZM3TwHJgEHgJUKhFRFSBG0BjEvYCr4GTwC3gAFBN7B1wPSJm1CiAmjQXA5+AU8BQ9qIDmAR6gEVAH7ACGAGoqRK1UT2itqr3S/24qx5S7+T5nrpVnVtvhlB3pJCOqpfVsQz+rK79X2DUJk09q14rvWREXZ1YQ12S2mzk3qb25bOby1jZfgE2L7PCBFXlPgAAAABJRU5ErkJggg==">HackerGPT</A>
+            </DL><p>
+        </DL><p>
+        <DT><H3 ADD_DATE="1707965143" LAST_MODIFIED="1707965149">SynAckTime</H3>
+        <DL><p>
+            <DT><H3 ADD_DATE="1707965149" LAST_MODIFIED="1729389120">YouTube</H3>
+            <DL><p>
+                <DT><A HREF="https://pixabay.com/music/search/80's%20synth/" ADD_DATE="1707965129" ICON="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAIAAACQkWg2AAACaUlEQVQ4jXWSP0wTcRTH3/td79q7o9eqx79Q/2CBBEpw0UFlMWgwtmXBqTqxNmEiJWFhQidCCB2YSIgmwM5giGAiDDSGYCQ6IJEEKFVpay3Xv3e/ew4lhIS4vc/L+35f8t4XQ4shACAiRCQiAACA/9UA4KgBIgIBIta6Nf3lGgAYIp5PE5FlW0QkMIHb3OTmmRdADYmIEVFtScEsAKAmeWyyjarhdXl1Rec2BwDLtlRRbVQbGTKh43kHAJi22X+7P/Yg9rL7Re/1hz8LvzVJm3oylS1nt1JbPs03+XhSV/SNow3GkJXMUt+tvpH7IyfFkzc7b6vcfP3oFQe+frgevRtt9bYO3RnSVX3p2xICYnAhCACzz2aPT49H10a5zWVRjvfHDdOY2JiIP41z4vVK/cynmeXvy27JzSzb8jg9uqwnjhMI2FTXVDHLiWTCf8WfKWdWfqy0uFuSp8m1/TVFVIiInZ2ZoMqrBbOQLWUJoau+6zB/eNNzc6BjYC+753P7BjsHi2aRIRPaBtsUUQm1h/JmXkDBf9UfCUR6b/TOfZ6LBCJelzf6LiqLcqQ7sv1r++j0yFF7h2mb4fZwuC0MCEbVmE5MN6gNPY09Yx/GcuXc/Jf5gB4Yvjccex87E4iCuPh1cXV/VZXUlJFKF9Od1zo3k5sHfw80p1bl1fGP4811zQyZg4AAQGJSykjtnOx4nB6GTBXV3T+7CCgJkk22yMR8JZ8upZ2C04GERJSr5IhIFVXZIXPiBOQSXABAQIhoky0wQWEKAWFwIciQaZJWtIoVXkHAywm9iI6aQaaUYYwxZOfZvJjQi/gPwjs1dlg2X6AAAAAASUVORK5CYII=">Synth Music | Pixabay</A>
+                <DT><A HREF="https://pixabay.com/music/search/ambience%20background/?theme=music+for+youtube+videos&theme=music+for+videos" ADD_DATE="1709678180" ICON="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAIAAACQkWg2AAACaUlEQVQ4jXWSP0wTcRTH3/td79q7o9eqx79Q/2CBBEpw0UFlMWgwtmXBqTqxNmEiJWFhQidCCB2YSIgmwM5giGAiDDSGYCQ6IJEEKFVpay3Xv3e/ew4lhIS4vc/L+35f8t4XQ4shACAiRCQiAACA/9UA4KgBIgIBIta6Nf3lGgAYIp5PE5FlW0QkMIHb3OTmmRdADYmIEVFtScEsAKAmeWyyjarhdXl1Rec2BwDLtlRRbVQbGTKh43kHAJi22X+7P/Yg9rL7Re/1hz8LvzVJm3oylS1nt1JbPs03+XhSV/SNow3GkJXMUt+tvpH7IyfFkzc7b6vcfP3oFQe+frgevRtt9bYO3RnSVX3p2xICYnAhCACzz2aPT49H10a5zWVRjvfHDdOY2JiIP41z4vVK/cynmeXvy27JzSzb8jg9uqwnjhMI2FTXVDHLiWTCf8WfKWdWfqy0uFuSp8m1/TVFVIiInZ2ZoMqrBbOQLWUJoau+6zB/eNNzc6BjYC+753P7BjsHi2aRIRPaBtsUUQm1h/JmXkDBf9UfCUR6b/TOfZ6LBCJelzf6LiqLcqQ7sv1r++j0yFF7h2mb4fZwuC0MCEbVmE5MN6gNPY09Yx/GcuXc/Jf5gB4Yvjccex87E4iCuPh1cXV/VZXUlJFKF9Od1zo3k5sHfw80p1bl1fGP4811zQyZg4AAQGJSykjtnOx4nB6GTBXV3T+7CCgJkk22yMR8JZ8upZ2C04GERJSr5IhIFVXZIXPiBOQSXABAQIhoky0wQWEKAWFwIciQaZJWtIoVXkHAywm9iI6aQaaUYYwxZOfZvJjQi/gPwjs1dlg2X6AAAAAASUVORK5CYII=">Ambience Background Music For Videos Music For Youtube Videos Music | No Copyright Song &amp; MP3 Free Downloads</A>
+                <DT><A HREF="https://en.fofa.info/" ADD_DATE="1712580024" DESCRIPTION="FOFA is a Cyberspace search engine. By conducting Cyberspace mapping, it can help researchers or enterprises quickly match network assets, such as vulnerability impact range analysis, application distribution statistics, and application popularity ranking statistics. FOFA is a powerful tool that can effectively improve cybersecurity and attack surface management." ICON="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAACfElEQVQ4jaWTW0hUURSGvzMc5yI6xZQXRDBvOREWFIZRKQbVRPgYSdZTQiRRkqhomviQYVJBNxIkH8TIHgIJSQgSpUwwqDBKUBnHtMh7M+PMme2x3YPMCc0eovW2N3t9m///11KklBeAUkDl30oHbihSSs96zV09/daBwc9mgKzMbcKVm62tBzGtbW5oarVnHD6R0NH31hGbkhwVn5oS1fHmrcN5pCChoanVvgagKlLKyfDpXM11x5IaYS2/VEyk1bLqZTAUouHGfYI/FkTbzbqZ8L0B6Orttz552eeoq7qEosD36XketnXi9S3i8weoLDlFQnwMdddukR6/2V9x9rQXwBQmNTa32QtOHkdRIKiFqLrazPtPbjyT08zM+5n8OoWiQEVpMS1PO6MMDQBDox5VtdnUzbExLEvJs+e9+AMaO9ITuFx2ZpUUm8VCXt5+unr6ra7cbM0EMOKZUJOTtwCwKHSkXALg4/AE1fXNNNx5jM8fMCC7dmYSTuiP+DR9GYCFmXE2bkpkeOwb5giV2Xkv0VGRK8YpCopi+i0hLSlRd7d3GJDFkCDgm+XowWxKzp9Z+wfvPgySv3e3MEx0pibpejCoezxfVnRGWgHI2O5ELP9cE6egu/sVrpyVwTJSKCsq9N67/QAhBHFxMVgsFuwbN7CgCaYDGnPBEFO+RSpq6rlZdXEu3GcAXDnZWv6BPd7qyjqi7XYetbeQvjUNAClh1D1OedkV9mdmeKWUCCFMqwYpXF29/dbG5ja7arMZybjdY+jBoF5WVOiVUlJc2+i4W1s6dyxvn/bXZRoa9agjngnDZGdqkg4ghDC9eD1gPrQvS5jNZqH87zr/Ak7pExCujn4zAAAAAElFTkSuQmCC">FOFA Search Engine</A>
+                <DT><A HREF="https://soundraw.io/" ADD_DATE="1729389116" DESCRIPTION="Discover the power of AI generated music with our platform. Create unique songs in just a few clicks. Edit & personalize the songs you create to your specific needs. Generate unlimited royalty-free music to use in your songs, projects and videos. Distribute your songs anywhere and earn 100% of the royalties. Keep the license forever, even if you unsubscribe." ICON="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAIAAACQkWg2AAABlklEQVQ4jWNgoDVgROPLyws11Xu5uGjwcLPfu/dm7/5bs2YfvXX7FVwBC7JqURGeY4eKpKT4IVwDAxkDA5mHD9/h1JCRbgNR/fDRu6XLzqiqiJqays+ac5RTw5SJnfPrxUMoGgRdY4zMBCDsvgn7Jk0+yMDAwMfHwW7swa1v/2bdZIgUM8IuIXHfBG9t0R+ff7OcFvSRFWXn+v3+yS9BFgGxt+um/Pv6EV3Dv+9ff5lFBqq82fRUIUHj8TcFq2mlGgxGvtcWTvv46QdcGROc9ffT29Pnn7vFb7ty5yMnww8htl/3PvPoyHOsWZWCPYCZeQV5zT0FnCOZ+YRERLiLq/wLjx5/93Xm/9+TZWQEMFTzi4jF14rIySQmWEBEWFmYP73r/v978v/fk5WVRNAjjkvb6u/nd02Z6mUlLhcuPjl27L6urpStjTIDA8OrV5+l5Gr+/v2HooGBgYGdneXxg2ZRER5km//9+x+XuHjpstMItyA8/fff0mVnfvz4zcHBys7O8u7dt337b2XmrNy85Qp2T9MKAABQdZiQkg5FlwAAAABJRU5ErkJggg==">AI Music Generator SOUNDRAW</A>
+            </DL><p>
+        </DL><p>
+    </DL><p>
+    <DT><H3 ADD_DATE="1670801275" LAST_MODIFIED="1730074490">Trash</H3>
+    <DL><p>
+        <DT><A HREF="http://sky.cyanidesyndrome.com:32781/" ADD_DATE="0">NZBGet</A>
+        <DT><H3 ADD_DATE="1727879083" LAST_MODIFIED="1727879083" SPEEDDIAL="true">Shopping</H3>
+        <DL><p>
+            <DT><A HREF="https://vivaldi.com/bk/sd-temu" ADD_DATE="1727879083" DESCRIPTION="shopping">Temu</A>
+            <DT><A HREF="https://vivaldi.com/bk/sd-shein" ADD_DATE="1727879083" DESCRIPTION="shopping">SHEIN</A>
+        </DL><p>
+        <DT><H3 ADD_DATE="1727879083" LAST_MODIFIED="1727879083" SPEEDDIAL="true">Travel</H3>
+        <DL><p>
+        </DL><p>
+        <DT><A HREF="https://mail.proton.me/u/6/trash" ADD_DATE="1727032099" DESCRIPTION="Proton Mail is based in Switzerland and uses advanced encryption to keep your data safe. Apps available for Android, iOS, and desktop devices.">Trash | BenJonesVA@protonmail.com | Proton Mail</A>
+        <DT><A HREF="https://www.ymcacva.org/schedules" ADD_DATE="1724544997">Schedules | YMCA of Central Virginia</A>
+        <DT><A HREF="https://www.google.com/search?q=skinners&oq=skinners&sourceid=chrome-mobile&ie=UTF-8" ADD_DATE="1723114842">skinners - Google Search</A>
+        <DT><A HREF="https://npm.encrypt.monster/" ADD_DATE="0">Nginx Proxy Manager</A>
+        <DT><A HREF="https://npm.encrypt.monster:9443/#!/auth" ADD_DATE="0">Portainer | NerdRack</A>
+        <DT><A HREF="https://cloud9.encrypt.monster:9443/#!/auth" ADD_DATE="1672108031">Cloud9 - Portainer</A>
+        <DT><A HREF="https://cloud9.encrypt.monster/" ADD_DATE="0">Cloud9 - NPM</A>
+        <DT><A HREF="http://facebook.com/" ADD_DATE="1670802748">http://facebook.com/</A>
+    </DL><p>
+</DL><p>
