@@ -776,42 +776,4 @@
 
 [HackerGPT](https://chat.hackerai.co/)
 
-### SynAckTime
 
-### YouTube
-
-[Synth Music | Pixabay](https://pixabay.com/music/search/80's%20synth/)
-
-[Ambience Background Music For Videos Music For Youtube Videos Music | No Copyright Song & MP3 Free Downloads](https://pixabay.com/music/search/ambience%20background/?theme=music+for+youtube+videos&theme=music+for+videos)
-
-[FOFA Search Engine](https://en.fofa.info/)
-
-[AI Music Generator SOUNDRAW](https://soundraw.io/)
-
-### Trash
-
-[NZBGet](http://sky.cyanidesyndrome.com:32781/)
-
-### Shopping
-
-[Temu](https://vivaldi.com/bk/sd-temu)
-
-[SHEIN](https://vivaldi.com/bk/sd-shein)
-
-### Travel
-
-[Trash | BenJonesVA@protonmail.com | Proton Mail](https://mail.proton.me/u/6/trash)
-
-[Schedules | YMCA of Central Virginia](https://www.ymcacva.org/schedules)
-
-[skinners - Google Search](https://www.google.com/search?q=skinners&oq=skinners&sourceid=chrome-mobile&ie=UTF-8)
-
-[Nginx Proxy Manager](https://npm.encrypt.monster/)
-
-[Portainer | NerdRack](https://npm.encrypt.monster:9443/#!/auth)
-
-[Cloud9 - Portainer](https://cloud9.encrypt.monster:9443/#!/auth)
-
-[Cloud9 - NPM](https://cloud9.encrypt.monster/)
-
-[http://facebook.com/](http://facebook.com/)
